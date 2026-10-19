@@ -1,0 +1,11 @@
+{
+  "road_profiles": 1658,
+  "shared_profile_nodes": 44250,
+  "network_edges": 44638,
+  "profile_roughness_rms_before_m": 0.1804885825794424,
+  "profile_roughness_rms_after_m": 0.015575964030176654,
+  "rms_height_adjustment_m": 0.871590849252416,
+  "max_height_adjustment_m": 13.557034237795015,
+  "max_shared_junction_gap_m": 0,
+  "note": "Illustrative smoothing of network elevation; not engineered road gradients. Plan geometry retained, cross sections flattened."
+}

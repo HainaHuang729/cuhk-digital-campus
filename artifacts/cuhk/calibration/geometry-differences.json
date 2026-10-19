@@ -1,0 +1,320 @@
+{
+  "matching": {
+    "sourceId": "B39468310600106011",
+    "method": "Highest intersection-over-union of XY union of projected official triangles against existing OSM building footprint. Next candidate IoU < 0.013; no name or nearest-center guess.",
+    "confidence": "high geometric identity, no official university-name attribute"
+  },
+  "footprint": {
+    "currentAreaM2": 2599.98211483139,
+    "officialProjectedAreaM2": 2416.4917058906103,
+    "intersectionOverUnion": 0.8531490455628582,
+    "centroidOffsetEastNorthM": [
+      -1.576089250722319,
+      -1.7720187862500154
+    ],
+    "centroidOffsetM": 2.3715201675434723,
+    "symmetricHausdorffM": 4.407882781967741,
+    "boundaryDistanceMedianM": 1.2889856626533642,
+    "note": "Reference is full projected building geometry, including overhangs; current comparison is OSM shell footprint, not legal/cadastral footprint. Centroid delta includes shape difference, not a recommended rigid translation."
+  },
+  "height": {
+    "modelMainRoofHKPDM": 111.6,
+    "modelEquipmentTopHKPDM": 117.6,
+    "officialFlatTopIfECEFEllipsoidConvertedToHKPDM": 114.3999373847964,
+    "officialFlatTopRawEllipsoidM": 111.60012815985829,
+    "modelMinusConvertedReferenceRoofM": -2.799937384796408,
+    "datumAmbiguityM": 2.79872323657381,
+    "CEDDMainRoofM": {
+      "min": 111.4068,
+      "p05": 111.4658,
+      "median": 111.6072,
+      "p95": 111.7426,
+      "max": 111.894
+    },
+    "CEDDStatus": "2020 LiDAR DSM already used by current model correction; not independent proof.",
+    "officialRoofStatus": "Uniform flat top. Does not resolve end equipment and stepped roof; vertical semantic of API source not explicitly stated beyond WGS84."
+  },
+  "terrain": {
+    "sampleBoundsLocalEastNorthM": [
+      0,
+      -155,
+      160,
+      -40
+    ],
+    "displayMinusDtmOutsideFootprint3mM": {
+      "min": -9.3988,
+      "p05": -2.3727,
+      "median": -0.2109,
+      "p95": 1.1412,
+      "max": 6.7035
+    },
+    "displayMinusDtmOutsideFootprintAndRoads3mM": {
+      "min": -9.3136,
+      "p05": -2.6314,
+      "median": -0.1181,
+      "p95": 1.6915,
+      "max": 6.7035
+    },
+    "samplesOutsideFootprintAndRoads": 8901,
+    "method": "Current preserved 1m terrain grid bilinear heights vs native 0.5m DTM center values sampled every1m; excludes building +3m, separately roads+3m. DTM under buildings is interpolated bare earth, not ground floor."
+  },
+  "roads": {
+    "rows": [
+      {
+        "id": "33412273",
+        "name": "University Avenue",
+        "sampleTriangles": 335,
+        "modelTopMinusDtmM": {
+          "min": -0.0492,
+          "p05": 0.0114,
+          "median": 0.0905,
+          "p95": 0.2,
+          "max": 0.2689
+        },
+        "distanceToCurrentFootprintM": 24.091,
+        "distanceToOfficialProjectionM": 22.473
+      },
+      {
+        "id": "135191008",
+        "name": "Clinic Road",
+        "sampleTriangles": 51,
+        "modelTopMinusDtmM": {
+          "min": -0.0386,
+          "p05": 0.048,
+          "median": 0.1661,
+          "p95": 0.316,
+          "max": 0.3828
+        },
+        "distanceToCurrentFootprintM": 16.042,
+        "distanceToOfficialProjectionM": 18.133
+      },
+      {
+        "id": "135265605",
+        "name": "service",
+        "sampleTriangles": 456,
+        "modelTopMinusDtmM": {
+          "min": -1.3165,
+          "p05": -1.2399,
+          "median": 0.0289,
+          "p95": 0.1819,
+          "max": 0.263
+        },
+        "distanceToCurrentFootprintM": 3.212,
+        "distanceToOfficialProjectionM": 4.367
+      },
+      {
+        "id": "136995431",
+        "name": "footway",
+        "sampleTriangles": 52,
+        "modelTopMinusDtmM": {
+          "min": -7.6988,
+          "p05": -7.5923,
+          "median": -4.8868,
+          "p95": 1.5993,
+          "max": 2.584
+        },
+        "distanceToCurrentFootprintM": 34.125,
+        "distanceToOfficialProjectionM": 32.102
+      },
+      {
+        "id": "136995432",
+        "name": "footway",
+        "sampleTriangles": 57,
+        "modelTopMinusDtmM": {
+          "min": 0.325,
+          "p05": 0.4676,
+          "median": 3.1945,
+          "p95": 7.7674,
+          "max": 7.7729
+        },
+        "distanceToCurrentFootprintM": 21.502,
+        "distanceToOfficialProjectionM": 21.907
+      },
+      {
+        "id": "188010211",
+        "name": "footway",
+        "sampleTriangles": 170,
+        "modelTopMinusDtmM": {
+          "min": -1.0148,
+          "p05": -0.9088,
+          "median": -0.1221,
+          "p95": 1.0841,
+          "max": 1.6714
+        },
+        "distanceToCurrentFootprintM": 25.893,
+        "distanceToOfficialProjectionM": 27.753
+      },
+      {
+        "id": "188010215",
+        "name": "Engineering Bridge",
+        "sampleTriangles": 130,
+        "modelTopMinusDtmM": {
+          "min": 6.8276,
+          "p05": 6.8612,
+          "median": 12.3123,
+          "p95": 15.3291,
+          "max": 15.6957
+        },
+        "distanceToCurrentFootprintM": 23.613,
+        "distanceToOfficialProjectionM": 23.438
+      },
+      {
+        "id": "195863155",
+        "name": "University Avenue",
+        "sampleTriangles": 245,
+        "modelTopMinusDtmM": {
+          "min": -0.8369,
+          "p05": -0.6029,
+          "median": 0.1563,
+          "p95": 0.95,
+          "max": 1.2352
+        },
+        "distanceToCurrentFootprintM": 4.005,
+        "distanceToOfficialProjectionM": 3.432
+      },
+      {
+        "id": "217711478",
+        "name": "steps",
+        "sampleTriangles": 60,
+        "modelTopMinusDtmM": {
+          "min": -1.0766,
+          "p05": -0.7402,
+          "median": -0.1288,
+          "p95": 0.5447,
+          "max": 0.7595
+        },
+        "distanceToCurrentFootprintM": 47.895,
+        "distanceToOfficialProjectionM": 49.309
+      },
+      {
+        "id": "218424331",
+        "name": "footway",
+        "sampleTriangles": 96,
+        "modelTopMinusDtmM": {
+          "min": 3.082,
+          "p05": 3.2752,
+          "median": 3.5642,
+          "p95": 3.6869,
+          "max": 3.7467
+        },
+        "distanceToCurrentFootprintM": 0.0,
+        "distanceToOfficialProjectionM": 1.768
+      },
+      {
+        "id": "218424332",
+        "name": "steps",
+        "sampleTriangles": 120,
+        "modelTopMinusDtmM": {
+          "min": -1.8855,
+          "p05": -1.7591,
+          "median": 0.0599,
+          "p95": 1.7141,
+          "max": 2.4799
+        },
+        "distanceToCurrentFootprintM": 0.0,
+        "distanceToOfficialProjectionM": 0.0
+      },
+      {
+        "id": "230129215",
+        "name": "service",
+        "sampleTriangles": 92,
+        "modelTopMinusDtmM": {
+          "min": -0.0456,
+          "p05": 0.0502,
+          "median": 0.4102,
+          "p95": 0.9569,
+          "max": 1.4482
+        },
+        "distanceToCurrentFootprintM": 0.0,
+        "distanceToOfficialProjectionM": 0.12
+      },
+      {
+        "id": "445173962",
+        "name": "Chung Chi Road",
+        "sampleTriangles": 145,
+        "modelTopMinusDtmM": {
+          "min": -1.0081,
+          "p05": -0.9243,
+          "median": -0.2827,
+          "p95": 1.0429,
+          "max": 1.2224
+        },
+        "distanceToCurrentFootprintM": 12.675,
+        "distanceToOfficialProjectionM": 12.163
+      },
+      {
+        "id": "534476375",
+        "name": "steps",
+        "sampleTriangles": 279,
+        "modelTopMinusDtmM": {
+          "min": -1.7732,
+          "p05": -1.0766,
+          "median": -0.2108,
+          "p95": 0.7503,
+          "max": 1.3085
+        },
+        "distanceToCurrentFootprintM": 0.0,
+        "distanceToOfficialProjectionM": 0.0
+      },
+      {
+        "id": "696387733",
+        "name": "service",
+        "sampleTriangles": 118,
+        "modelTopMinusDtmM": {
+          "min": -1.4336,
+          "p05": -1.0138,
+          "median": 0.1792,
+          "p95": 5.0003,
+          "max": 6.5119
+        },
+        "distanceToCurrentFootprintM": 7.874,
+        "distanceToOfficialProjectionM": 8.774
+      },
+      {
+        "id": "893061087",
+        "name": "Central Avenue",
+        "sampleTriangles": 387,
+        "modelTopMinusDtmM": {
+          "min": -0.7326,
+          "p05": -0.664,
+          "median": 0.1085,
+          "p95": 0.2812,
+          "max": 0.4446
+        },
+        "distanceToCurrentFootprintM": 1.729,
+        "distanceToOfficialProjectionM": 4.096
+      },
+      {
+        "id": "985480338",
+        "name": "service",
+        "sampleTriangles": 140,
+        "modelTopMinusDtmM": {
+          "min": -2.9002,
+          "p05": -2.4461,
+          "median": -0.25,
+          "p95": 1.2546,
+          "max": 1.7654
+        },
+        "distanceToCurrentFootprintM": 0.0,
+        "distanceToOfficialProjectionM": 0.0
+      },
+      {
+        "id": "1349568930",
+        "name": "steps",
+        "sampleTriangles": 66,
+        "modelTopMinusDtmM": {
+          "min": -8.8937,
+          "p05": -8.3693,
+          "median": -4.1401,
+          "p95": 0.3427,
+          "max": 0.3501
+        },
+        "distanceToCurrentFootprintM": 25.125,
+        "distanceToOfficialProjectionM": 22.98
+      }
+    ],
+    "method": "Existing road triangle centers vs nearest 1m subset of native DTM, scoped to sample. Difference may indicate constructed grade, bridge, retaining works or epoch; not automatic road error. Distances use horizontal road-top triangle union."
+  },
+  "correctionApplied": false,
+  "decision": "Retain existing Blender and local detailed building. Flag footprint edges, terrace/road grading and vertical datum ambiguity for field/photo checks; no blind resize, translation or terrain reset."
+}

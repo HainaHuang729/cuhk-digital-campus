@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "description": "Offline Digital Campus asset conversion; not a browser dependency.",
+  "scripts": { "build": "node build_digital_campus.mjs", "validate": "node validate_digital_campus.mjs" },
+  "dependencies": {
+    "@gltf-transform/core": "4.5.0",
+    "@gltf-transform/extensions": "4.5.0",
+    "@gltf-transform/functions": "4.5.0",
+    "draco3dgltf": "1.5.7",
+    "meshoptimizer": "1.3.0"
+  }
+}

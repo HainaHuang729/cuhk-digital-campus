@@ -1,0 +1,128 @@
+{
+  "osm_id": "107139044",
+  "source_blend": "C:\\Users\\Amadeus\\Documents\\桌游主持人\\artifacts\\cuhk\\CUHK_sports_leveled.blend",
+  "output_blend": "C:\\Users\\Amadeus\\Documents\\桌游主持人\\artifacts\\cuhk\\CUHK_shaw_science_corrected.blend",
+  "old_modeled_height_m": 9.9,
+  "old_roof_hkpd_m": 90.64875030517578,
+  "main_roof_hkpd_m": 111.6,
+  "raised_end_roof_hkpd_m": 117.6,
+  "roof_correction_m": 20.951249694824213,
+  "reference_base_hkpd_m": 80.74874877929688,
+  "modeled_height_with_roof_structures_m": 36.85125122070312,
+  "official_storeys": 6,
+  "visible_glazing_bands": 5,
+  "glazing_base_hkpd_m": 85.8906239827474,
+  "facade_records": [
+    {
+      "osm_id": "107139044",
+      "name": "逸夫科學大樓",
+      "status": "photo_guided_facade",
+      "scope": "exterior",
+      "facade_style": "colorful_glass_fins",
+      "photo_url": "https://www.cuhk.edu.hk/english/images/campus/photos/large/buildings/42.jpg",
+      "source_page": "https://www.cuhk.edu.hk/english/campus/cuhk-campus-map.html?buildingcode=H34",
+      "observations": "Distinctive contemporary multi-wing building: blue reflective glazing with irregular orange, lime green and blue vertical strips; dark charcoal solid end towers and rooftop perforated screens.",
+      "window_modules": 595,
+      "floors_modeled": 5,
+      "geometry_vertices": 11872
+    }
+  ],
+  "end_structures": [
+    {
+      "end": "west",
+      "roof_hkpd_m": 117.6,
+      "footprint_xy": [
+        [
+          36.25,
+          -125.25
+        ],
+        [
+          46.25,
+          -117.25
+        ],
+        [
+          49.75,
+          -113.75
+        ],
+        [
+          49.75,
+          -112.75
+        ],
+        [
+          47.75,
+          -108.75
+        ],
+        [
+          40.25,
+          -100.25
+        ],
+        [
+          39.75,
+          -99.75
+        ],
+        [
+          39.25,
+          -99.75
+        ],
+        [
+          35.25,
+          -102.75
+        ],
+        [
+          28.25,
+          -108.25
+        ],
+        [
+          26.75,
+          -109.75
+        ],
+        [
+          30.75,
+          -119.75
+        ],
+        [
+          35.25,
+          -124.75
+        ]
+      ]
+    },
+    {
+      "end": "east",
+      "roof_hkpd_m": 117.6,
+      "footprint_xy": [
+        [
+          111.75,
+          -89.75
+        ],
+        [
+          129.75,
+          -89.75
+        ],
+        [
+          131.75,
+          -89.25
+        ],
+        [
+          132.25,
+          -87.25
+        ],
+        [
+          129.25,
+          -71.25
+        ],
+        [
+          111.75,
+          -71.25
+        ],
+        [
+          111.25,
+          -80.75
+        ]
+      ]
+    }
+  ],
+  "foundation_bottom_hkpd_m": 71.0,
+  "terrain_vertices_changed": 1473,
+  "roads_and_sports_geometry_unchanged": true,
+  "height_status": "DSM and photographs support conceptual roof reconstruction; no surveyed architectural floor heights."
+}

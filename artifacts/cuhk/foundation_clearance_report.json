@@ -1,0 +1,9 @@
+[
+  {
+    "osm_id": "135193165",
+    "floor_clearance_level_m": 105.00332183837891,
+    "changed_samples": 1129,
+    "max_lowering_m": 7.927613438921981,
+    "basis": "Verified Residence Road ground paths104-108m and CEDD DTM; remove local shoulder mound from lower facade, preserve upper passages."
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "building_details": {
+    "buildings": 195,
+    "windows": 36808,
+    "floor_bands": 8731,
+    "parapet_segments": 2285,
+    "roof_equipment": 246,
+    "entrance_canopies": 178,
+    "vertices": 1121376,
+    "faces": 622264,
+    "illustrative": true,
+    "nonfinite_vertices": 0
+  },
+  "site_details": {
+    "roads_with_edges": 181,
+    "roads_with_dashes": 54,
+    "road_dashes": 914,
+    "streetlamps": 157,
+    "soccer_fields": 3,
+    "basketball_courts": 7,
+    "tennis_courts": 9,
+    "running_tracks": 2,
+    "swimming_pools": 1,
+    "football_goals": 6,
+    "objects": 9,
+    "vertices": 159724
+  },
+  "vegetation": {
+    "trees": 1374,
+    "shared_crown_meshes": 8,
+    "OSM_timestamp": "2026-09-08T05:27:26Z"
+  },
+  "source_buildings_preserved": 370
+}

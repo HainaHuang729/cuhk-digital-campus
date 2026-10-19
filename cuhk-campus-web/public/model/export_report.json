@@ -1,0 +1,2219 @@
+{
+  "source": "C:\\Users\\Amadeus\\Documents\\桌游主持人\\artifacts\\cuhk\\CUHK_shaw_science_corrected.blend",
+  "source_unchanged": true,
+  "generated_utc": "2026-09-25T03:55:28.858702+00:00",
+  "coordinate_conversion": "Blender (x,y,z) metres -> glTF/Three.js (x,z,-y) metres",
+  "files": [
+    {
+      "file": "terrain.glb",
+      "bytes": 14566228,
+      "objects": 2,
+      "triangles": 5269222,
+      "vertices": 2637568
+    },
+    {
+      "file": "campus.glb",
+      "bytes": 20076888,
+      "objects": 374,
+      "triangles": 2343302,
+      "vertices": 1878606
+    }
+  ],
+  "terrain": {
+    "source_triangles": 11520000,
+    "web_triangles": 5265370,
+    "protected_1m_blocks": 39084,
+    "total_8m_blocks": 90000,
+    "protected_area_m2": 2501376,
+    "near_road_sport_building_heights_changed": false,
+    "original_diagonals_preserved_in_protected_blocks": true,
+    "shared_boundary_vertices_stitched": true,
+    "coarse_block_size_m": 8
+  },
+  "source_groups": {
+    "01": {
+      "source_objects": 2,
+      "triangles": 3852
+    },
+    "02": {
+      "source_objects": 197,
+      "triangles": 55732
+    },
+    "03": {
+      "source_objects": 165,
+      "triangles": 7040
+    },
+    "04": {
+      "source_objects": 1602,
+      "triangles": 455700
+    },
+    "05": {
+      "source_objects": 97,
+      "triangles": 12680
+    },
+    "07": {
+      "source_objects": 59,
+      "triangles": 212408
+    },
+    "08": {
+      "source_objects": 9,
+      "triangles": 76762
+    },
+    "09": {
+      "source_objects": 1374,
+      "triangles": 472656
+    },
+    "11": {
+      "source_objects": 139,
+      "triangles": 543197
+    },
+    "14": {
+      "source_objects": 2,
+      "triangles": 1085930
+    }
+  },
+  "buildings": 369,
+  "materials": 323,
+  "flipped_sports_water_faces": 12680,
+  "draco_position_bits": 24,
+  "material_double_sided": true,
+  "roads_sports_surface_geometry_simplified": false,
+  "campus_material_triangles": {
+    "web_building_135311802": {
+      "M_Photo_135311802_Wall_f33ec6b5": 3734,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 38,
+      "M_Photo_ShadowGlazing_a20a9bd4": 112,
+      "M_Photo_Aluminium_b1d0eadc": 672,
+      "M_Photo_135311802_Accent_d4d71e1f": 112
+    },
+    "web_building_135787366": {
+      "M_Photo_135787366_Wall_0837ddc0": 138,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 18,
+      "M_Photo_ShadowGlazing_a20a9bd4": 240,
+      "M_Photo_Aluminium_b1d0eadc": 240
+    },
+    "web_building_2325105": {
+      "M_Photo_2325105_Wall_4b7a244a": 3158,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 194,
+      "M_Photo_ShadowGlazing_a20a9bd4": 882,
+      "M_Photo_Aluminium_b1d0eadc": 882
+    },
+    "web_building_135265606": {
+      "M_Photo_135265606_Wall_bed803cc": 5997,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 87,
+      "M_Photo_ShadowGlazing_a20a9bd4": 152
+    },
+    "web_building_135191897": {
+      "M_Photo_135191897_Wall_0fc3a1d4": 3654,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 78,
+      "M_Photo_ShadowGlazing_a20a9bd4": 120
+    },
+    "web_building_135265607": {
+      "M_Facade_pale_concrete_9c8b8db4": 90,
+      "M_Roof_weathered_concrete_cff40be3": 18
+    },
+    "web_building_194547399": {
+      "M_Photo_194547399_Wall_240f1338": 8885,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 131,
+      "M_Photo_ShadowGlazing_a20a9bd4": 294,
+      "M_Photo_194547399_Accent_5e9d6729": 1512
+    },
+    "web_building_135156234": {
+      "M_Photo_135156234_Wall_6819a4d8": 3702,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 54,
+      "M_Photo_ShadowGlazing_a20a9bd4": 132
+    },
+    "web_building_135311814": {
+      "M_Photo_135311814_Wall_4a87da37": 1212,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 48,
+      "M_Photo_ShadowGlazing_a20a9bd4": 40
+    },
+    "web_building_135311803": {
+      "M_Photo_135311803_Wall_cdafe968": 1070,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 38,
+      "M_Photo_ShadowGlazing_a20a9bd4": 32
+    },
+    "web_building_135311798": {
+      "M_Photo_135311798_Wall_b208e846": 1680,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 48,
+      "M_Photo_ShadowGlazing_a20a9bd4": 60
+    },
+    "web_building_135021153": {
+      "M_Photo_135021153_Wall_d7c8e05c": 138,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 18,
+      "M_Photo_ShadowGlazing_a20a9bd4": 132,
+      "M_Photo_Aluminium_b1d0eadc": 132
+    },
+    "web_building_667717925": {
+      "M_Photo_667717925_Wall_860cf82b": 6845,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 155,
+      "M_Photo_ShadowGlazing_a20a9bd4": 960,
+      "M_Photo_667717925_Accent_c64e1956": 5760,
+      "M_Photo_Aluminium_b1d0eadc": 960
+    },
+    "web_building_667717927": {
+      "M_Photo_667717927_Wall_d842bc3e": 7168,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 184,
+      "M_Photo_ShadowGlazing_a20a9bd4": 984,
+      "M_Photo_667717927_Accent_eab92994": 5904,
+      "M_Photo_Aluminium_b1d0eadc": 984
+    },
+    "web_building_1328114548": {
+      "M_Photo_1328114548_Wall_00594e22": 5044,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 28,
+      "M_Photo_ShadowGlazing_a20a9bd4": 60
+    },
+    "web_building_134408696": {
+      "M_Photo_134408696_Wall_6a5fceb8": 138,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 18,
+      "M_Photo_ShadowGlazing_a20a9bd4": 24
+    },
+    "web_building_421850856": {
+      "M_Photo_421850856_Wall_be974597": 2700,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 48,
+      "M_Photo_ShadowGlazing_a20a9bd4": 72
+    },
+    "web_building_135193165": {
+      "M_Photo_135193165_Wall_a1a55cf6": 9505,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 151,
+      "M_Photo_ShadowGlazing_a20a9bd4": 280,
+      "M_Photo_Aluminium_b1d0eadc": 1680,
+      "M_Photo_135193165_Accent_ab0d8975": 280
+    },
+    "web_building_135190721": {
+      "M_Photo_135190721_Wall_d7583f51": 1722,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 18,
+      "M_Photo_ShadowGlazing_a20a9bd4": 48
+    },
+    "web_building_134410446": {
+      "M_Facade_ivory_limestone_db08430b": 108,
+      "M_Roof_patinated_copper_34de1f0d": 24,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 7020,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 290,
+      "M_Detail_charcoal_metalwork_dfada395": 1166,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 218,
+      "M_Detail_soft_neutral_glazing_be3c152f": 54,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 24,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 24
+    },
+    "web_building_138223979": {
+      "M_Photo_138223979_Wall_4ea9b40e": 390,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 54,
+      "M_Photo_ShadowGlazing_a20a9bd4": 820,
+      "M_Photo_Aluminium_b1d0eadc": 820
+    },
+    "web_building_134408689": {
+      "M_Photo_134408689_Wall_f28eb65d": 210,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 18,
+      "M_Photo_ShadowGlazing_a20a9bd4": 392,
+      "M_Photo_Aluminium_b1d0eadc": 380
+    },
+    "web_building_185266979": {
+      "M_Photo_185266979_Wall_223fb9fb": 1446,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 66,
+      "M_Photo_ShadowGlazing_a20a9bd4": 2074,
+      "M_Photo_Aluminium_b1d0eadc": 2074
+    },
+    "web_building_135193913": {
+      "M_Photo_135193913_Wall_03c9ae99": 628,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 88,
+      "M_Photo_ShadowGlazing_a20a9bd4": 402,
+      "M_Photo_Aluminium_b1d0eadc": 402
+    },
+    "web_building_134408687": {
+      "M_Photo_134408687_Wall_77ea0ab0": 2559,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 21,
+      "M_Photo_ShadowGlazing_a20a9bd4": 40,
+      "M_Photo_134408687_Accent_c157f699": 40
+    },
+    "web_building_107139025": {
+      "M_Facade_ivory_limestone_db08430b": 99,
+      "M_Roof_blue_slate_f41e6012": 21,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 2064,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 86,
+      "M_Detail_charcoal_metalwork_dfada395": 330,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 52,
+      "M_Detail_soft_neutral_glazing_be3c152f": 14,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_134410448": {
+      "M_Photo_134410448_Wall_f3565536": 6090,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 18,
+      "M_Photo_ShadowGlazing_a20a9bd4": 626
+    },
+    "web_building_1344748884": {
+      "M_Photo_1344748884_Wall_43643807": 3758,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 38,
+      "M_Photo_ShadowGlazing_a20a9bd4": 80
+    },
+    "web_building_135156315": {
+      "M_Photo_135156315_Wall_658337b8": 444,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 18,
+      "M_Photo_ShadowGlazing_a20a9bd4": 272,
+      "M_Photo_Aluminium_b1d0eadc": 272
+    },
+    "web_building_135156314": {
+      "M_Photo_135156314_Wall_bf5ec1ff": 418,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 58,
+      "M_Photo_ShadowGlazing_a20a9bd4": 80,
+      "M_Photo_Aluminium_b1d0eadc": 1632
+    },
+    "web_building_923320403": {
+      "M_Photo_923320403_Wall_13f0da1a": 1496,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 61,
+      "M_Photo_ShadowGlazing_a20a9bd4": 184,
+      "M_Photo_Aluminium_b1d0eadc": 184
+    },
+    "web_building_134409111": {
+      "M_Photo_134409111_Wall_05641131": 5918,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 38,
+      "M_Photo_ShadowGlazing_a20a9bd4": 792,
+      "M_Photo_134409111_Accent_c7c7218f": 4768,
+      "M_Photo_Aluminium_b1d0eadc": 792
+    },
+    "web_building_230172683": {
+      "M_Facade_pale_concrete_9c8b8db4": 311,
+      "M_Roof_weathered_concrete_cff40be3": 89,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 5916,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 182,
+      "M_Detail_charcoal_metalwork_dfada395": 798,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 194,
+      "M_Detail_soft_neutral_glazing_be3c152f": 10,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_194547402": {
+      "M_Photo_194547402_Wall_0610f815": 201,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 27,
+      "M_Photo_ShadowGlazing_a20a9bd4": 14
+    },
+    "web_building_1424900699": {
+      "M_Photo_1424900699_Wall_53bfa955": 348,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 48,
+      "M_Photo_ShadowGlazing_a20a9bd4": 60,
+      "M_Photo_Aluminium_b1d0eadc": 1332
+    },
+    "web_building_135021154": {
+      "M_Photo_135021154_Wall_289bb2fe": 3010,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 58,
+      "M_Photo_ShadowGlazing_a20a9bd4": 72
+    },
+    "web_building_437402398": {
+      "M_Photo_437402398_Wall_249c79e8": 138,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 18,
+      "M_Photo_ShadowGlazing_a20a9bd4": 8
+    },
+    "web_building_772869174": {
+      "M_Facade_ivory_limestone_db08430b": 99,
+      "M_Roof_patinated_copper_34de1f0d": 21,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 2268,
+      "M_Detail_soft_neutral_glazing_be3c152f": 22,
+      "M_Detail_charcoal_metalwork_dfada395": 366,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 62,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 86,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_135156233": {
+      "M_Photo_135156233_Wall_c9a695a8": 625,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 91,
+      "M_Photo_ShadowGlazing_a20a9bd4": 276,
+      "M_Photo_Aluminium_b1d0eadc": 276
+    },
+    "web_building_135904891": {
+      "M_Photo_135904891_Wall_5e117f55": 2819,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 77,
+      "M_Photo_ShadowGlazing_a20a9bd4": 102
+    },
+    "web_building_134819424": {
+      "M_Photo_134819424_Wall_4d6c9e32": 2031,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 21,
+      "M_Photo_ShadowGlazing_a20a9bd4": 30,
+      "M_Photo_134819424_Accent_56896b8f": 30
+    },
+    "web_building_134819421": {
+      "M_Photo_134819421_Wall_97d5624f": 159,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 21,
+      "M_Photo_ShadowGlazing_a20a9bd4": 10,
+      "M_Photo_134819421_Accent_fc26cd1b": 60
+    },
+    "web_building_134408693": {
+      "M_Photo_134408693_Wall_079a3582": 2554,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 18,
+      "M_Photo_ShadowGlazing_a20a9bd4": 48,
+      "M_Photo_Aluminium_b1d0eadc": 288,
+      "M_Photo_134408693_Accent_8f25789b": 48,
+      "M_Photo_TerracottaTile_5bde19ee": 210
+    },
+    "web_building_135265380": {
+      "M_Photo_135265380_Wall_cacfdae2": 4814,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 38,
+      "M_Photo_ShadowGlazing_a20a9bd4": 96
+    },
+    "web_building_134409115": {
+      "M_Photo_134409115_Wall_cdaf0716": 3482,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 74,
+      "M_Photo_ShadowGlazing_a20a9bd4": 492,
+      "M_Photo_134409115_Accent_c07e3133": 2952,
+      "M_Photo_Aluminium_b1d0eadc": 492
+    },
+    "web_building_135193917": {
+      "M_Photo_135193917_Wall_724a22fd": 5024,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 44,
+      "M_Photo_ShadowGlazing_a20a9bd4": 140
+    },
+    "web_building_135312912": {
+      "M_Photo_135312912_Wall_27d65e9d": 8620,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 64,
+      "M_Photo_ShadowGlazing_a20a9bd4": 280
+    },
+    "web_building_135156235": {
+      "M_Photo_135156235_Wall_6827a5a2": 418,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 58,
+      "M_Photo_ShadowGlazing_a20a9bd4": 696,
+      "M_Photo_Aluminium_b1d0eadc": 696
+    },
+    "web_building_174133698": {
+      "M_Photo_174133698_Wall_498c42ac": 7138,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 34,
+      "M_Photo_ShadowGlazing_a20a9bd4": 196
+    },
+    "web_building_255891590": {
+      "M_Photo_255891590_Wall_25af1422": 894,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 126,
+      "M_Photo_ShadowGlazing_a20a9bd4": 84,
+      "M_Photo_Aluminium_b1d0eadc": 1872
+    },
+    "web_building_544797036": {
+      "M_Facade_muted_red_brick_3f469afe": 412,
+      "M_Roof_terracotta_9b737fc4": 88,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 2748,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 116,
+      "M_Detail_charcoal_metalwork_dfada395": 358,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 52,
+      "M_Detail_soft_neutral_glazing_be3c152f": 2,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_135021152": {
+      "M_Photo_135021152_Wall_5ea82df8": 1755,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 33,
+      "M_Photo_ShadowGlazing_a20a9bd4": 48,
+      "M_Photo_135021152_Accent_6276ce25": 48
+    },
+    "web_building_545778815": {
+      "M_Photo_545778815_Wall_c289e281": 376,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 52,
+      "M_Photo_ShadowGlazing_a20a9bd4": 48,
+      "M_Photo_Aluminium_b1d0eadc": 1008
+    },
+    "web_building_135181545": {
+      "M_Photo_135181545_Wall_b1f33b87": 7018,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 58,
+      "M_Photo_ShadowGlazing_a20a9bd4": 264
+    },
+    "web_building_134408690": {
+      "M_Photo_134408690_Wall_24c8fe96": 2650,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 58,
+      "M_Photo_ShadowGlazing_a20a9bd4": 72
+    },
+    "web_building_2096073": {
+      "M_Photo_2096073_Wall_59fa015d": 735,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 105,
+      "M_Photo_ShadowGlazing_a20a9bd4": 38
+    },
+    "web_building_135264056": {
+      "M_Photo_135264056_Wall_58c7338f": 3386,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 38,
+      "M_Photo_ShadowGlazing_a20a9bd4": 576,
+      "M_Photo_135264056_Accent_c5fd3c3b": 612,
+      "M_Photo_OrangeFacadeFins_5c80d76f": 564,
+      "M_Photo_LimeFacadeFins_87440459": 528,
+      "M_Photo_Aluminium_b1d0eadc": 576
+    },
+    "web_building_135264069": {
+      "M_Photo_135264069_Wall_bd2fadb7": 3302,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 38,
+      "M_Photo_ShadowGlazing_a20a9bd4": 540,
+      "M_Photo_135264069_Accent_6a635588": 600,
+      "M_Photo_OrangeFacadeFins_5c80d76f": 564,
+      "M_Photo_Aluminium_b1d0eadc": 576,
+      "M_Photo_LimeFacadeFins_87440459": 504
+    },
+    "web_building_135190718": {
+      "M_Facade_warm_plaster_5e9cc8eb": 90,
+      "M_Roof_terracotta_9b737fc4": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 5724,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 176,
+      "M_Detail_charcoal_metalwork_dfada395": 562,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 238,
+      "M_Detail_soft_neutral_glazing_be3c152f": 36,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_696387742": {
+      "M_Photo_696387742_Wall_d78b7b09": 15590,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 230,
+      "M_Photo_ShadowGlazing_a20a9bd4": 540
+    },
+    "web_building_135265609": {
+      "M_Photo_135265609_Wall_1b337d54": 2245,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 31,
+      "M_Photo_ShadowGlazing_a20a9bd4": 48
+    },
+    "web_building_1000297731": {
+      "M_Photo_1000297731_Wall_a31bd309": 841,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 67,
+      "M_Photo_ShadowGlazing_a20a9bd4": 80,
+      "M_Photo_Aluminium_b1d0eadc": 1728
+    },
+    "web_building_135904508": {
+      "M_Photo_135904508_Wall_af20b2b0": 10494,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 78,
+      "M_Photo_ShadowGlazing_a20a9bd4": 288
+    },
+    "web_building_135182311": {
+      "M_Photo_135182311_Wall_93fa7f33": 348,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 48,
+      "M_Photo_ShadowGlazing_a20a9bd4": 192,
+      "M_Photo_Aluminium_b1d0eadc": 192
+    },
+    "web_building_421937237": {
+      "M_Photo_421937237_Wall_bec02b5f": 661,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 31,
+      "M_Photo_ShadowGlazing_a20a9bd4": 20
+    },
+    "web_building_1806438": {
+      "M_Photo_1806438_Wall_fa1d231e": 13455,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 81,
+      "M_Photo_ShadowGlazing_a20a9bd4": 170
+    },
+    "web_building_174133703": {
+      "M_Photo_174133703_Wall_3f598b6a": 3810,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 18,
+      "M_Photo_ShadowGlazing_a20a9bd4": 72
+    },
+    "web_building_188010216": {
+      "M_Photo_188010216_Wall_b220fe1b": 8489,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 47,
+      "M_Photo_ShadowGlazing_a20a9bd4": 154
+    },
+    "web_building_135021155": {
+      "M_Photo_135021155_Wall_2f7bff6d": 4736,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 44,
+      "M_Photo_ShadowGlazing_a20a9bd4": 160
+    },
+    "web_building_1000297732": {
+      "M_Photo_1000297732_Wall_051f9e8a": 1439,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 101,
+      "M_Photo_ShadowGlazing_a20a9bd4": 160,
+      "M_Photo_Aluminium_b1d0eadc": 3024
+    },
+    "web_building_135265381": {
+      "M_Photo_135265381_Wall_b0a36877": 5359,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 97,
+      "M_Photo_ShadowGlazing_a20a9bd4": 156
+    },
+    "web_building_188010213": {
+      "M_Photo_188010213_Wall_f924ad0a": 2298,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 18,
+      "M_Photo_ShadowGlazing_a20a9bd4": 48
+    },
+    "web_building_191713160": {
+      "M_Photo_191713160_Wall_da308976": 159,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 21,
+      "M_Photo_ShadowGlazing_a20a9bd4": 50,
+      "M_Photo_Aluminium_b1d0eadc": 3420
+    },
+    "web_building_135098351": {
+      "M_Facade_ivory_limestone_db08430b": 99,
+      "M_Roof_weathered_concrete_cff40be3": 21,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 888,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 40,
+      "M_Detail_charcoal_metalwork_dfada395": 144,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 18,
+      "M_Detail_soft_neutral_glazing_be3c152f": 6,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_135098352": {
+      "M_Photo_135098352_Wall_b66795dd": 2758,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 44,
+      "M_Photo_ShadowGlazing_a20a9bd4": 636,
+      "M_Photo_Aluminium_b1d0eadc": 636
+    },
+    "web_building_134818772": {
+      "M_Facade_pale_concrete_9c8b8db4": 90,
+      "M_Roof_terracotta_9b737fc4": 18
+    },
+    "web_building_2532440": {
+      "M_Photo_2532440_Wall_9bf019b3": 10260,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 60,
+      "M_Photo_ShadowGlazing_a20a9bd4": 240
+    },
+    "web_building_134410451": {
+      "M_Facade_ivory_limestone_db08430b": 126,
+      "M_Roof_weathered_concrete_cff40be3": 30,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 6948,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 300,
+      "M_Detail_charcoal_metalwork_dfada395": 1150,
+      "M_Detail_soft_neutral_glazing_be3c152f": 52,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 202,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 24,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 24
+    },
+    "web_building_135018853": {
+      "M_Photo_135018853_Wall_7948b511": 5094,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 78,
+      "M_Photo_ShadowGlazing_a20a9bd4": 162,
+      "M_Photo_135018853_Accent_7a08a089": 180
+    },
+    "web_building_255891597": {
+      "M_Photo_255891597_Wall_55dc8290": 628,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 88,
+      "M_Photo_ShadowGlazing_a20a9bd4": 222,
+      "M_Photo_Aluminium_b1d0eadc": 222
+    },
+    "web_building_193128663": {
+      "M_Photo_193128663_Wall_b1e14af7": 432,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 60,
+      "M_Photo_ShadowGlazing_a20a9bd4": 492,
+      "M_Photo_Aluminium_b1d0eadc": 492
+    },
+    "web_building_1243363293": {
+      "M_Photo_1243363293_Wall_e2acb51e": 3191,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 161,
+      "M_Photo_ShadowGlazing_a20a9bd4": 1820,
+      "M_Photo_Aluminium_b1d0eadc": 1820
+    },
+    "web_building_135018848": {
+      "M_Photo_135018848_Wall_d6442fd1": 2706,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 42,
+      "M_Photo_ShadowGlazing_a20a9bd4": 96,
+      "M_Photo_135018848_Accent_0194a394": 96
+    },
+    "web_building_135190724": {
+      "M_Photo_135190724_Wall_045b4989": 1434,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 18,
+      "M_Photo_ShadowGlazing_a20a9bd4": 48
+    },
+    "web_building_135190723": {
+      "M_Facade_warm_plaster_5e9cc8eb": 90,
+      "M_Roof_terracotta_9b737fc4": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 2700,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 110,
+      "M_Detail_charcoal_metalwork_dfada395": 310,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 76,
+      "M_Detail_soft_neutral_glazing_be3c152f": 12,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_134410719": {
+      "M_Photo_134410719_Wall_3e4a56ec": 1000,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 36,
+      "M_Photo_ShadowGlazing_a20a9bd4": 990,
+      "M_Photo_Aluminium_b1d0eadc": 990,
+      "M_Photo_134410719_Accent_ad60ec77": 92
+    },
+    "web_building_230185998": {
+      "M_Photo_230185998_Wall_df6e7e4c": 4203,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 57,
+      "M_Photo_ShadowGlazing_a20a9bd4": 102
+    },
+    "web_building_194547400": {
+      "M_Photo_194547400_Wall_91af4b6a": 3792,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 36,
+      "M_Photo_ShadowGlazing_a20a9bd4": 126
+    },
+    "web_building_696387736": {
+      "M_Photo_696387736_Wall_218bfe0e": 239,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 21,
+      "M_Photo_ShadowGlazing_a20a9bd4": 56,
+      "M_Photo_Aluminium_b1d0eadc": 56,
+      "M_Photo_TerracottaTile_5bde19ee": 50
+    },
+    "web_building_135190722": {
+      "M_Photo_135190722_Wall_fde581e6": 2290,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 58,
+      "M_Photo_ShadowGlazing_a20a9bd4": 120
+    },
+    "web_building_107139028": {
+      "M_Photo_107139028_Wall_6a8c4416": 4020,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 48,
+      "M_Photo_ShadowGlazing_a20a9bd4": 612,
+      "M_Photo_107139028_Accent_56e00e84": 3672,
+      "M_Photo_Aluminium_b1d0eadc": 612
+    },
+    "web_building_107139029": {
+      "M_Photo_107139029_Wall_5e980283": 2804,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 44,
+      "M_Photo_ShadowGlazing_a20a9bd4": 414,
+      "M_Photo_107139029_Accent_68d18afe": 2484,
+      "M_Photo_Aluminium_b1d0eadc": 414
+    },
+    "web_building_107139024": {
+      "M_Photo_107139024_Wall_59e80a8e": 4718,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 38,
+      "M_Photo_ShadowGlazing_a20a9bd4": 64
+    },
+    "web_building_230129212": {
+      "M_Photo_230129212_Wall_ec12d1de": 705,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 99,
+      "M_Photo_ShadowGlazing_a20a9bd4": 126,
+      "M_Photo_Aluminium_b1d0eadc": 3384
+    },
+    "web_building_135264066": {
+      "M_Photo_135264066_Wall_45710aca": 4878,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 78,
+      "M_Photo_ShadowGlazing_a20a9bd4": 216
+    },
+    "web_building_135264060": {
+      "M_Photo_135264060_Wall_6037a869": 3508,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 88,
+      "M_Photo_ShadowGlazing_a20a9bd4": 156
+    },
+    "web_building_135264063": {
+      "M_Photo_135264063_Wall_c6594820": 3508,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 88,
+      "M_Photo_ShadowGlazing_a20a9bd4": 156
+    },
+    "web_building_134819423": {
+      "M_Photo_134819423_Wall_dffa6186": 3158,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 38,
+      "M_Photo_ShadowGlazing_a20a9bd4": 84,
+      "M_Photo_Aluminium_b1d0eadc": 504,
+      "M_Photo_134819423_Accent_bca266a4": 84
+    },
+    "web_building_219389532": {
+      "M_Photo_219389532_Wall_6b91c7dd": 1704,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 79,
+      "M_Photo_ShadowGlazing_a20a9bd4": 192,
+      "M_Photo_Aluminium_b1d0eadc": 192
+    },
+    "web_building_107139044": {
+      "M_Photo_107139044_Wall_50eb6d46": 2379,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 105,
+      "M_Photo_ShadowGlazing_a20a9bd4": 180,
+      "M_Photo_Aluminium_b1d0eadc": 8220,
+      "M_Photo_107139044_Accent_9026735b": 2472,
+      "M_Photo_OrangeFacadeFins_5c80d76f": 2508,
+      "M_Photo_LimeFacadeFins_87440459": 2160,
+      "M_Shaw_Science_charcoal_roof_plant_4ba29538": 56,
+      "M_Shaw_Science_louvre_frames_a648f3b8": 2880
+    },
+    "web_building_135904889": {
+      "M_Photo_135904889_Wall_510156fb": 376,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 52,
+      "M_Photo_ShadowGlazing_a20a9bd4": 8
+    },
+    "web_building_134410447": {
+      "M_Photo_134410447_Wall_5aa8c007": 2514,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 18,
+      "M_Photo_ShadowGlazing_a20a9bd4": 374
+    },
+    "web_building_135312914": {
+      "M_Photo_135312914_Wall_c1f55c1f": 278,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 38,
+      "M_Photo_ShadowGlazing_a20a9bd4": 12
+    },
+    "web_building_135906003": {
+      "M_Photo_135906003_Wall_1e28ec4e": 397,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 55,
+      "M_Photo_ShadowGlazing_a20a9bd4": 680,
+      "M_Photo_Aluminium_b1d0eadc": 680
+    },
+    "web_building_135904507": {
+      "M_Photo_135904507_Wall_42b23d5a": 411,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 57,
+      "M_Photo_ShadowGlazing_a20a9bd4": 216,
+      "M_Photo_Aluminium_b1d0eadc": 216
+    },
+    "web_building_138223978": {
+      "M_Photo_138223978_Wall_add3b814": 5939,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 41,
+      "M_Photo_ShadowGlazing_a20a9bd4": 180
+    },
+    "web_building_134408688": {
+      "M_Photo_134408688_Wall_914cae68": 763,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 81,
+      "M_Photo_ShadowGlazing_a20a9bd4": 204,
+      "M_Photo_Aluminium_b1d0eadc": 204
+    },
+    "web_building_135904006": {
+      "M_Photo_135904006_Wall_ffcc4c3d": 3589,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 31,
+      "M_Photo_ShadowGlazing_a20a9bd4": 112
+    },
+    "web_building_107139026": {
+      "M_Photo_107139026_Wall_8da1ece0": 2019,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 21,
+      "M_Photo_ShadowGlazing_a20a9bd4": 40
+    },
+    "web_building_3086286": {
+      "M_Photo_3086286_Wall_ff08cb89": 2573,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 143,
+      "M_Photo_ShadowGlazing_a20a9bd4": 888,
+      "M_Photo_Aluminium_b1d0eadc": 888
+    },
+    "web_building_1424777851": {
+      "M_Photo_1424777851_Wall_aba577e8": 7090,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 58,
+      "M_Photo_ShadowGlazing_a20a9bd4": 96
+    },
+    "web_building_135311810": {
+      "M_Photo_135311810_Wall_54015e61": 3110,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 38,
+      "M_Photo_ShadowGlazing_a20a9bd4": 64
+    },
+    "web_building_134410444": {
+      "M_Photo_134410444_Wall_1de1fa7c": 1650,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 18,
+      "M_Photo_ShadowGlazing_a20a9bd4": 24
+    },
+    "web_building_135193164": {
+      "M_Photo_135193164_Wall_1dcb82e9": 906,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 18,
+      "M_Photo_ShadowGlazing_a20a9bd4": 360,
+      "M_Photo_Aluminium_b1d0eadc": 360
+    },
+    "web_building_135264058": {
+      "M_Photo_135264058_Wall_67e020c1": 3366,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 78,
+      "M_Photo_ShadowGlazing_a20a9bd4": 120,
+      "M_Photo_TerracottaTile_5bde19ee": 148
+    },
+    "web_building_174133709": {
+      "M_Photo_174133709_Wall_4085a7a2": 509,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 71,
+      "M_Photo_ShadowGlazing_a20a9bd4": 318,
+      "M_Photo_Aluminium_b1d0eadc": 318
+    },
+    "web_building_135190719": {
+      "M_Photo_135190719_Wall_59fb67c1": 930,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 18,
+      "M_Photo_ShadowGlazing_a20a9bd4": 24
+    },
+    "web_building_135191010": {
+      "M_Facade_ivory_limestone_db08430b": 90,
+      "M_Roof_patinated_copper_34de1f0d": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 1932,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 82,
+      "M_Detail_charcoal_metalwork_dfada395": 318,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 56,
+      "M_Detail_soft_neutral_glazing_be3c152f": 8,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_135190717": {
+      "M_Photo_135190717_Wall_32044f5c": 1762,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 58,
+      "M_Photo_ShadowGlazing_a20a9bd4": 44
+    },
+    "web_building_135264901": {
+      "M_Photo_135264901_Wall_2da2e47c": 4718,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 38,
+      "M_Photo_ShadowGlazing_a20a9bd4": 144,
+      "M_Photo_Aluminium_b1d0eadc": 864,
+      "M_Photo_135264901_Accent_f64118ba": 144
+    },
+    "web_building_135264904": {
+      "M_Photo_135264904_Wall_d2a3d52d": 4718,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 38,
+      "M_Photo_ShadowGlazing_a20a9bd4": 144,
+      "M_Photo_Aluminium_b1d0eadc": 864,
+      "M_Photo_135264904_Accent_ab5134c5": 144
+    },
+    "web_building_135264405": {
+      "M_Photo_135264405_Wall_d4cee2f4": 4718,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 38,
+      "M_Photo_ShadowGlazing_a20a9bd4": 144,
+      "M_Photo_Aluminium_b1d0eadc": 864,
+      "M_Photo_135264405_Accent_c9e79061": 144
+    },
+    "web_building_135264402": {
+      "M_Photo_135264402_Wall_d08bda47": 4718,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 38,
+      "M_Photo_ShadowGlazing_a20a9bd4": 144,
+      "M_Photo_Aluminium_b1d0eadc": 864,
+      "M_Photo_135264402_Accent_b806e1e6": 144
+    },
+    "web_building_135265382": {
+      "M_Photo_135265382_Wall_a16f995c": 4838,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 38,
+      "M_Photo_ShadowGlazing_a20a9bd4": 144,
+      "M_Photo_Aluminium_b1d0eadc": 864,
+      "M_Photo_135265382_Accent_e795e29f": 144
+    },
+    "web_building_135264404": {
+      "M_Photo_135264404_Wall_e1a26f75": 4718,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 38,
+      "M_Photo_ShadowGlazing_a20a9bd4": 144,
+      "M_Photo_Aluminium_b1d0eadc": 864,
+      "M_Photo_135264404_Accent_2f8e23a9": 144
+    },
+    "web_building_135265376": {
+      "M_Photo_135265376_Wall_b047a919": 6178,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 58,
+      "M_Photo_ShadowGlazing_a20a9bd4": 216,
+      "M_Photo_Aluminium_b1d0eadc": 1296,
+      "M_Photo_135265376_Accent_e41a85e3": 216
+    },
+    "web_building_135265375": {
+      "M_Photo_135265375_Wall_40d62675": 6178,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 58,
+      "M_Photo_ShadowGlazing_a20a9bd4": 216,
+      "M_Photo_Aluminium_b1d0eadc": 1296,
+      "M_Photo_135265375_Accent_54622e99": 216
+    },
+    "web_building_135315191": {
+      "M_Photo_135315191_Wall_ff3aa7fc": 4838,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 38,
+      "M_Photo_ShadowGlazing_a20a9bd4": 144,
+      "M_Photo_Aluminium_b1d0eadc": 864,
+      "M_Photo_135315191_Accent_6399615a": 144
+    },
+    "web_building_134820401": {
+      "M_Facade_pale_concrete_9c8b8db4": 90,
+      "M_Roof_blue_slate_f41e6012": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 3852,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 158,
+      "M_Detail_charcoal_metalwork_dfada395": 654,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 120,
+      "M_Detail_soft_neutral_glazing_be3c152f": 28,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 24,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 24
+    },
+    "web_building_135018845": {
+      "M_Photo_135018845_Wall_42b5108f": 2010,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 18,
+      "M_Photo_ShadowGlazing_a20a9bd4": 312,
+      "M_Photo_135018845_Accent_446e1037": 1872,
+      "M_Photo_Aluminium_b1d0eadc": 312
+    },
+    "web_building_135904506": {
+      "M_Photo_135904506_Wall_401dca84": 348,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 48,
+      "M_Photo_ShadowGlazing_a20a9bd4": 20
+    },
+    "web_building_135313705": {
+      "M_Photo_135313705_Wall_928d1be6": 814,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 118,
+      "M_Photo_ShadowGlazing_a20a9bd4": 150,
+      "M_Photo_Aluminium_b1d0eadc": 150
+    },
+    "web_building_1424900700": {
+      "M_Photo_1424900700_Wall_9e2bfc12": 874,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 47,
+      "M_Photo_ShadowGlazing_a20a9bd4": 120,
+      "M_Photo_Aluminium_b1d0eadc": 120
+    },
+    "web_building_135311808": {
+      "M_Photo_135311808_Wall_60788151": 6537,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 27,
+      "M_Photo_ShadowGlazing_a20a9bd4": 154
+    },
+    "web_building_138223977": {
+      "M_Photo_138223977_Wall_46df6ac9": 6468,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 48,
+      "M_Photo_ShadowGlazing_a20a9bd4": 200
+    },
+    "web_building_135193166": {
+      "M_Photo_135193166_Wall_7632634b": 1690,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 34,
+      "M_Photo_ShadowGlazing_a20a9bd4": 36
+    },
+    "web_building_201907994": {
+      "M_Photo_201907994_Wall_27af7c33": 8502,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 61,
+      "M_Photo_ShadowGlazing_a20a9bd4": 300
+    },
+    "web_building_194547401": {
+      "M_Photo_194547401_Wall_85689f61": 7458,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 78,
+      "M_Photo_ShadowGlazing_a20a9bd4": 150,
+      "M_Photo_WhiteFacadeFrames_a44c1542": 2172
+    },
+    "web_building_174133712": {
+      "M_Photo_174133712_Wall_194f5533": 3318,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 78,
+      "M_Photo_ShadowGlazing_a20a9bd4": 110
+    },
+    "web_building_185740160": {
+      "M_Photo_185740160_Wall_d4f04b99": 1873,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 103,
+      "M_Photo_ShadowGlazing_a20a9bd4": 60
+    },
+    "web_building_545778814": {
+      "M_Photo_545778814_Wall_46cac403": 3630,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 126,
+      "M_Photo_ShadowGlazing_a20a9bd4": 150,
+      "M_Photo_Aluminium_b1d0eadc": 900,
+      "M_Photo_545778814_Accent_fbfb5c68": 150
+    },
+    "web_building_135190720": {
+      "M_Photo_135190720_Wall_c330802a": 570,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 18,
+      "M_Photo_ShadowGlazing_a20a9bd4": 16
+    },
+    "web_building_135904004": {
+      "M_Photo_135904004_Wall_b5ff590f": 7570,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 46,
+      "M_Photo_ShadowGlazing_a20a9bd4": 180
+    },
+    "web_building_135018852": {
+      "M_Photo_135018852_Wall_c9647ef4": 1934,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 38,
+      "M_Photo_ShadowGlazing_a20a9bd4": 48,
+      "M_Photo_135018852_Accent_947f646e": 48
+    },
+    "web_building_1021573535": {
+      "M_Facade_pale_concrete_9c8b8db4": 182,
+      "M_Roof_weathered_concrete_cff40be3": 38,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 96
+    },
+    "web_building_1021573537": {
+      "M_Facade_warm_plaster_5e9cc8eb": 169,
+      "M_Roof_blue_slate_f41e6012": 55
+    },
+    "web_building_1021573538": {
+      "M_Facade_pale_concrete_9c8b8db4": 90,
+      "M_Roof_patinated_copper_34de1f0d": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 828,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 24,
+      "M_Detail_charcoal_metalwork_dfada395": 126,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 28,
+      "M_Detail_soft_neutral_glazing_be3c152f": 6
+    },
+    "web_building_10266054": {
+      "M_Facade_ivory_limestone_db08430b": 597,
+      "M_Roof_patinated_copper_34de1f0d": 159,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 11232,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 396,
+      "M_Detail_charcoal_metalwork_dfada395": 1646,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 328,
+      "M_Detail_soft_neutral_glazing_be3c152f": 78,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 24,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 24
+    },
+    "web_building_134819420": {
+      "M_Facade_pale_concrete_9c8b8db4": 90,
+      "M_Roof_terracotta_9b737fc4": 18
+    },
+    "web_building_1349568933": {
+      "M_Facade_ivory_limestone_db08430b": 90,
+      "M_Roof_blue_slate_f41e6012": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 2700,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 88,
+      "M_Detail_charcoal_metalwork_dfada395": 446,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 106,
+      "M_Detail_soft_neutral_glazing_be3c152f": 16,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_135181544": {
+      "M_Facade_pale_concrete_9c8b8db4": 90,
+      "M_Roof_terracotta_9b737fc4": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 768,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 32,
+      "M_Detail_charcoal_metalwork_dfada395": 96,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 16
+    },
+    "web_building_135191009": {
+      "M_Facade_pale_concrete_9c8b8db4": 90,
+      "M_Roof_blue_slate_f41e6012": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 1932,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 74,
+      "M_Detail_charcoal_metalwork_dfada395": 318,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 64,
+      "M_Detail_soft_neutral_glazing_be3c152f": 8,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_135191011": {
+      "M_Facade_warm_plaster_5e9cc8eb": 90,
+      "M_Roof_weathered_concrete_cff40be3": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 1932,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 56,
+      "M_Detail_charcoal_metalwork_dfada395": 318,
+      "M_Detail_soft_neutral_glazing_be3c152f": 12,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 78,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_135191012": {
+      "M_Facade_pale_concrete_9c8b8db4": 90,
+      "M_Roof_terracotta_9b737fc4": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 1356,
+      "M_Detail_soft_neutral_glazing_be3c152f": 16,
+      "M_Detail_charcoal_metalwork_dfada395": 222,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 42,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 40,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_135191014": {
+      "M_Facade_warm_plaster_5e9cc8eb": 90,
+      "M_Roof_patinated_copper_34de1f0d": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 2124,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 94,
+      "M_Detail_charcoal_metalwork_dfada395": 350,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 60,
+      "M_Detail_soft_neutral_glazing_be3c152f": 8,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_135191015": {
+      "M_Facade_pale_concrete_9c8b8db4": 90,
+      "M_Roof_weathered_concrete_cff40be3": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 1932,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 82,
+      "M_Detail_charcoal_metalwork_dfada395": 318,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 56,
+      "M_Detail_soft_neutral_glazing_be3c152f": 8,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_135311816": {
+      "M_Facade_ivory_limestone_db08430b": 136,
+      "M_Roof_terracotta_9b737fc4": 28,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 1296,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 54,
+      "M_Detail_charcoal_metalwork_dfada395": 204,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 36,
+      "M_Detail_soft_neutral_glazing_be3c152f": 6,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_135904890": {
+      "M_Facade_ivory_limestone_db08430b": 99,
+      "M_Roof_patinated_copper_34de1f0d": 21,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 1596,
+      "M_Detail_soft_neutral_glazing_be3c152f": 16,
+      "M_Detail_charcoal_metalwork_dfada395": 254,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 44,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 54,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_135906000": {
+      "M_Facade_ivory_limestone_db08430b": 90,
+      "M_Roof_terracotta_9b737fc4": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 1164,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 32,
+      "M_Detail_charcoal_metalwork_dfada395": 174,
+      "M_Detail_soft_neutral_glazing_be3c152f": 12,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 38
+    },
+    "web_building_135906001": {
+      "M_Facade_warm_plaster_5e9cc8eb": 90,
+      "M_Roof_blue_slate_f41e6012": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 1164,
+      "M_Detail_soft_neutral_glazing_be3c152f": 16,
+      "M_Detail_charcoal_metalwork_dfada395": 190,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 28,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 38,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_135906004": {
+      "M_Facade_warm_plaster_5e9cc8eb": 90,
+      "M_Roof_terracotta_9b737fc4": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 972,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 38,
+      "M_Detail_charcoal_metalwork_dfada395": 142,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 28
+    },
+    "web_building_135906005": {
+      "M_Facade_pale_concrete_9c8b8db4": 99,
+      "M_Roof_blue_slate_f41e6012": 21,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 1404,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 38,
+      "M_Detail_charcoal_metalwork_dfada395": 222,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 54,
+      "M_Detail_soft_neutral_glazing_be3c152f": 6,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_1370428885": {
+      "M_Facade_warm_plaster_5e9cc8eb": 136,
+      "M_Roof_blue_slate_f41e6012": 28,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 1260,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 56,
+      "M_Detail_charcoal_metalwork_dfada395": 190,
+      "M_Detail_soft_neutral_glazing_be3c152f": 12,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 14,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_1370428886": {
+      "M_Facade_pale_concrete_9c8b8db4": 90,
+      "M_Roof_patinated_copper_34de1f0d": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 312,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 12,
+      "M_Detail_charcoal_metalwork_dfada395": 32,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 4
+    },
+    "web_building_1370428887": {
+      "M_Facade_ivory_limestone_db08430b": 136,
+      "M_Roof_weathered_concrete_cff40be3": 28,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 660,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 20,
+      "M_Detail_charcoal_metalwork_dfada395": 80,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 20
+    },
+    "web_building_1376955188": {
+      "M_Facade_pale_concrete_9c8b8db4": 182,
+      "M_Roof_terracotta_9b737fc4": 38,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 2796,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 120,
+      "M_Detail_charcoal_metalwork_dfada395": 430,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 68,
+      "M_Detail_soft_neutral_glazing_be3c152f": 14,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_1424818901": {
+      "M_Facade_pale_concrete_9c8b8db4": 154,
+      "M_Roof_blue_slate_f41e6012": 34,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 2184,
+      "M_Detail_soft_neutral_glazing_be3c152f": 24,
+      "M_Detail_charcoal_metalwork_dfada395": 334,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 62,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 68,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_1424818902": {
+      "M_Facade_ivory_limestone_db08430b": 255,
+      "M_Roof_patinated_copper_34de1f0d": 57,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 2196,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 56,
+      "M_Detail_charcoal_metalwork_dfada395": 278,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 60,
+      "M_Detail_soft_neutral_glazing_be3c152f": 22,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_1424818905": {
+      "M_Facade_ivory_limestone_db08430b": 154,
+      "M_Roof_blue_slate_f41e6012": 34,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 2532,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 72,
+      "M_Detail_charcoal_metalwork_dfada395": 398,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 96,
+      "M_Detail_soft_neutral_glazing_be3c152f": 18,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_1424818906": {
+      "M_Facade_warm_plaster_5e9cc8eb": 209,
+      "M_Roof_patinated_copper_34de1f0d": 47,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 2892,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 110,
+      "M_Detail_charcoal_metalwork_dfada395": 438,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 76,
+      "M_Detail_soft_neutral_glazing_be3c152f": 24,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_1424818907": {
+      "M_Facade_pale_concrete_9c8b8db4": 145,
+      "M_Roof_weathered_concrete_cff40be3": 31,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 1968,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 74,
+      "M_Detail_charcoal_metalwork_dfada395": 318,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 56,
+      "M_Detail_soft_neutral_glazing_be3c152f": 16,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_174133716": {
+      "M_Facade_ivory_limestone_db08430b": 90,
+      "M_Roof_terracotta_9b737fc4": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 3468,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 146,
+      "M_Detail_charcoal_metalwork_dfada395": 574,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 104,
+      "M_Detail_soft_neutral_glazing_be3c152f": 24,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_185266978": {
+      "M_Facade_ivory_limestone_db08430b": 260,
+      "M_Roof_patinated_copper_34de1f0d": 56,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 11748,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 446,
+      "M_Detail_charcoal_metalwork_dfada395": 1746,
+      "M_Detail_soft_neutral_glazing_be3c152f": 88,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 326,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_198965332": {
+      "M_Facade_warm_plaster_5e9cc8eb": 90,
+      "M_Roof_terracotta_9b737fc4": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 1356,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 36,
+      "M_Detail_charcoal_metalwork_dfada395": 222,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 50,
+      "M_Detail_soft_neutral_glazing_be3c152f": 12,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_198965333": {
+      "M_Facade_pale_concrete_9c8b8db4": 90,
+      "M_Roof_blue_slate_f41e6012": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 1164,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 46,
+      "M_Detail_charcoal_metalwork_dfada395": 190,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 20,
+      "M_Detail_soft_neutral_glazing_be3c152f": 16,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_198965334": {
+      "M_Facade_ivory_limestone_db08430b": 90,
+      "M_Roof_patinated_copper_34de1f0d": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 1548,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 58,
+      "M_Detail_charcoal_metalwork_dfada395": 254,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 48,
+      "M_Detail_soft_neutral_glazing_be3c152f": 8,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_255891621": {
+      "M_Facade_ivory_limestone_db08430b": 476,
+      "M_Roof_blue_slate_f41e6012": 104,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 5280,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 172,
+      "M_Detail_charcoal_metalwork_dfada395": 746,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 158,
+      "M_Detail_soft_neutral_glazing_be3c152f": 42,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 24,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 24
+    },
+    "web_building_2712284": {
+      "M_Facade_pale_concrete_9c8b8db4": 646,
+      "M_Roof_terracotta_9b737fc4": 178,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 11784,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 486,
+      "M_Detail_charcoal_metalwork_dfada395": 1590,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 292,
+      "M_Detail_soft_neutral_glazing_be3c152f": 32,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 24,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 24
+    },
+    "web_building_545777838": {
+      "M_Facade_muted_red_brick_3f469afe": 108,
+      "M_Roof_patinated_copper_34de1f0d": 24,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 1548,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 44,
+      "M_Detail_charcoal_metalwork_dfada395": 230,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 50,
+      "M_Detail_soft_neutral_glazing_be3c152f": 12,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_667717928": {
+      "M_Facade_pale_concrete_9c8b8db4": 1203,
+      "M_Roof_terracotta_9b737fc4": 261,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 7632,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 272,
+      "M_Detail_charcoal_metalwork_dfada395": 974,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 198,
+      "M_Detail_soft_neutral_glazing_be3c152f": 12,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 24,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 24
+    },
+    "web_building_667720096": {
+      "M_Facade_warm_plaster_5e9cc8eb": 826,
+      "M_Roof_terracotta_9b737fc4": 178,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 5724,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 226,
+      "M_Detail_charcoal_metalwork_dfada395": 710,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 106,
+      "M_Detail_soft_neutral_glazing_be3c152f": 30,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 24,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 24
+    },
+    "web_building_696387721": {
+      "M_Facade_ivory_limestone_db08430b": 283,
+      "M_Roof_blue_slate_f41e6012": 61,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 2868,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 96,
+      "M_Detail_charcoal_metalwork_dfada395": 410,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 78,
+      "M_Detail_soft_neutral_glazing_be3c152f": 18,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_696387728": {
+      "M_Facade_pale_concrete_9c8b8db4": 90,
+      "M_Roof_terracotta_9b737fc4": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 1356,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 54,
+      "M_Detail_charcoal_metalwork_dfada395": 206,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 36,
+      "M_Detail_soft_neutral_glazing_be3c152f": 8
+    },
+    "web_building_696387740": {
+      "M_Facade_pale_concrete_9c8b8db4": 90,
+      "M_Roof_terracotta_9b737fc4": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 2508,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 76,
+      "M_Detail_charcoal_metalwork_dfada395": 414,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 102,
+      "M_Detail_soft_neutral_glazing_be3c152f": 16,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_738386458": {
+      "M_Facade_warm_plaster_5e9cc8eb": 90,
+      "M_Roof_patinated_copper_34de1f0d": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 1548,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 52,
+      "M_Detail_charcoal_metalwork_dfada395": 254,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 50,
+      "M_Detail_soft_neutral_glazing_be3c152f": 12,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_746662471": {
+      "M_Facade_warm_plaster_5e9cc8eb": 145,
+      "M_Roof_weathered_concrete_cff40be3": 31,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 1692,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 58,
+      "M_Detail_charcoal_metalwork_dfada395": 230,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 48,
+      "M_Detail_soft_neutral_glazing_be3c152f": 8
+    },
+    "web_building_746662473": {
+      "M_Facade_muted_red_brick_3f469afe": 90,
+      "M_Roof_blue_slate_f41e6012": 18
+    },
+    "web_building_751056985": {
+      "M_Facade_warm_plaster_5e9cc8eb": 200,
+      "M_Roof_blue_slate_f41e6012": 44,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 1752,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 74,
+      "M_Detail_charcoal_metalwork_dfada395": 254,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 36,
+      "M_Detail_soft_neutral_glazing_be3c152f": 4,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_751056990": {
+      "M_Facade_ivory_limestone_db08430b": 181,
+      "M_Roof_patinated_copper_34de1f0d": 43,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 1392,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 44,
+      "M_Detail_charcoal_metalwork_dfada395": 192,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 44,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_772869173": {
+      "M_Facade_pale_concrete_9c8b8db4": 90,
+      "M_Roof_blue_slate_f41e6012": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 1356,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 32,
+      "M_Detail_charcoal_metalwork_dfada395": 222,
+      "M_Detail_soft_neutral_glazing_be3c152f": 16,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 50,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_772869179": {
+      "M_Facade_pale_concrete_9c8b8db4": 90,
+      "M_Roof_weathered_concrete_cff40be3": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 48
+    },
+    "web_building_887841452": {
+      "M_Facade_pale_concrete_9c8b8db4": 90,
+      "M_Roof_terracotta_9b737fc4": 18,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 576,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 24,
+      "M_Detail_charcoal_metalwork_dfada395": 48,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 8
+    },
+    "web_building_923320388": {
+      "M_Facade_pale_concrete_9c8b8db4": 145,
+      "M_Roof_terracotta_9b737fc4": 31
+    },
+    "web_building_923320392": {
+      "M_Facade_ivory_limestone_db08430b": 162,
+      "M_Roof_terracotta_9b737fc4": 42,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 864,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 28,
+      "M_Detail_charcoal_metalwork_dfada395": 80,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 16,
+      "M_Detail_soft_neutral_glazing_be3c152f": 4
+    },
+    "web_building_923320400": {
+      "M_Facade_ivory_limestone_db08430b": 99,
+      "M_Roof_terracotta_9b737fc4": 21,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 636,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 26,
+      "M_Detail_charcoal_metalwork_dfada395": 104,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 18,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 12,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 12
+    },
+    "web_building_923320416": {
+      "M_Facade_ivory_limestone_db08430b": 182,
+      "M_Roof_terracotta_9b737fc4": 38,
+      "M_Detail_pale_stone_window_trim_4f9fc7f1": 13860,
+      "M_Detail_reflected_sky_glazing_6b2f0767": 408,
+      "M_Detail_charcoal_metalwork_dfada395": 2206,
+      "M_Detail_dark_blue_glazing_ddbb7af3": 576,
+      "M_Detail_soft_neutral_glazing_be3c152f": 98,
+      "M_Detail_rooftop_service_concrete_2b161cbf": 24,
+      "M_Detail_rooftop_equipment_aluminum_050601d4": 24
+    },
+    "web_building_955764566": {
+      "M_Facade_pale_concrete_9c8b8db4": 90,
+      "M_Roof_patinated_copper_34de1f0d": 18
+    },
+    "web_building_323784989": {
+      "M_Roof_weathered_concrete_cff40be3": 21,
+      "M_Context_pale_sandstone_469c71f5": 67
+    },
+    "web_building_733045755": {
+      "M_Roof_weathered_concrete_cff40be3": 9,
+      "M_Context_pale_sandstone_469c71f5": 31
+    },
+    "web_building_733045754": {
+      "M_Roof_weathered_concrete_cff40be3": 11,
+      "M_Context_pale_sandstone_469c71f5": 37
+    },
+    "web_building_135787368": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_135787369": {
+      "M_Roof_weathered_concrete_cff40be3": 3,
+      "M_Context_pale_sandstone_469c71f5": 13
+    },
+    "web_building_135787370": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_1080920665": {
+      "M_Roof_weathered_concrete_cff40be3": 18,
+      "M_Context_pale_sandstone_469c71f5": 58
+    },
+    "web_building_744825499": {
+      "M_Roof_weathered_concrete_cff40be3": 15,
+      "M_Context_pale_sandstone_469c71f5": 49
+    },
+    "web_building_914973823": {
+      "M_Roof_weathered_concrete_cff40be3": 11,
+      "M_Context_pale_sandstone_469c71f5": 37
+    },
+    "web_building_135716505": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_135716504": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_1058569056": {
+      "M_Roof_weathered_concrete_cff40be3": 22,
+      "M_Context_pale_sandstone_469c71f5": 70
+    },
+    "web_building_1058569052": {
+      "M_Roof_weathered_concrete_cff40be3": 22,
+      "M_Context_pale_sandstone_469c71f5": 70
+    },
+    "web_building_1058569053": {
+      "M_Roof_weathered_concrete_cff40be3": 22,
+      "M_Context_pale_sandstone_469c71f5": 70
+    },
+    "web_building_1058569055": {
+      "M_Roof_weathered_concrete_cff40be3": 22,
+      "M_Context_pale_sandstone_469c71f5": 70
+    },
+    "web_building_1058569054": {
+      "M_Roof_weathered_concrete_cff40be3": 31,
+      "M_Context_pale_sandstone_469c71f5": 97
+    },
+    "web_building_135787385": {
+      "M_Roof_weathered_concrete_cff40be3": 10,
+      "M_Context_pale_sandstone_469c71f5": 34
+    },
+    "web_building_751057004": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_751056983": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_751056982": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_751056981": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_751056980": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_751056979": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_751056962": {
+      "M_Roof_weathered_concrete_cff40be3": 10,
+      "M_Context_pale_sandstone_469c71f5": 34
+    },
+    "web_building_751056963": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_751056964": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_751056965": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_751057003": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_751056966": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_751056968": {
+      "M_Roof_weathered_concrete_cff40be3": 5,
+      "M_Context_pale_sandstone_469c71f5": 19
+    },
+    "web_building_751056970": {
+      "M_Roof_weathered_concrete_cff40be3": 5,
+      "M_Context_pale_sandstone_469c71f5": 19
+    },
+    "web_building_751056972": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_751057002": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_751057001": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_751057000": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_751056999": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_751056998": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_751056984": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_185253514": {
+      "M_Roof_weathered_concrete_cff40be3": 21,
+      "M_Context_pale_sandstone_469c71f5": 67
+    },
+    "web_building_135787386": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_885812200": {
+      "M_Roof_weathered_concrete_cff40be3": 11,
+      "M_Context_pale_sandstone_469c71f5": 37
+    },
+    "web_building_527852768": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_709245126": {
+      "M_Roof_weathered_concrete_cff40be3": 5,
+      "M_Context_pale_sandstone_469c71f5": 19
+    },
+    "web_building_204545720": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_1058569047": {
+      "M_Roof_weathered_concrete_cff40be3": 22,
+      "M_Context_pale_sandstone_469c71f5": 70
+    },
+    "web_building_1058569048": {
+      "M_Roof_weathered_concrete_cff40be3": 22,
+      "M_Context_pale_sandstone_469c71f5": 70
+    },
+    "web_building_1058569050": {
+      "M_Roof_weathered_concrete_cff40be3": 45,
+      "M_Context_pale_sandstone_469c71f5": 139
+    },
+    "web_building_448483643": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_135787390": {
+      "M_Roof_weathered_concrete_cff40be3": 6,
+      "M_Context_pale_sandstone_469c71f5": 22
+    },
+    "web_building_1554329277": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_174307328": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_15728037": {
+      "M_Roof_weathered_concrete_cff40be3": 91,
+      "M_Context_pale_sandstone_469c71f5": 269
+    },
+    "web_building_448483645": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_914900394": {
+      "M_Roof_weathered_concrete_cff40be3": 33,
+      "M_Context_pale_sandstone_469c71f5": 103
+    },
+    "web_building_914973822": {
+      "M_Roof_weathered_concrete_cff40be3": 12,
+      "M_Context_pale_sandstone_469c71f5": 40
+    },
+    "web_building_914973844": {
+      "M_Roof_weathered_concrete_cff40be3": 22,
+      "M_Context_pale_sandstone_469c71f5": 70
+    },
+    "web_building_914900392": {
+      "M_Roof_weathered_concrete_cff40be3": 40,
+      "M_Context_pale_sandstone_469c71f5": 124
+    },
+    "web_building_914973813": {
+      "M_Roof_weathered_concrete_cff40be3": 28,
+      "M_Context_pale_sandstone_469c71f5": 88
+    },
+    "web_building_914900395": {
+      "M_Roof_weathered_concrete_cff40be3": 10,
+      "M_Context_pale_sandstone_469c71f5": 34
+    },
+    "web_building_914973821": {
+      "M_Roof_weathered_concrete_cff40be3": 18,
+      "M_Context_pale_sandstone_469c71f5": 58
+    },
+    "web_building_914900396": {
+      "M_Roof_weathered_concrete_cff40be3": 37,
+      "M_Context_pale_sandstone_469c71f5": 115
+    },
+    "web_building_914973820": {
+      "M_Roof_weathered_concrete_cff40be3": 7,
+      "M_Context_pale_sandstone_469c71f5": 25
+    },
+    "web_building_914973842": {
+      "M_Roof_weathered_concrete_cff40be3": 43,
+      "M_Context_pale_sandstone_469c71f5": 133
+    },
+    "web_building_914973819": {
+      "M_Roof_weathered_concrete_cff40be3": 28,
+      "M_Context_pale_sandstone_469c71f5": 88
+    },
+    "web_building_914897043": {
+      "M_Roof_weathered_concrete_cff40be3": 42,
+      "M_Context_pale_sandstone_469c71f5": 130
+    },
+    "web_building_914897042": {
+      "M_Roof_weathered_concrete_cff40be3": 42,
+      "M_Context_pale_sandstone_469c71f5": 130
+    },
+    "web_building_773906092": {
+      "M_Roof_weathered_concrete_cff40be3": 15,
+      "M_Context_pale_sandstone_469c71f5": 49
+    },
+    "web_building_519120429": {
+      "M_Roof_weathered_concrete_cff40be3": 5,
+      "M_Context_pale_sandstone_469c71f5": 19
+    },
+    "web_building_136637847": {
+      "M_Roof_weathered_concrete_cff40be3": 17,
+      "M_Context_pale_sandstone_469c71f5": 55
+    },
+    "web_building_135787393": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_1024849530": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527854083": {
+      "M_Roof_weathered_concrete_cff40be3": 7,
+      "M_Context_pale_sandstone_469c71f5": 25
+    },
+    "web_building_1032917711": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_1035894228": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_1035894230": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_1162853133": {
+      "M_Roof_weathered_concrete_cff40be3": 20,
+      "M_Context_pale_sandstone_469c71f5": 64
+    },
+    "web_building_1173350220": {
+      "M_Roof_weathered_concrete_cff40be3": 186,
+      "M_Context_pale_sandstone_469c71f5": 562
+    },
+    "web_building_1201096779": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_1201096780": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_1201096781": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_1209315213": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_1230610505": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_1230610506": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_1255479559": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_1255479560": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_323784938": {
+      "M_Roof_weathered_concrete_cff40be3": 19,
+      "M_Context_pale_sandstone_469c71f5": 61
+    },
+    "web_building_519120430": {
+      "M_Roof_weathered_concrete_cff40be3": 20,
+      "M_Context_pale_sandstone_469c71f5": 64
+    },
+    "web_building_519120431": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527852758": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527852759": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527852767": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527853432": {
+      "M_Roof_weathered_concrete_cff40be3": 3,
+      "M_Context_pale_sandstone_469c71f5": 13
+    },
+    "web_building_527853433": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_527853434": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_527854080": {
+      "M_Roof_weathered_concrete_cff40be3": 3,
+      "M_Context_pale_sandstone_469c71f5": 13
+    },
+    "web_building_527854081": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527854082": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527854809": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_527854810": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527854811": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527854812": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527854813": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527854815": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527854816": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527854817": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527854819": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527975230": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527975231": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527975232": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527975236": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527975237": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527975238": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_527975239": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527975241": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_527975242": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527975243": {
+      "M_Roof_weathered_concrete_cff40be3": 6,
+      "M_Context_pale_sandstone_469c71f5": 22
+    },
+    "web_building_527976277": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527976361": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_527976362": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_707149633": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_707149650": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_707149652": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_707149655": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_707149656": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_721592506": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_733045756": {
+      "M_Roof_weathered_concrete_cff40be3": 21,
+      "M_Context_pale_sandstone_469c71f5": 67
+    },
+    "web_building_738386459": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_738395999": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_751056973": {
+      "M_Roof_weathered_concrete_cff40be3": 39,
+      "M_Context_pale_sandstone_469c71f5": 121
+    },
+    "web_building_751056986": {
+      "M_Roof_weathered_concrete_cff40be3": 8,
+      "M_Context_pale_sandstone_469c71f5": 28
+    },
+    "web_building_751056987": {
+      "M_Roof_weathered_concrete_cff40be3": 8,
+      "M_Context_pale_sandstone_469c71f5": 28
+    },
+    "web_building_751056988": {
+      "M_Roof_weathered_concrete_cff40be3": 8,
+      "M_Context_pale_sandstone_469c71f5": 28
+    },
+    "web_building_751056989": {
+      "M_Roof_weathered_concrete_cff40be3": 8,
+      "M_Context_pale_sandstone_469c71f5": 28
+    },
+    "web_building_751057005": {
+      "M_Roof_weathered_concrete_cff40be3": 22,
+      "M_Context_pale_sandstone_469c71f5": 70
+    },
+    "web_building_751057006": {
+      "M_Roof_weathered_concrete_cff40be3": 8,
+      "M_Context_pale_sandstone_469c71f5": 28
+    },
+    "web_building_751057007": {
+      "M_Roof_weathered_concrete_cff40be3": 8,
+      "M_Context_pale_sandstone_469c71f5": 28
+    },
+    "web_building_751057008": {
+      "M_Roof_weathered_concrete_cff40be3": 8,
+      "M_Context_pale_sandstone_469c71f5": 28
+    },
+    "web_building_751057009": {
+      "M_Roof_weathered_concrete_cff40be3": 8,
+      "M_Context_pale_sandstone_469c71f5": 28
+    },
+    "web_building_751057010": {
+      "M_Roof_weathered_concrete_cff40be3": 8,
+      "M_Context_pale_sandstone_469c71f5": 28
+    },
+    "web_building_751057011": {
+      "M_Roof_weathered_concrete_cff40be3": 8,
+      "M_Context_pale_sandstone_469c71f5": 28
+    },
+    "web_building_751059031": {
+      "M_Roof_weathered_concrete_cff40be3": 8,
+      "M_Context_pale_sandstone_469c71f5": 28
+    },
+    "web_building_751059032": {
+      "M_Roof_weathered_concrete_cff40be3": 29,
+      "M_Context_pale_sandstone_469c71f5": 91
+    },
+    "web_building_822750048": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_838814781": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_838814783": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_838814784": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_839051021": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_914925545": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_914925546": {
+      "M_Roof_weathered_concrete_cff40be3": 6,
+      "M_Context_pale_sandstone_469c71f5": 22
+    },
+    "web_building_914925547": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_914925548": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_914925549": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_building_914925550": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_914925551": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_914925552": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_914925553": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_914925554": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_914925555": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_914925556": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_914925557": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_914925558": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_914925559": {
+      "M_Roof_weathered_concrete_cff40be3": 3,
+      "M_Context_pale_sandstone_469c71f5": 13
+    },
+    "web_building_914925560": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_914925561": {
+      "M_Roof_weathered_concrete_cff40be3": 2,
+      "M_Context_pale_sandstone_469c71f5": 10
+    },
+    "web_building_723796955": {
+      "M_Roof_weathered_concrete_cff40be3": 4,
+      "M_Context_pale_sandstone_469c71f5": 16
+    },
+    "web_site_04": {
+      "M_Road_v3_sandstone_path_b8ec37f7": 195923,
+      "M_Road_v3_asphalt_4915831b": 245165,
+      "M_Road_v3_step_approach_d5bec55a": 14612
+    },
+    "web_site_05": {
+      "M_Pitch_emerald_turf_984761df": 7184,
+      "M_Refined_water_calm_teal_63ae23df": 4076,
+      "M_Track_red_rubber_9bde0b25": 1420
+    },
+    "web_site_08": {
+      "M_Detail_Court_paint_6c92ccc3": 13482,
+      "M_Detail_Curbs_c3e2aadf": 41566,
+      "M_Detail_Goal_frames_f37de74d": 396,
+      "M_Detail_Lamp_heads_7efd921b": 3454,
+      "M_Detail_Lamp_poles_d6f1ded7": 7304,
+      "M_Detail_Net_mesh_31dc8019": 978,
+      "M_Detail_Pool_lane_ropes_7fc8a692": 400,
+      "M_Detail_Road_paint_7836b4cc": 4856,
+      "M_Detail_Turf_stripes_ed0ff9eb": 4326
+    },
+    "web_site_09": {
+      "M_Canopy_0_40dde4f4": 68720,
+      "M_Canopy_1_ebe8d06d": 82400,
+      "M_Canopy_2_fe2f459a": 82400,
+      "M_Canopy_3_8cc1e422": 82400,
+      "M_Bark_warm_grey_ed2404b9": 32976,
+      "M_Canopy_4_fea58dd9": 68720,
+      "M_Canopy_5_3906131f": 55040
+    },
+    "web_building_697781253": {
+      "M_Photo_FlatConcreteRoof_6dd706b7": 55,
+      "M_Photo_697781253_Wall_8577ce76": 1748,
+      "M_Photo_697781253_Accent_37e01d72": 206
+    },
+    "web_building_201907977": {
+      "M_Photo_landmarks_warm_white_concrete_92f1226f": 132,
+      "M_Photo_landmarks_recessed_blue_grey_glass_dda65e56": 72,
+      "M_Photo_landmarks_white_sunshade_803988a1": 792,
+      "M_Photo_landmarks_roof_membrane_e2df9db1": 12,
+      "M_Photo_landmarks_grey_concrete_1461c6df": 12,
+      "M_Photo_landmarks_dark_steel_827329ad": 24
+    },
+    "web_building_1424900701": {
+      "M_Photo_landmarks_warm_formlined_concrete_0d37a309": 348,
+      "M_Photo_landmarks_recessed_blue_grey_glass_dda65e56": 24,
+      "M_Photo_landmarks_roof_membrane_e2df9db1": 12,
+      "M_Photo_landmarks_dark_steel_827329ad": 696,
+      "M_Photo_landmarks_grey_concrete_1461c6df": 948
+    },
+    "web_building_107139030": {
+      "M_Photo_landmarks_warm_white_concrete_92f1226f": 1236,
+      "M_Photo_landmarks_roof_membrane_e2df9db1": 12,
+      "M_Photo_landmarks_grey_concrete_1461c6df": 60,
+      "M_Photo_landmarks_recessed_blue_grey_glass_dda65e56": 12,
+      "M_Photo_landmarks_white_sunshade_803988a1": 12
+    },
+    "web_building_134410449": {
+      "M_Photo_landmarks_warm_white_concrete_92f1226f": 36,
+      "M_Photo_landmarks_roof_membrane_e2df9db1": 12,
+      "M_Photo_landmarks_recessed_blue_grey_glass_dda65e56": 1164,
+      "M_Photo_landmarks_white_sunshade_803988a1": 540
+    },
+    "web_building_134410450": {
+      "M_Photo_landmarks_grey_concrete_1461c6df": 120,
+      "M_Photo_landmarks_warm_white_concrete_92f1226f": 420,
+      "M_Photo_landmarks_crest_gold_proxy_f698808a": 3,
+      "M_Photo_landmarks_crest_purple_proxy_6ae4cbb7": 3
+    },
+    "web_building_201907981": {
+      "M_Photo_landmarks_warm_white_concrete_92f1226f": 12,
+      "M_Photo_landmarks_roof_membrane_e2df9db1": 12,
+      "M_Photo_landmarks_recessed_blue_grey_glass_dda65e56": 2820,
+      "M_Photo_landmarks_white_sunshade_803988a1": 720
+    },
+    "web_site_14": {
+      "M_Road_v3_concrete_slab_edge_fb84e7d6": 507127
+    }
+  },
+  "note": "Visualization from OSM footprints, CEDD terrain and approximate photo-based facades; not a survey. Hidden original roads, fonts, labels, and presentation objects excluded."
+}

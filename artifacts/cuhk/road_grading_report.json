@@ -1,0 +1,21 @@
+{
+  "visible_road_count": 1602,
+  "shared_junction_sampler_gap_m": 0.0,
+  "terrain_grid_spacing_m": 1,
+  "terrain_vertices": 5764801,
+  "changed_cells": 1754904,
+  "cut_max_m": 15.048699340820292,
+  "fill_max_m": 23.208075561523444,
+  "mean_absolute_change_m": 0.600596068982942,
+  "source_note": "Source is official 0.5m DTM resampled at 1m, with legacy NoData fallback and existing architecture pads. Local road cut/fill is illustrative, based on source-matched road elevations; not engineering earthworks.",
+  "geometry": {
+    "method": "Round buffered footprint, constrained Delaunay, explicit source stations, planar open caps",
+    "vertices": 384882,
+    "triangles": 455700,
+    "reversed_triangles": 0,
+    "duplicate_faces": 0,
+    "max_area_error_m2": 3.055902197957039e-10,
+    "shared_vertex_instances": 3898,
+    "max_shared_vertex_error_m": 9.595909966714222e-06
+  }
+}

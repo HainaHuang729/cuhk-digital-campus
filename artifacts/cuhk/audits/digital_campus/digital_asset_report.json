@@ -1,0 +1,1007 @@
+{
+  "initialBytes": 24059236,
+  "initialTriangles": 4285449,
+  "initialDrawCalls": 594,
+  "zoneCount": 12,
+  "allRoundTripsPassed": true,
+  "codecComparison": {
+    "dracoBytes": 20076888,
+    "dracoReadMs": 695.9241999999999,
+    "meshoptBytes": 25229144,
+    "meshoptReadMs": 193.84289999999964,
+    "note": "Node single-run whole-file decode comparison; not a browser FPS benchmark. Same topology including static trees. Production uses streamed subsets with restored tree instances."
+  },
+  "terrain": {
+    "source_triangles": 11520000,
+    "web_triangles": 3107723,
+    "protected_1m_blocks": 21200,
+    "total_8m_blocks": 90000,
+    "protected_area_m2": 1356800,
+    "original_diagonals_preserved_in_protected_blocks": true,
+    "shared_boundary_vertices_stitched": true,
+    "coarse_block_size_m": 8,
+    "road_triangle_bounds_protected": true,
+    "source": "C:\\Users\\Amadeus\\Documents\\桌游主持人\\artifacts\\cuhk\\CUHK_shaw_science_corrected.blend",
+    "source_unchanged": true,
+    "tiles": [
+      {
+        "file": "terrain_0_0.glb",
+        "triangles": 84379
+      },
+      {
+        "file": "terrain_0_1.glb",
+        "triangles": 125976
+      },
+      {
+        "file": "terrain_0_2.glb",
+        "triangles": 306609
+      },
+      {
+        "file": "terrain_0_3.glb",
+        "triangles": 89252
+      },
+      {
+        "file": "terrain_1_0.glb",
+        "triangles": 116320
+      },
+      {
+        "file": "terrain_1_1.glb",
+        "triangles": 200407
+      },
+      {
+        "file": "terrain_1_2.glb",
+        "triangles": 398737
+      },
+      {
+        "file": "terrain_1_3.glb",
+        "triangles": 153177
+      },
+      {
+        "file": "terrain_2_0.glb",
+        "triangles": 126445
+      },
+      {
+        "file": "terrain_2_1.glb",
+        "triangles": 207731
+      },
+      {
+        "file": "terrain_2_2.glb",
+        "triangles": 242395
+      },
+      {
+        "file": "terrain_2_3.glb",
+        "triangles": 156488
+      },
+      {
+        "file": "terrain_3_0.glb",
+        "triangles": 161547
+      },
+      {
+        "file": "terrain_3_1.glb",
+        "triangles": 369160
+      },
+      {
+        "file": "terrain_3_2.glb",
+        "triangles": 321043
+      },
+      {
+        "file": "terrain_3_3.glb",
+        "triangles": 48057
+      }
+    ],
+    "ground": "heightfield.json",
+    "protected_road_sport_shaw_heights_changed": false,
+    "other_terrain_resolution_m": 8
+  },
+  "assets": [
+    {
+      "url": "/campus/site.glb",
+      "bytes": 8123460,
+      "triangles": 1052269,
+      "drawCalls": 16,
+      "vertices": 864312,
+      "bounds": {
+        "min": [
+          -1149.179931640625,
+          -0.24583670496940613,
+          -1204.994873046875
+        ],
+        "max": [
+          1200.000244140625,
+          259.54144287109375,
+          1203.999755859375
+        ]
+      },
+      "writeMs": 141.1930000000002,
+      "decodeMs": 37.843200000000024
+    },
+    {
+      "url": "/campus/buildings-low.glb",
+      "bytes": 2753192,
+      "triangles": 125457,
+      "drawCalls": 562,
+      "vertices": 240590,
+      "bounds": {
+        "min": [
+          -970.922607421875,
+          -0.7666692733764648,
+          -1140.799072265625
+        ],
+        "max": [
+          767.7003784179688,
+          174.36160278320312,
+          933.12890625
+        ]
+      },
+      "writeMs": 57.19349999999986,
+      "decodeMs": 31.33310000000006
+    },
+    {
+      "url": "/campus/zone_2_1-high.glb",
+      "bytes": 1334768,
+      "triangles": 76520,
+      "drawCalls": 146,
+      "vertices": 150455,
+      "bounds": {
+        "min": [
+          -482.1867980957031,
+          23.49904441833496,
+          -14.436269760131836
+        ],
+        "max": [
+          15.76150894165039,
+          174.36160278320312,
+          605.53466796875
+        ]
+      },
+      "writeMs": 19.39370000000008,
+      "decodeMs": 7.260299999999916
+    },
+    {
+      "url": "/campus/zone_2_1-medium.glb",
+      "bytes": 987052,
+      "triangles": 37142,
+      "drawCalls": 146,
+      "vertices": 97524,
+      "bounds": {
+        "min": [
+          -482.1867980957031,
+          23.528629302978516,
+          -14.436269760131836
+        ],
+        "max": [
+          15.76150894165039,
+          174.36160278320312,
+          605.53466796875
+        ]
+      },
+      "writeMs": 13.204699999999775,
+      "decodeMs": 6.019600000000082
+    },
+    {
+      "url": "/campus/zone_1_1-high.glb",
+      "bytes": 2796072,
+      "triangles": 167060,
+      "drawCalls": 193,
+      "vertices": 332357,
+      "bounds": {
+        "min": [
+          -609.8167724609375,
+          22.625595092773438,
+          -549.7451171875
+        ],
+        "max": [
+          11.71600341796875,
+          168.30184936523438,
+          6.567502975463867
+        ]
+      },
+      "writeMs": 39.35179999999991,
+      "decodeMs": 20.42350000000033
+    },
+    {
+      "url": "/campus/zone_1_1-medium.glb",
+      "bytes": 1975480,
+      "triangles": 81716,
+      "drawCalls": 193,
+      "vertices": 212420,
+      "bounds": {
+        "min": [
+          -609.8167724609375,
+          22.625595092773438,
+          -549.7451171875
+        ],
+        "max": [
+          11.71600341796875,
+          168.30184936523438,
+          6.567502975463867
+        ]
+      },
+      "writeMs": 32.36779999999999,
+      "decodeMs": 10.481900000000223
+    },
+    {
+      "url": "/campus/zone_0_1-high.glb",
+      "bytes": 1452444,
+      "triangles": 84878,
+      "drawCalls": 103,
+      "vertices": 168100,
+      "bounds": {
+        "min": [
+          -594.1497192382812,
+          -0.7666692733764648,
+          -1140.799072265625
+        ],
+        "max": [
+          12.224760055541992,
+          69.70000457763672,
+          -595.1917114257812
+        ]
+      },
+      "writeMs": 36.5315999999998,
+      "decodeMs": 19.835799999999836
+    },
+    {
+      "url": "/campus/zone_0_1-medium.glb",
+      "bytes": 933384,
+      "triangles": 35661,
+      "drawCalls": 103,
+      "vertices": 94939,
+      "bounds": {
+        "min": [
+          -594.1497192382812,
+          -0.7666692733764648,
+          -1140.799072265625
+        ],
+        "max": [
+          12.224760055541992,
+          69.70000457763672,
+          -595.1917114257812
+        ]
+      },
+      "writeMs": 23.29780000000028,
+      "decodeMs": 9.322400000000016
+    },
+    {
+      "url": "/campus/zone_2_2-high.glb",
+      "bytes": 4341456,
+      "triangles": 251207,
+      "drawCalls": 375,
+      "vertices": 492589,
+      "bounds": {
+        "min": [
+          -17.824485778808594,
+          4.337071418762207,
+          -7.285431861877441
+        ],
+        "max": [
+          570.9190673828125,
+          118.5719223022461,
+          601.1442260742188
+        ]
+      },
+      "writeMs": 111.33219999999983,
+      "decodeMs": 37.48030000000017
+    },
+    {
+      "url": "/campus/zone_2_2-medium.glb",
+      "bytes": 3137556,
+      "triangles": 122572,
+      "drawCalls": 375,
+      "vertices": 320187,
+      "bounds": {
+        "min": [
+          -17.824485778808594,
+          4.337071418762207,
+          -7.285431861877441
+        ],
+        "max": [
+          570.9190673828125,
+          118.5719223022461,
+          601.1442260742188
+        ]
+      },
+      "writeMs": 74.29199999999946,
+      "decodeMs": 30.47980000000007
+    },
+    {
+      "url": "/campus/zone_1_2-high.glb",
+      "bytes": 2608420,
+      "triangles": 148204,
+      "drawCalls": 227,
+      "vertices": 295410,
+      "bounds": {
+        "min": [
+          -10.864815711975098,
+          5.572286605834961,
+          -594.2366943359375
+        ],
+        "max": [
+          618.1871948242188,
+          162.26095581054688,
+          8.478626251220703
+        ]
+      },
+      "writeMs": 78.41219999999976,
+      "decodeMs": 22.91650000000027
+    },
+    {
+      "url": "/campus/zone_1_2-medium.glb",
+      "bytes": 1959112,
+      "triangles": 77516,
+      "drawCalls": 227,
+      "vertices": 200448,
+      "bounds": {
+        "min": [
+          -10.864815711975098,
+          5.572286605834961,
+          -594.2366943359375
+        ],
+        "max": [
+          618.1871948242188,
+          162.26095581054688,
+          8.478626251220703
+        ]
+      },
+      "writeMs": 67.73989999999958,
+      "decodeMs": 18.712500000000546
+    },
+    {
+      "url": "/campus/zone_3_2-high.glb",
+      "bytes": 834124,
+      "triangles": 47814,
+      "drawCalls": 65,
+      "vertices": 95272,
+      "bounds": {
+        "min": [
+          32.88167190551758,
+          4.725451946258545,
+          596.2122802734375
+        ],
+        "max": [
+          493.5455322265625,
+          117.5734634399414,
+          933.12890625
+        ]
+      },
+      "writeMs": 21.358500000000276,
+      "decodeMs": 7.2520000000004075
+    },
+    {
+      "url": "/campus/zone_3_2-medium.glb",
+      "bytes": 555568,
+      "triangles": 22282,
+      "drawCalls": 65,
+      "vertices": 57401,
+      "bounds": {
+        "min": [
+          32.88167190551758,
+          4.725451946258545,
+          596.2122802734375
+        ],
+        "max": [
+          493.5455322265625,
+          117.5734634399414,
+          933.12890625
+        ]
+      },
+      "writeMs": 14.266899999999623,
+      "decodeMs": 8.12119999999959
+    },
+    {
+      "url": "/campus/zone_0_2-high.glb",
+      "bytes": 26020,
+      "triangles": 396,
+      "drawCalls": 18,
+      "vertices": 642,
+      "bounds": {
+        "min": [
+          52.34071731567383,
+          6.181391716003418,
+          -890.5159301757812
+        ],
+        "max": [
+          407.0838928222656,
+          36.522239685058594,
+          -581.03857421875
+        ]
+      },
+      "writeMs": 2.034700000000157,
+      "decodeMs": 1.2299000000002707
+    },
+    {
+      "url": "/campus/zone_0_2-medium.glb",
+      "bytes": 25408,
+      "triangles": 319,
+      "drawCalls": 18,
+      "vertices": 630,
+      "bounds": {
+        "min": [
+          52.34071731567383,
+          6.181391716003418,
+          -890.5159301757812
+        ],
+        "max": [
+          407.0838928222656,
+          36.522239685058594,
+          -581.03857421875
+        ]
+      },
+      "writeMs": 7.1952000000001135,
+      "decodeMs": 1.2303000000001703
+    },
+    {
+      "url": "/campus/zone_1_3-high.glb",
+      "bytes": 340864,
+      "triangles": 17334,
+      "drawCalls": 58,
+      "vertices": 34526,
+      "bounds": {
+        "min": [
+          594.3932495117188,
+          5.4361677169799805,
+          -575.7388916015625
+        ],
+        "max": [
+          767.7003784179688,
+          55.70566940307617,
+          -54.92741012573242
+        ]
+      },
+      "writeMs": 8.779700000000048,
+      "decodeMs": 4.287899999999354
+    },
+    {
+      "url": "/campus/zone_1_3-medium.glb",
+      "bytes": 270724,
+      "triangles": 9919,
+      "drawCalls": 58,
+      "vertices": 24777,
+      "bounds": {
+        "min": [
+          594.3932495117188,
+          5.4361677169799805,
+          -575.7388916015625
+        ],
+        "max": [
+          767.7003784179688,
+          55.70566940307617,
+          -54.92741012573242
+        ]
+      },
+      "writeMs": 7.447400000000016,
+      "decodeMs": 4.245199999999386
+    },
+    {
+      "url": "/campus/zone_1_0-high.glb",
+      "bytes": 464052,
+      "triangles": 23172,
+      "drawCalls": 117,
+      "vertices": 46220,
+      "bounds": {
+        "min": [
+          -970.922607421875,
+          11.03960132598877,
+          -482.9602966308594
+        ],
+        "max": [
+          -600.8983154296875,
+          131.5684051513672,
+          3.023893356323242
+        ]
+      },
+      "writeMs": 12.368400000000292,
+      "decodeMs": 5.832300000000032
+    },
+    {
+      "url": "/campus/zone_1_0-medium.glb",
+      "bytes": 319224,
+      "triangles": 9388,
+      "drawCalls": 117,
+      "vertices": 25203,
+      "bounds": {
+        "min": [
+          -970.922607421875,
+          11.03960132598877,
+          -482.9602966308594
+        ],
+        "max": [
+          -600.8983154296875,
+          131.5684051513672,
+          3.023893356323242
+        ]
+      },
+      "writeMs": 8.255600000000413,
+      "decodeMs": 5.311800000000403
+    },
+    {
+      "url": "/campus/zone_2_3-high.glb",
+      "bytes": 15772,
+      "triangles": 152,
+      "drawCalls": 12,
+      "vertices": 260,
+      "bounds": {
+        "min": [
+          598.383544921875,
+          3.7086334228515625,
+          19.154834747314453
+        ],
+        "max": [
+          764.2326049804688,
+          21.80249786376953,
+          579.1570434570312
+        ]
+      },
+      "writeMs": 1.5844999999999345,
+      "decodeMs": 1.1785999999992782
+    },
+    {
+      "url": "/campus/zone_2_3-medium.glb",
+      "bytes": 15164,
+      "triangles": 124,
+      "drawCalls": 12,
+      "vertices": 248,
+      "bounds": {
+        "min": [
+          598.383544921875,
+          3.7086334228515625,
+          19.154834747314453
+        ],
+        "max": [
+          764.2326049804688,
+          21.80249786376953,
+          579.1570434570312
+        ]
+      },
+      "writeMs": 1.4035000000003492,
+      "decodeMs": 1.2013999999999214
+    },
+    {
+      "url": "/campus/zone_0_0-high.glb",
+      "bytes": 30600,
+      "triangles": 1072,
+      "drawCalls": 16,
+      "vertices": 1652,
+      "bounds": {
+        "min": [
+          -664.1347045898438,
+          3.631410598754883,
+          -1052.2525634765625
+        ],
+        "max": [
+          -573.97265625,
+          46.95819091796875,
+          -657.6475830078125
+        ]
+      },
+      "writeMs": 1.8057000000007974,
+      "decodeMs": 1.190599999999904
+    },
+    {
+      "url": "/campus/zone_0_0-medium.glb",
+      "bytes": 28212,
+      "triangles": 676,
+      "drawCalls": 16,
+      "vertices": 1326,
+      "bounds": {
+        "min": [
+          -664.1347045898438,
+          3.631410598754883,
+          -1052.2525634765625
+        ],
+        "max": [
+          -573.97265625,
+          46.95819091796875,
+          -657.6475830078125
+        ]
+      },
+      "writeMs": 1.9092000000000553,
+      "decodeMs": 1.1758999999992739
+    },
+    {
+      "url": "/campus/zone_3_1-high.glb",
+      "bytes": 40680,
+      "triangles": 568,
+      "drawCalls": 34,
+      "vertices": 940,
+      "bounds": {
+        "min": [
+          -92.02820587158203,
+          60.80315399169922,
+          571.4247436523438
+        ],
+        "max": [
+          -2.2368831634521484,
+          84.17105102539062,
+          654.7372436523438
+        ]
+      },
+      "writeMs": 1.9887999999991735,
+      "decodeMs": 1.8086999999995896
+    },
+    {
+      "url": "/campus/zone_3_1-medium.glb",
+      "bytes": 39000,
+      "triangles": 389,
+      "drawCalls": 34,
+      "vertices": 785,
+      "bounds": {
+        "min": [
+          -92.02820587158203,
+          60.80315399169922,
+          571.4247436523438
+        ],
+        "max": [
+          -2.2368831634521484,
+          84.17105102539062,
+          654.7372436523438
+        ]
+      },
+      "writeMs": 2.3740999999999985,
+      "decodeMs": 1.7290000000002692
+    },
+    {
+      "url": "/campus/terrain_0_0.glb",
+      "bytes": 442696,
+      "triangles": 84379,
+      "drawCalls": 1,
+      "vertices": 42484,
+      "bounds": {
+        "min": [
+          -1200,
+          84.38948059082031,
+          600
+        ],
+        "max": [
+          -600,
+          246.913330078125,
+          1200
+        ]
+      },
+      "writeMs": 10.250999999999294,
+      "decodeMs": 3.4111000000002605
+    },
+    {
+      "url": "/campus/terrain_0_1.glb",
+      "bytes": 601876,
+      "triangles": 125976,
+      "drawCalls": 1,
+      "vertices": 63356,
+      "bounds": {
+        "min": [
+          -600,
+          38.9531364440918,
+          600
+        ],
+        "max": [
+          0,
+          233.1096954345703,
+          1200
+        ]
+      },
+      "writeMs": 14.623799999999392,
+      "decodeMs": 4.474299999999857
+    },
+    {
+      "url": "/campus/terrain_0_2.glb",
+      "bytes": 1276908,
+      "triangles": 306609,
+      "drawCalls": 1,
+      "vertices": 153914,
+      "bounds": {
+        "min": [
+          0,
+          1.6828064918518066,
+          600
+        ],
+        "max": [
+          600,
+          134.29385375976562,
+          1200
+        ]
+      },
+      "writeMs": 35.414200000000164,
+      "decodeMs": 14.923600000000079
+    },
+    {
+      "url": "/campus/terrain_0_3.glb",
+      "bytes": 413272,
+      "triangles": 89252,
+      "drawCalls": 1,
+      "vertices": 45029,
+      "bounds": {
+        "min": [
+          600,
+          -2.3664746606755216e-7,
+          600
+        ],
+        "max": [
+          1200,
+          9.731637001037598,
+          1200
+        ]
+      },
+      "writeMs": 10.432200000000194,
+      "decodeMs": 3.1680999999998676
+    },
+    {
+      "url": "/campus/terrain_1_0.glb",
+      "bytes": 554016,
+      "triangles": 116320,
+      "drawCalls": 1,
+      "vertices": 58493,
+      "bounds": {
+        "min": [
+          -1200,
+          92.92599487304688,
+          0
+        ],
+        "max": [
+          -600,
+          259.31024169921875,
+          600
+        ]
+      },
+      "writeMs": 15.699000000000524,
+      "decodeMs": 10.260600000000522
+    },
+    {
+      "url": "/campus/terrain_1_1.glb",
+      "bytes": 847684,
+      "triangles": 200407,
+      "drawCalls": 1,
+      "vertices": 100778,
+      "bounds": {
+        "min": [
+          -600,
+          20.14894676208496,
+          0
+        ],
+        "max": [
+          0,
+          232.68797302246094,
+          600
+        ]
+      },
+      "writeMs": 24.235999999999876,
+      "decodeMs": 9.070099999999911
+    },
+    {
+      "url": "/campus/terrain_1_2.glb",
+      "bytes": 1495820,
+      "triangles": 398737,
+      "drawCalls": 1,
+      "vertices": 200111,
+      "bounds": {
+        "min": [
+          0,
+          1.4572622776031494,
+          0
+        ],
+        "max": [
+          600,
+          105.9390640258789,
+          600
+        ]
+      },
+      "writeMs": 45.83510000000024,
+      "decodeMs": 11.822699999998804
+    },
+    {
+      "url": "/campus/terrain_1_3.glb",
+      "bytes": 622676,
+      "triangles": 153177,
+      "drawCalls": 1,
+      "vertices": 76988,
+      "bounds": {
+        "min": [
+          600,
+          -1,
+          0
+        ],
+        "max": [
+          1200,
+          12.36936092376709,
+          600
+        ]
+      },
+      "writeMs": 17.452100000000428,
+      "decodeMs": 7.568499999999403
+    },
+    {
+      "url": "/campus/terrain_2_0.glb",
+      "bytes": 612384,
+      "triangles": 126445,
+      "drawCalls": 1,
+      "vertices": 63573,
+      "bounds": {
+        "min": [
+          -1200,
+          3.4353904724121094,
+          -600
+        ],
+        "max": [
+          -600,
+          135.22396850585938,
+          0
+        ]
+      },
+      "writeMs": 15.523000000001048,
+      "decodeMs": 6.293499999999767
+    },
+    {
+      "url": "/campus/terrain_2_1.glb",
+      "bytes": 883504,
+      "triangles": 207731,
+      "drawCalls": 1,
+      "vertices": 104433,
+      "bounds": {
+        "min": [
+          -600,
+          8.36400032043457,
+          -600
+        ],
+        "max": [
+          0,
+          156.6332550048828,
+          0
+        ]
+      },
+      "writeMs": 23.02059999999983,
+      "decodeMs": 8.423500000000786
+    },
+    {
+      "url": "/campus/terrain_2_2.glb",
+      "bytes": 1010108,
+      "triangles": 242395,
+      "drawCalls": 1,
+      "vertices": 121884,
+      "bounds": {
+        "min": [
+          0,
+          4.324792861938477,
+          -600
+        ],
+        "max": [
+          600,
+          149.024658203125,
+          0
+        ]
+      },
+      "writeMs": 26.433600000000297,
+      "decodeMs": 10.60319999999956
+    },
+    {
+      "url": "/campus/terrain_2_3.glb",
+      "bytes": 643836,
+      "triangles": 156488,
+      "drawCalls": 1,
+      "vertices": 78640,
+      "bounds": {
+        "min": [
+          600,
+          -2.5999999046325684,
+          -600
+        ],
+        "max": [
+          1200,
+          18.112245559692383,
+          0
+        ]
+      },
+      "writeMs": 21.015699999999924,
+      "decodeMs": 6.162599999999657
+    },
+    {
+      "url": "/campus/terrain_3_0.glb",
+      "bytes": 707156,
+      "triangles": 161547,
+      "drawCalls": 1,
+      "vertices": 81201,
+      "bounds": {
+        "min": [
+          -1200,
+          3.6099112033843994,
+          -1200
+        ],
+        "max": [
+          -600,
+          129.7543487548828,
+          -600
+        ]
+      },
+      "writeMs": 17.645800000000236,
+      "decodeMs": 5.287099999999555
+    },
+    {
+      "url": "/campus/terrain_3_1.glb",
+      "bytes": 1509540,
+      "triangles": 369160,
+      "drawCalls": 1,
+      "vertices": 185284,
+      "bounds": {
+        "min": [
+          -600,
+          -0.9393163919448853,
+          -1200
+        ],
+        "max": [
+          0,
+          53.54562759399414,
+          -600
+        ]
+      },
+      "writeMs": 41.01050000000032,
+      "decodeMs": 12.934700000001612
+    },
+    {
+      "url": "/campus/terrain_3_2.glb",
+      "bytes": 1312408,
+      "triangles": 321043,
+      "drawCalls": 1,
+      "vertices": 161110,
+      "bounds": {
+        "min": [
+          0,
+          -1.0104421377182007,
+          -1200
+        ],
+        "max": [
+          600,
+          32.88505554199219,
+          -600
+        ]
+      },
+      "writeMs": 37.26929999999993,
+      "decodeMs": 11.920200000000477
+    },
+    {
+      "url": "/campus/terrain_3_3.glb",
+      "bytes": 248700,
+      "triangles": 48057,
+      "drawCalls": 1,
+      "vertices": 24267,
+      "bounds": {
+        "min": [
+          600,
+          -0.23929817974567413,
+          -1200
+        ],
+        "max": [
+          1200,
+          7.964997291564941,
+          -600
+        ]
+      },
+      "writeMs": 7.424299999998766,
+      "decodeMs": 4.318100000000413
+    },
+    {
+      "url": "/campus/codec-comparison.glb",
+      "bytes": 25229144,
+      "triangles": 2343302,
+      "drawCalls": 1387,
+      "vertices": 2771275,
+      "bounds": {
+        "min": [
+          -1149.179931640625,
+          -0.7666692733764648,
+          -1204.994873046875
+        ],
+        "max": [
+          1200.000244140625,
+          259.54144287109375,
+          1203.999755859375
+        ]
+      },
+      "writeMs": 574.9262999999992,
+      "decodeMs": 193.84289999999964
+    }
+  ],
+  "lowFacadePreservation": {
+    "facadeBuildings": 187,
+    "facadeTriangles": 76770,
+    "glazingSeparateForNightLighting": true,
+    "noInventedWindowGeometry": true
+  }
+}

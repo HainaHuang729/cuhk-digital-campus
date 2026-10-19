@@ -1,0 +1,1189 @@
+{
+  "version": 1,
+  "verifiedAt": "2026-09-28",
+  "verificationMeaning": "网页资料核对日期，不是实地观察日期。",
+  "notice": "此为资料支持的生态解说点，不是实时监测或逐株树木普查。",
+  "confidenceDefinitions": {
+    "exact": "有可复核的逐株或设施坐标及现场依据；本样板无此类记录。",
+    "approximate": "资料明确提及地点或区域，展示为近似观察区域。",
+    "inferred": "仅由生境或模型推断，不能当作物种出现记录；本样板未用于物种。"
+  },
+  "sample": {
+    "id": "lake-ad-excellentiam",
+    "name": "未圆湖生态样板",
+    "center": [
+      232,
+      6.6,
+      445
+    ],
+    "bounds": {
+      "min": [
+        130,
+        0,
+        355
+      ],
+      "max": [
+        325,
+        45,
+        555
+      ]
+    },
+    "lakeBoundaryXZ": [
+      [
+        172.028,
+        410.329
+      ],
+      [
+        171.348,
+        412.322
+      ],
+      [
+        160.928,
+        405.392
+      ],
+      [
+        165.663,
+        400.918
+      ],
+      [
+        170.223,
+        396.266
+      ],
+      [
+        174.587,
+        391.437
+      ],
+      [
+        178.056,
+        386.807
+      ],
+      [
+        182.307,
+        382.875
+      ],
+      [
+        187.197,
+        379.774
+      ],
+      [
+        192.571,
+        377.602
+      ],
+      [
+        198.254,
+        376.438
+      ],
+      [
+        203.906,
+        376.337
+      ],
+      [
+        247.705,
+        377.501
+      ],
+      [
+        253.708,
+        378.12
+      ],
+      [
+        262.552,
+        380.344
+      ],
+      [
+        274.074,
+        385.225
+      ],
+      [
+        287.296,
+        394.679
+      ],
+      [
+        298.129,
+        402.716
+      ],
+      [
+        305.554,
+        409.968
+      ],
+      [
+        307.029,
+        421.417
+      ],
+      [
+        302.275,
+        433.023
+      ],
+      [
+        292.806,
+        447.643
+      ],
+      [
+        291.336,
+        456.358
+      ],
+      [
+        294.447,
+        466.6
+      ],
+      [
+        292.864,
+        476.866
+      ],
+      [
+        289.437,
+        483.057
+      ],
+      [
+        287.328,
+        489.89
+      ],
+      [
+        287.659,
+        499.036
+      ],
+      [
+        289.967,
+        508.194
+      ],
+      [
+        291.989,
+        523.098
+      ],
+      [
+        291.941,
+        539.166
+      ],
+      [
+        277.619,
+        539.003
+      ],
+      [
+        277.266,
+        524.253
+      ],
+      [
+        276.664,
+        503.634
+      ],
+      [
+        274.794,
+        473.98
+      ],
+      [
+        273.092,
+        461.068
+      ],
+      [
+        265.173,
+        450.561
+      ],
+      [
+        252.043,
+        440.864
+      ],
+      [
+        236.886,
+        432.994
+      ],
+      [
+        217.673,
+        428.701
+      ],
+      [
+        198.894,
+        429.292
+      ],
+      [
+        166.031,
+        436.453
+      ],
+      [
+        158.267,
+        434.218
+      ],
+      [
+        150.287,
+        428.616
+      ],
+      [
+        148.37,
+        420.212
+      ],
+      [
+        153.228,
+        412.647
+      ],
+      [
+        161.042,
+        410.686
+      ],
+      [
+        169.002,
+        415.003
+      ],
+      [
+        172.976,
+        417.061
+      ],
+      [
+        204.811,
+        415.615
+      ],
+      [
+        210.71,
+        416.057
+      ],
+      [
+        216.435,
+        415.125
+      ],
+      [
+        219.316,
+        410.584
+      ],
+      [
+        221.025,
+        406.764
+      ],
+      [
+        222.011,
+        398.314
+      ],
+      [
+        221.3,
+        394.915
+      ],
+      [
+        220.301,
+        393.088
+      ],
+      [
+        217.016,
+        390.94
+      ],
+      [
+        210.993,
+        389.258
+      ],
+      [
+        206.782,
+        388.894
+      ],
+      [
+        200.635,
+        388.486
+      ],
+      [
+        195.446,
+        388.553
+      ],
+      [
+        190.195,
+        389.429
+      ],
+      [
+        185.254,
+        391.401
+      ],
+      [
+        180.848,
+        394.392
+      ],
+      [
+        177.204,
+        398.246
+      ],
+      [
+        174.466,
+        402.798
+      ],
+      [
+        172.028,
+        410.329
+      ]
+    ],
+    "boundarySource": "artifacts/cuhk/geodata.json · OSM water 33411938",
+    "view": {
+      "position": [
+        420,
+        225,
+        715
+      ],
+      "target": [
+        232,
+        8,
+        445
+      ]
+    },
+    "presentation": {
+      "views": {
+        "shoreline": {
+          "label": "湖岸漫步",
+          "position": [
+            178,
+            30,
+            456
+          ],
+          "target": [
+            238,
+            8,
+            407
+          ]
+        },
+        "philosophy": {
+          "label": "哲径望湖",
+          "position": [
+            261,
+            28,
+            498
+          ],
+          "target": [
+            283,
+            8,
+            434
+          ]
+        }
+      },
+      "meaning": "湖岸附近的抬高观察构图；镜头位置不代表实地观测站、精确植物位置或第一人称步行路线。"
+    },
+    "birdArea": {
+      "center": [
+        237,
+        27,
+        422
+      ],
+      "radiusX": 60,
+      "radiusZ": 28,
+      "heightRange": [
+        19,
+        38
+      ],
+      "meaning": "限制氛围动画的局部活动区域；非鸟种分布或监测记录。"
+    },
+    "coordinateSystem": {
+      "horizontal": "HK1980 / Hong Kong 1980 Grid (EPSG:2326)",
+      "vertical": "场景沿用 HKPD；生态锚点高度来自现有地形，非实测水位。",
+      "origin": [
+        839400,
+        831150
+      ],
+      "units": "metres",
+      "toThree": "[easting - 839400, height, -(northing - 831150)]",
+      "markerHeight": "现有20米高度场相邻四格最大值+6米；仅用于可读性。"
+    },
+    "scope": "湖面、湖岸及紧邻步道的局部解释样板；范围为开发边界，不是官方保护区边界。"
+  },
+  "visualTypes": {
+    "tall_tree": {
+      "label": "高大乔木",
+      "description": "高干与宽厚树冠，示意樟树。"
+    },
+    "medium_tree": {
+      "label": "中型树",
+      "description": "中等树高、较轻树冠，示意串钱柳和无忧树。"
+    },
+    "shrub": {
+      "label": "灌木",
+      "description": "低矮密集冠团，示意山茶、软枝黄蝉和大红花。"
+    },
+    "spreading": {
+      "label": "开阔冠形",
+      "description": "低分枝、横向伸展冠形，示意鸡蛋花。"
+    },
+    "slender": {
+      "label": "细高型",
+      "description": "细长树干、较窄冠形，示意落羽松。"
+    }
+  },
+  "plants": [
+    {
+      "id": "plant-camphor",
+      "type": "plant",
+      "nameZh": "樟树",
+      "nameEn": "Camphor tree",
+      "scientificName": "Cinnamomum camphora",
+      "category": "tree",
+      "habitat": "lakeside",
+      "description": "常绿乔木，冠形宽阔。崇基学院的湖区介绍明确列有樟树。",
+      "source": [
+        {
+          "title": "香港中文大学崇基学院：校湖",
+          "url": "https://www.ccc.cuhk.edu.hk/tc/content.php?wid=401",
+          "scope": "湖区植物名单、文化与哲径；无树干坐标",
+          "id": "lake",
+          "verifiedAt": "2026-09-28"
+        },
+        {
+          "title": "香港政府绿化：樟树资料",
+          "url": "https://www.greening.gov.hk/en/community-outreach/qrcode-tree-labels/index_id_12.html",
+          "scope": "樟树学名、英文名及形态；非中大位置数据",
+          "id": "camphor",
+          "verifiedAt": "2026-09-28"
+        }
+      ],
+      "verifiedAt": "2026-09-28",
+      "confidence": "approximate",
+      "locationType": "area",
+      "position": [
+        220,
+        15.096,
+        366
+      ],
+      "approximateLocation": {
+        "name": "未圆湖湖岸观察区域",
+        "position": [
+          232,
+          6.6,
+          445
+        ],
+        "radiusMeters": 125,
+        "method": "依据现有湖面边界划定的解释区域；标记为排版锚点，不是树干中心或调查范围边界。"
+      },
+      "notes": "出处确认区域曾有此植物；无逐株坐标，未与现有随机树实例绑定。学名沿用所列来源。",
+      "visualType": "tall_tree",
+      "notice": "此为资料支持的生态解说点，不是实时监测或逐株树木普查。",
+      "presentation": {
+        "view": {
+          "position": [
+            178,
+            30,
+            456
+          ],
+          "target": [
+            238,
+            8,
+            407
+          ]
+        }
+      }
+    },
+    {
+      "id": "plant-bald-cypress",
+      "type": "plant",
+      "nameZh": "落羽松（落羽杉）",
+      "nameEn": "Bald cypress",
+      "scientificName": "Taxodium distichum",
+      "category": "tree",
+      "habitat": "aquatic_edge",
+      "description": "湖边高大乔木之一，采用细高冠形作示意。名称与现存单株仍需现场核对。",
+      "source": [
+        {
+          "title": "香港中文大学崇基学院：校湖",
+          "url": "https://www.ccc.cuhk.edu.hk/tc/content.php?wid=401",
+          "scope": "湖区植物名单、文化与哲径；无树干坐标",
+          "id": "lake",
+          "verifiedAt": "2026-09-28"
+        },
+        {
+          "title": "康乐及文化事务署：落羽杉植物图鉴",
+          "url": "https://www.lcsd.gov.hk/tc/green/education/greeningknowledge/plantphoto/tree_passage/taxodium_distichum.html",
+          "scope": "落羽杉学名及英文名；非中大位置数据",
+          "id": "cypress",
+          "verifiedAt": "2026-09-28"
+        }
+      ],
+      "verifiedAt": "2026-09-28",
+      "confidence": "approximate",
+      "locationType": "area",
+      "position": [
+        303,
+        16.512,
+        500
+      ],
+      "approximateLocation": {
+        "name": "未圆湖湖岸观察区域",
+        "position": [
+          232,
+          6.6,
+          445
+        ],
+        "radiusMeters": 125,
+        "method": "依据现有湖面边界划定的解释区域；标记为排版锚点，不是树干中心或调查范围边界。"
+      },
+      "notes": "出处确认区域曾有此植物；无逐株坐标，未与现有随机树实例绑定。学名沿用所列来源。",
+      "visualType": "slender",
+      "notice": "此为资料支持的生态解说点，不是实时监测或逐株树木普查。",
+      "presentation": {
+        "view": {
+          "position": [
+            261,
+            29,
+            490
+          ],
+          "target": [
+            298,
+            10,
+            499
+          ]
+        }
+      }
+    },
+    {
+      "id": "plant-frangipani",
+      "type": "plant",
+      "nameZh": "鸡蛋花",
+      "nameEn": "Frangipani",
+      "scientificName": "Plumeria rubra",
+      "category": "tree",
+      "habitat": "lakeside",
+      "description": "崇基校园通讯将鸡蛋花记于未圆湖西端；小乔木以展开冠形呈现。",
+      "source": [
+        {
+          "title": "崇基校园通讯：崇基春季花卉（2023-03-20）",
+          "url": "https://www.ccc.cuhk.edu.hk/tc/publication_detail.php?id=109",
+          "scope": "湖畔植物名称、形态；鸡蛋花位于湖西端",
+          "id": "spring",
+          "verifiedAt": "2026-09-28"
+        }
+      ],
+      "verifiedAt": "2026-09-28",
+      "confidence": "approximate",
+      "locationType": "area",
+      "position": [
+        145,
+        17.116,
+        420
+      ],
+      "approximateLocation": {
+        "name": "未圆湖西端观察区域",
+        "position": [
+          164,
+          6.6,
+          415
+        ],
+        "radiusMeters": 40,
+        "method": "校方文章仅明确湖西端；40米为展示区域半径，非定位误差或调查边界。"
+      },
+      "notes": "出处确认区域曾有此植物；无逐株坐标，未与现有随机树实例绑定。学名沿用所列来源。",
+      "visualType": "spreading",
+      "notice": "此为资料支持的生态解说点，不是实时监测或逐株树木普查。",
+      "presentation": {
+        "view": {
+          "position": [
+            193,
+            30,
+            452
+          ],
+          "target": [
+            154,
+            10,
+            417
+          ]
+        }
+      }
+    },
+    {
+      "id": "plant-bottlebrush",
+      "type": "plant",
+      "nameZh": "串钱柳",
+      "nameEn": "Weeping bottlebrush",
+      "scientificName": "Callistemon viminalis",
+      "category": "tree",
+      "habitat": "lakeside",
+      "description": "湖畔小乔木，枝条柔软下垂，红色花序呈刷状。",
+      "source": [
+        {
+          "title": "崇基校园通讯：崇基春季花卉（2023-03-20）",
+          "url": "https://www.ccc.cuhk.edu.hk/tc/publication_detail.php?id=109",
+          "scope": "湖畔植物名称、形态；鸡蛋花位于湖西端",
+          "id": "spring",
+          "verifiedAt": "2026-09-28"
+        },
+        {
+          "title": "香港中文大学崇基学院：校湖",
+          "url": "https://www.ccc.cuhk.edu.hk/tc/content.php?wid=401",
+          "scope": "湖区植物名单、文化与哲径；无树干坐标",
+          "id": "lake",
+          "verifiedAt": "2026-09-28"
+        }
+      ],
+      "verifiedAt": "2026-09-28",
+      "confidence": "approximate",
+      "locationType": "area",
+      "position": [
+        310,
+        15.942,
+        424
+      ],
+      "approximateLocation": {
+        "name": "未圆湖湖岸观察区域",
+        "position": [
+          232,
+          6.6,
+          445
+        ],
+        "radiusMeters": 125,
+        "method": "依据现有湖面边界划定的解释区域；标记为排版锚点，不是树干中心或调查范围边界。"
+      },
+      "notes": "出处确认区域曾有此植物；无逐株坐标，未与现有随机树实例绑定。学名沿用所列来源。",
+      "visualType": "medium_tree",
+      "notice": "此为资料支持的生态解说点，不是实时监测或逐株树木普查。",
+      "presentation": {
+        "view": {
+          "position": [
+            263,
+            30,
+            445
+          ],
+          "target": [
+            303,
+            10,
+            424
+          ]
+        }
+      }
+    },
+    {
+      "id": "plant-saraca",
+      "type": "plant",
+      "nameZh": "无忧树",
+      "nameEn": "Saraca (Wu You tree)",
+      "scientificName": "Saraca dives",
+      "category": "tree",
+      "habitat": "lakeside",
+      "description": "校方记载曲桥北端湖畔有无忧树，承载开放与包容的文化寓意。",
+      "source": [
+        {
+          "title": "香港中文大学崇基学院：校湖",
+          "url": "https://www.ccc.cuhk.edu.hk/tc/content.php?wid=401",
+          "scope": "湖区植物名单、文化与哲径；无树干坐标",
+          "id": "lake",
+          "verifiedAt": "2026-09-28"
+        },
+        {
+          "title": "崇基校园通讯：崇基春季花卉（2023-03-20）",
+          "url": "https://www.ccc.cuhk.edu.hk/tc/publication_detail.php?id=109",
+          "scope": "湖畔植物名称、形态；鸡蛋花位于湖西端",
+          "id": "spring",
+          "verifiedAt": "2026-09-28"
+        }
+      ],
+      "verifiedAt": "2026-09-28",
+      "confidence": "approximate",
+      "locationType": "area",
+      "position": [
+        281,
+        16.193,
+        380
+      ],
+      "approximateLocation": {
+        "name": "未圆湖湖岸观察区域",
+        "position": [
+          232,
+          6.6,
+          445
+        ],
+        "radiusMeters": 125,
+        "method": "依据现有湖面边界划定的解释区域；标记为排版锚点，不是树干中心或调查范围边界。"
+      },
+      "notes": "出处确认区域曾有此植物；无逐株坐标，未与现有随机树实例绑定。学名沿用所列来源。曲桥北端的文字定位尚未与测绘坐标核对；Saraca dives 为2023年校方文章使用的名称，未作现场分类学复核。",
+      "visualType": "medium_tree",
+      "notice": "此为资料支持的生态解说点，不是实时监测或逐株树木普查。",
+      "presentation": {
+        "view": {
+          "position": [
+            245,
+            30,
+            424
+          ],
+          "target": [
+            281,
+            10,
+            382
+          ]
+        }
+      }
+    },
+    {
+      "id": "plant-camellia",
+      "type": "plant",
+      "nameZh": "山茶",
+      "nameEn": "Japanese camellia",
+      "scientificName": "Camellia japonica",
+      "category": "shrub",
+      "habitat": "lakeside",
+      "description": "校园通讯记载湖畔常见山茶，崇基的山茶多呈灌木形态。",
+      "source": [
+        {
+          "title": "崇基校园通讯：崇基春季花卉（2023-03-20）",
+          "url": "https://www.ccc.cuhk.edu.hk/tc/publication_detail.php?id=109",
+          "scope": "湖畔植物名称、形态；鸡蛋花位于湖西端",
+          "id": "spring",
+          "verifiedAt": "2026-09-28"
+        }
+      ],
+      "verifiedAt": "2026-09-28",
+      "confidence": "approximate",
+      "locationType": "area",
+      "position": [
+        185,
+        11.254,
+        445
+      ],
+      "approximateLocation": {
+        "name": "未圆湖湖岸观察区域",
+        "position": [
+          232,
+          6.6,
+          445
+        ],
+        "radiusMeters": 125,
+        "method": "依据现有湖面边界划定的解释区域；标记为排版锚点，不是树干中心或调查范围边界。"
+      },
+      "notes": "出处确认区域曾有此植物；无逐株坐标，未与现有随机树实例绑定。学名沿用所列来源。",
+      "visualType": "shrub",
+      "notice": "此为资料支持的生态解说点，不是实时监测或逐株树木普查。",
+      "presentation": {
+        "view": {
+          "position": [
+            222,
+            29,
+            475
+          ],
+          "target": [
+            189,
+            8,
+            443
+          ]
+        }
+      }
+    },
+    {
+      "id": "plant-allamanda",
+      "type": "plant",
+      "nameZh": "软枝黄蝉",
+      "nameEn": "Golden trumpet",
+      "scientificName": "Allamanda cathartica",
+      "category": "shrub",
+      "habitat": "lakeside",
+      "description": "湖区资料记载的常绿灌木，花为黄色漏斗状。",
+      "source": [
+        {
+          "title": "崇基校园通讯：崇基春季花卉（2023-03-20）",
+          "url": "https://www.ccc.cuhk.edu.hk/tc/publication_detail.php?id=109",
+          "scope": "湖畔植物名称、形态；鸡蛋花位于湖西端",
+          "id": "spring",
+          "verifiedAt": "2026-09-28"
+        },
+        {
+          "title": "香港中文大学崇基学院：校湖",
+          "url": "https://www.ccc.cuhk.edu.hk/tc/content.php?wid=401",
+          "scope": "湖区植物名单、文化与哲径；无树干坐标",
+          "id": "lake",
+          "verifiedAt": "2026-09-28"
+        }
+      ],
+      "verifiedAt": "2026-09-28",
+      "confidence": "approximate",
+      "locationType": "area",
+      "position": [
+        299,
+        16.394,
+        459
+      ],
+      "approximateLocation": {
+        "name": "未圆湖湖岸观察区域",
+        "position": [
+          232,
+          6.6,
+          445
+        ],
+        "radiusMeters": 125,
+        "method": "依据现有湖面边界划定的解释区域；标记为排版锚点，不是树干中心或调查范围边界。"
+      },
+      "notes": "出处确认区域曾有此植物；无逐株坐标，未与现有随机树实例绑定。学名沿用所列来源。",
+      "visualType": "shrub",
+      "notice": "此为资料支持的生态解说点，不是实时监测或逐株树木普查。",
+      "presentation": {
+        "view": {
+          "position": [
+            257,
+            29,
+            484
+          ],
+          "target": [
+            294,
+            10,
+            460
+          ]
+        }
+      }
+    },
+    {
+      "id": "plant-hibiscus",
+      "type": "plant",
+      "nameZh": "大红花",
+      "nameEn": "Chinese hibiscus",
+      "scientificName": "Hibiscus rosa-sinensis",
+      "category": "shrub",
+      "habitat": "lakeside",
+      "description": "校园通讯记录其分布于未圆湖及何草一带；这里仅表示湖区可见。",
+      "source": [
+        {
+          "title": "崇基校园通讯：崇基春季花卉（2023-03-20）",
+          "url": "https://www.ccc.cuhk.edu.hk/tc/publication_detail.php?id=109",
+          "scope": "湖畔植物名称、形态；鸡蛋花位于湖西端",
+          "id": "spring",
+          "verifiedAt": "2026-09-28"
+        }
+      ],
+      "verifiedAt": "2026-09-28",
+      "confidence": "approximate",
+      "locationType": "area",
+      "position": [
+        269,
+        13.83,
+        548
+      ],
+      "approximateLocation": {
+        "name": "未圆湖湖岸观察区域",
+        "position": [
+          232,
+          6.6,
+          445
+        ],
+        "radiusMeters": 125,
+        "method": "依据现有湖面边界划定的解释区域；标记为排版锚点，不是树干中心或调查范围边界。"
+      },
+      "notes": "出处确认区域曾有此植物；无逐株坐标，未与现有随机树实例绑定。学名沿用所列来源。",
+      "visualType": "shrub",
+      "notice": "此为资料支持的生态解说点，不是实时监测或逐株树木普查。",
+      "presentation": {
+        "view": {
+          "position": [
+            246,
+            28,
+            510
+          ],
+          "target": [
+            272,
+            9,
+            541
+          ]
+        }
+      }
+    }
+  ],
+  "points": [
+    {
+      "id": "ecology-urban-habitat",
+      "type": "habitat",
+      "title": "城市里的生境拼图",
+      "subtitle": "草地 · 树冠 · 池塘",
+      "description": "未圆湖的不同景观共同提供生物栖息空间。这一小片人工环境，是中大城市生物多样性体验活动的观察场所。",
+      "source": [
+        {
+          "title": "中大气候变化博物馆：体验城市生物多样性@未圆湖（2022）",
+          "url": "https://mocc.cuhk.edu.hk/zh-tw/news/2022/1079-experiencing-urban-biodiversity",
+          "scope": "人工生境、草地、树冠、池塘与生态观察；非当前监测",
+          "id": "mocc",
+          "verifiedAt": "2026-09-28"
+        }
+      ],
+      "verifiedAt": "2026-09-28",
+      "confidence": "approximate",
+      "locationType": "area",
+      "position": [
+        225,
+        11.556,
+        403
+      ],
+      "approximateLocation": {
+        "name": "未圆湖湖岸观察区域",
+        "position": [
+          232,
+          6.6,
+          445
+        ],
+        "radiusMeters": 125,
+        "method": "依据现有湖面边界划定的解释区域；标记为排版锚点，不是树干中心或调查范围边界。"
+      },
+      "notes": "解释性观察锚点，不代表实地调查站或精确设施位置。",
+      "notice": "此为资料支持的生态解说点，不是实时监测或逐株树木普查。",
+      "presentation": {
+        "view": {
+          "label": "湖岸漫步",
+          "position": [
+            178,
+            30,
+            456
+          ],
+          "target": [
+            238,
+            8,
+            407
+          ]
+        }
+      }
+    },
+    {
+      "id": "ecology-water-edge",
+      "type": "habitat",
+      "title": "水陆交界",
+      "subtitle": "湖面与湖岸",
+      "description": "湖岸植物与池塘构成相邻生境。此点邀请观察水面、岸边和遮荫差异，不代表水质、物种数量或当日生态状态。",
+      "source": [
+        {
+          "title": "中大气候变化博物馆：体验城市生物多样性@未圆湖（2022）",
+          "url": "https://mocc.cuhk.edu.hk/zh-tw/news/2022/1079-experiencing-urban-biodiversity",
+          "scope": "人工生境、草地、树冠、池塘与生态观察；非当前监测",
+          "id": "mocc",
+          "verifiedAt": "2026-09-28"
+        },
+        {
+          "title": "香港中文大学崇基学院：校湖",
+          "url": "https://www.ccc.cuhk.edu.hk/tc/content.php?wid=401",
+          "scope": "湖区植物名单、文化与哲径；无树干坐标",
+          "id": "lake",
+          "verifiedAt": "2026-09-28"
+        }
+      ],
+      "verifiedAt": "2026-09-28",
+      "confidence": "approximate",
+      "locationType": "area",
+      "position": [
+        285,
+        16.394,
+        478
+      ],
+      "approximateLocation": {
+        "name": "未圆湖湖岸观察区域",
+        "position": [
+          232,
+          6.6,
+          445
+        ],
+        "radiusMeters": 125,
+        "method": "依据现有湖面边界划定的解释区域；标记为排版锚点，不是树干中心或调查范围边界。"
+      },
+      "notes": "解释性观察锚点，不代表实地调查站或精确设施位置。",
+      "notice": "此为资料支持的生态解说点，不是实时监测或逐株树木普查。",
+      "presentation": {
+        "view": {
+          "label": "哲径望湖",
+          "position": [
+            261,
+            28,
+            498
+          ],
+          "target": [
+            283,
+            8,
+            434
+          ]
+        }
+      }
+    },
+    {
+      "id": "ecology-canopy",
+      "type": "observation",
+      "title": "停下来，听树冠",
+      "subtitle": "树冠与草地观察区",
+      "description": "树冠与草地为动物和昆虫提供食物与庇护。这里可尝试安静聆听与观察；动画鸟仅为氛围示意，未指认鸟种或当天记录。",
+      "source": [
+        {
+          "title": "中大气候变化博物馆：体验城市生物多样性@未圆湖（2022）",
+          "url": "https://mocc.cuhk.edu.hk/zh-tw/news/2022/1079-experiencing-urban-biodiversity",
+          "scope": "人工生境、草地、树冠、池塘与生态观察；非当前监测",
+          "id": "mocc",
+          "verifiedAt": "2026-09-28"
+        }
+      ],
+      "verifiedAt": "2026-09-28",
+      "confidence": "approximate",
+      "locationType": "area",
+      "position": [
+        190,
+        15.724,
+        379
+      ],
+      "approximateLocation": {
+        "name": "未圆湖湖岸观察区域",
+        "position": [
+          232,
+          6.6,
+          445
+        ],
+        "radiusMeters": 125,
+        "method": "依据现有湖面边界划定的解释区域；标记为排版锚点，不是树干中心或调查范围边界。"
+      },
+      "notes": "解释性观察锚点，不代表实地调查站或精确设施位置。",
+      "notice": "此为资料支持的生态解说点，不是实时监测或逐株树木普查。",
+      "presentation": {
+        "view": {
+          "label": "湖岸漫步",
+          "position": [
+            178,
+            30,
+            456
+          ],
+          "target": [
+            238,
+            8,
+            407
+          ]
+        }
+      }
+    },
+    {
+      "id": "ecology-lake-story",
+      "type": "story",
+      "title": "为什么叫未圆湖",
+      "subtitle": "从荷花池到未圆湖",
+      "description": "湖区由早年的农田与水道逐渐改建。名字寄托持续向完善努力的理念，回应崇基学院的校训。",
+      "source": [
+        {
+          "title": "香港中文大学崇基学院：校湖",
+          "url": "https://www.ccc.cuhk.edu.hk/tc/content.php?wid=401",
+          "scope": "湖区植物名单、文化与哲径；无树干坐标",
+          "id": "lake",
+          "verifiedAt": "2026-09-28"
+        }
+      ],
+      "verifiedAt": "2026-09-28",
+      "confidence": "approximate",
+      "locationType": "area",
+      "position": [
+        155,
+        17.116,
+        436
+      ],
+      "approximateLocation": {
+        "name": "未圆湖湖岸观察区域",
+        "position": [
+          232,
+          6.6,
+          445
+        ],
+        "radiusMeters": 125,
+        "method": "依据现有湖面边界划定的解释区域；标记为排版锚点，不是树干中心或调查范围边界。"
+      },
+      "notes": "解释性观察锚点，不代表实地调查站或精确设施位置。",
+      "notice": "此为资料支持的生态解说点，不是实时监测或逐株树木普查。",
+      "presentation": {
+        "view": {
+          "label": "湖岸漫步",
+          "position": [
+            178,
+            30,
+            456
+          ],
+          "target": [
+            238,
+            8,
+            407
+          ]
+        }
+      }
+    },
+    {
+      "id": "ecology-philosophy-path",
+      "type": "observation",
+      "title": "沿哲径慢行",
+      "subtitle": "环湖观察路线",
+      "description": "校方把环湖小径称为哲径。这个区域标记提供观察起点，可留意植被层次与水岸关系；不提供无障碍或现场通行保证。",
+      "source": [
+        {
+          "title": "香港中文大学崇基学院：校湖",
+          "url": "https://www.ccc.cuhk.edu.hk/tc/content.php?wid=401",
+          "scope": "湖区植物名单、文化与哲径；无树干坐标",
+          "id": "lake",
+          "verifiedAt": "2026-09-28"
+        },
+        {
+          "title": "中大气候变化博物馆：体验城市生物多样性@未圆湖（2022）",
+          "url": "https://mocc.cuhk.edu.hk/zh-tw/news/2022/1079-experiencing-urban-biodiversity",
+          "scope": "人工生境、草地、树冠、池塘与生态观察；非当前监测",
+          "id": "mocc",
+          "verifiedAt": "2026-09-28"
+        }
+      ],
+      "verifiedAt": "2026-09-28",
+      "confidence": "approximate",
+      "locationType": "area",
+      "position": [
+        262,
+        16.394,
+        443
+      ],
+      "approximateLocation": {
+        "name": "未圆湖湖岸观察区域",
+        "position": [
+          232,
+          6.6,
+          445
+        ],
+        "radiusMeters": 125,
+        "method": "依据现有湖面边界划定的解释区域；标记为排版锚点，不是树干中心或调查范围边界。"
+      },
+      "notes": "解释性观察锚点，不代表实地调查站或精确设施位置。",
+      "notice": "此为资料支持的生态解说点，不是实时监测或逐株树木普查。",
+      "presentation": {
+        "view": {
+          "label": "哲径望湖",
+          "position": [
+            261,
+            28,
+            498
+          ],
+          "target": [
+            283,
+            8,
+            434
+          ]
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "香港中文大学崇基学院：校湖",
+      "url": "https://www.ccc.cuhk.edu.hk/tc/content.php?wid=401",
+      "scope": "湖区植物名单、文化与哲径；无树干坐标",
+      "id": "lake",
+      "verifiedAt": "2026-09-28"
+    },
+    {
+      "title": "崇基校园通讯：崇基春季花卉（2023-03-20）",
+      "url": "https://www.ccc.cuhk.edu.hk/tc/publication_detail.php?id=109",
+      "scope": "湖畔植物名称、形态；鸡蛋花位于湖西端",
+      "id": "spring",
+      "verifiedAt": "2026-09-28"
+    },
+    {
+      "title": "中大气候变化博物馆：体验城市生物多样性@未圆湖（2022）",
+      "url": "https://mocc.cuhk.edu.hk/zh-tw/news/2022/1079-experiencing-urban-biodiversity",
+      "scope": "人工生境、草地、树冠、池塘与生态观察；非当前监测",
+      "id": "mocc",
+      "verifiedAt": "2026-09-28"
+    },
+    {
+      "title": "香港政府绿化：樟树资料",
+      "url": "https://www.greening.gov.hk/en/community-outreach/qrcode-tree-labels/index_id_12.html",
+      "scope": "樟树学名、英文名及形态；非中大位置数据",
+      "id": "camphor",
+      "verifiedAt": "2026-09-28"
+    },
+    {
+      "title": "康乐及文化事务署：落羽杉植物图鉴",
+      "url": "https://www.lcsd.gov.hk/tc/green/education/greeningknowledge/plantphoto/tree_passage/taxodium_distichum.html",
+      "scope": "落羽杉学名及英文名；非中大位置数据",
+      "id": "cypress",
+      "verifiedAt": "2026-09-28"
+    },
+    {
+      "title": "CUHK Campus 100 Plants（2023）",
+      "url": "https://socialimpact.cuhk.edu.hk/social-impact-events/cuhk-campus-100-plants/",
+      "scope": "项目背景；本轮未获取可核实的逐株坐标数据",
+      "id": "hundred",
+      "verifiedAt": "2026-09-28"
+    }
+  ],
+  "limitations": [
+    "未获得全校树木普查或逐株经纬度；全部标记是近似区域。",
+    "未获取可核实的校园100种植物逐株数据，使用崇基学院更明确的湖区资料。",
+    "植物资料主要来自2023年文章；当前存活、移植、树高和花期状态未经现场核对。",
+    "同一湖区的标签为避免重叠使用不同展示锚点，不表示每种植物只生长在该点。",
+    "树型和鸟动画是解释性视觉，不能用于物种鉴定、树木管理或生态监测。"
+  ]
+}

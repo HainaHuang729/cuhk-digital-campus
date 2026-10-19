@@ -1,0 +1,62 @@
+[
+  {
+    "id": "lake",
+    "url": "https://www.ccc.cuhk.edu.hk/tc/content.php?wid=401",
+    "resolvedURL": "https://www.ccc.cuhk.edu.hk/tc/content.php?wid=401",
+    "httpStatus": 200,
+    "acquiredAt": "2026-09-28T13:16:25.411556+00:00",
+    "sha256": "441e1830002c368672c863d765563bb32d7eb70d9255b83ca625ee185c3a7d39",
+    "bytes": 27887,
+    "cache": "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\ecology\\lake.html"
+  },
+  {
+    "id": "spring",
+    "url": "https://www.ccc.cuhk.edu.hk/tc/publication_detail.php?id=109",
+    "resolvedURL": "https://www.ccc.cuhk.edu.hk/tc/publication_detail.php?id=109",
+    "httpStatus": 200,
+    "acquiredAt": "2026-09-28T13:16:26.687259+00:00",
+    "sha256": "ac7af5be8b5714c3bb99efeacfec4eec86f3d54cdf75edded1d35b3092ae40e8",
+    "bytes": 42906,
+    "cache": "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\ecology\\spring.html"
+  },
+  {
+    "id": "mocc",
+    "url": "https://mocc.cuhk.edu.hk/zh-tw/news/2022/1079-experiencing-urban-biodiversity",
+    "resolvedURL": "https://mocc.cuhk.edu.hk/zh-tw/news/2022/1079-experiencing-urban-biodiversity",
+    "httpStatus": 200,
+    "acquiredAt": "2026-09-28T13:16:27.070072+00:00",
+    "sha256": "f384ec02f752d10c97d4bbcc3fd54c9d4f15ba63949a37b0c81053705c497982",
+    "bytes": 46053,
+    "cache": "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\ecology\\mocc.html"
+  },
+  {
+    "id": "camphor",
+    "url": "https://www.greening.gov.hk/en/community-outreach/qrcode-tree-labels/index_id_12.html",
+    "resolvedURL": "https://www.greening.gov.hk/en/community-outreach/qrcode-tree-labels/index_id_12.html",
+    "httpStatus": 200,
+    "acquiredAt": "2026-09-28T13:16:28.787550+00:00",
+    "sha256": "299b44bac09f3ec56ebc2fd21bcbe3395ee5c883a26ada76e613882778cd7bd3",
+    "bytes": 15936,
+    "cache": "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\ecology\\camphor.html"
+  },
+  {
+    "id": "cypress",
+    "url": "https://www.lcsd.gov.hk/tc/green/education/greeningknowledge/plantphoto/tree_passage/taxodium_distichum.html",
+    "resolvedURL": "https://www.lcsd.gov.hk/tc/green/education/greeningknowledge/plantphoto/tree_passage/taxodium_distichum.html",
+    "httpStatus": 200,
+    "acquiredAt": "2026-09-28T13:16:29.823277+00:00",
+    "sha256": "1f0b511b40b6808965233241822f649c39d2df189cd065051b191871167fa72b",
+    "bytes": 34470,
+    "cache": "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\ecology\\cypress.html"
+  },
+  {
+    "id": "hundred",
+    "url": "https://socialimpact.cuhk.edu.hk/social-impact-events/cuhk-campus-100-plants/",
+    "resolvedURL": "https://socialimpact.cuhk.edu.hk/social-impact-events/cuhk-campus-100-plants/",
+    "httpStatus": 200,
+    "acquiredAt": "2026-09-28T13:16:30.052969+00:00",
+    "sha256": "57630a7640f1d0ddb97459b38d1ffbbc1cec44c3fda329259e9d8d4974279f8a",
+    "bytes": 134639,
+    "cache": "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\ecology\\hundred.html"
+  }
+]

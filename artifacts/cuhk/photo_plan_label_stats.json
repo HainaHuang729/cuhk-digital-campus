@@ -1,0 +1,13 @@
+{
+  "total_buildings": 205,
+  "named_buildings": 151,
+  "visible_labels": 205,
+  "camera": "Camera / north-up plan",
+  "mode": "plan",
+  "font": "C:/Windows/Fonts/msyh.ttc",
+  "font_packed": true,
+  "font_size_px": 25,
+  "overlapping_label_pairs": 0,
+  "names_source": "Existing building OSM tags; source Chinese preferred; unnamed IDs explicitly marked",
+  "labels_are_camera_overlay": true
+}

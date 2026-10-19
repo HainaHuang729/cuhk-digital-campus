@@ -1,0 +1,54 @@
+{
+  "roads": {
+    "road_profiles": 1658,
+    "shared_profile_nodes": 44250,
+    "network_edges": 44638,
+    "profile_roughness_rms_before_m": 0.1804885825794424,
+    "profile_roughness_rms_after_m": 0.015575964030176654,
+    "rms_height_adjustment_m": 0.871590849252416,
+    "max_height_adjustment_m": 13.557034237795015,
+    "max_shared_junction_gap_m": 0,
+    "note": "Illustrative smoothing of network elevation; not engineered road gradients. Plan geometry retained, cross sections flattened."
+  },
+  "road_objects_updated": 1655,
+  "site": {
+    "roads_with_edges": 181,
+    "roads_with_dashes": 54,
+    "road_dashes": 914,
+    "streetlamps": 157,
+    "soccer_fields": 3,
+    "basketball_courts": 7,
+    "tennis_courts": 9,
+    "running_tracks": 2,
+    "swimming_pools": 1,
+    "football_goals": 6,
+    "objects": 9,
+    "vertices": 159724
+  },
+  "closeup_labels": {
+    "total_buildings": 205,
+    "named_buildings": 151,
+    "visible_labels": 157,
+    "camera": "Camera / core architectural detail",
+    "mode": "closeup",
+    "font": "C:/Windows/Fonts/msyh.ttc",
+    "font_packed": true,
+    "font_size_px": 23,
+    "overlapping_label_pairs": 0,
+    "names_source": "Existing building OSM tags; source Chinese preferred; unnamed IDs explicitly marked",
+    "labels_are_camera_overlay": true
+  },
+  "plan_labels": {
+    "total_buildings": 205,
+    "named_buildings": 151,
+    "visible_labels": 205,
+    "camera": "Camera / north-up plan",
+    "mode": "plan",
+    "font": "C:/Windows/Fonts/msyh.ttc",
+    "font_packed": true,
+    "font_size_px": 25,
+    "overlapping_label_pairs": 0,
+    "names_source": "Existing building OSM tags; source Chinese preferred; unnamed IDs explicitly marked",
+    "labels_are_camera_overlay": true
+  }
+}

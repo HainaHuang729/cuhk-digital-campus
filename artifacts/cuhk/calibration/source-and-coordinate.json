@@ -1,0 +1,181 @@
+{
+  "coordinateSystem": {
+    "terrainHorizontal": "EPSG:2326 Hong Kong 1980 Grid",
+    "terrainVertical": "HKPD (EPSG:5738)",
+    "officialInput": "3D Tiles WGS84 / ECEF, glTF Y-up",
+    "worldUnits": "metre",
+    "originHK1980": [
+      839400,
+      831150,
+      0
+    ],
+    "formula": "Three = [E-839400, HKPD, -(N-831150)]",
+    "localScale": 1,
+    "localRotationFromBlenderDegrees": [
+      -90,
+      0,
+      0
+    ],
+    "localTranslation": [
+      0,
+      0,
+      0
+    ],
+    "manualAlignment": null,
+    "sourceHeightConversion": {
+      "method": "Official geodetic API at four sample corners, linear plane of HKPD minus WGS84 ellipsoidal height; center independently checked. This assumes ECEF source altitude is ellipsoidal and remains explicitly switchable because source vertical semantics are not documented.",
+      "coefficientsOnLocalEastNorth": [
+        -3.0000000000010318e-05,
+        2.499999999997296e-05,
+        2.803400000000002
+      ],
+      "centerResidualM": -0.0005000000000023874,
+      "controls": [
+        {
+          "inputE": 839380,
+          "inputN": 830950,
+          "lon": 114.20710061605989,
+          "lat": 22.417884330130317,
+          "ellipsoidalHeight": 100,
+          "result": {
+            "hkN": 830949.998,
+            "hkE": 839380.005,
+            "hkpd": 102.799
+          },
+          "url": "https://www.geodetic.gov.hk/transform/v2/?inSys=wgsgeog&outSys=hkgrid&lat=22.41788433013&long=114.20710061606&h=100"
+        },
+        {
+          "inputE": 839580,
+          "inputN": 830950,
+          "lon": 114.20904317540165,
+          "lat": 22.41788395462484,
+          "ellipsoidalHeight": 100,
+          "result": {
+            "hkN": 830949.998,
+            "hkE": 839580.005,
+            "hkpd": 102.793
+          },
+          "url": "https://www.geodetic.gov.hk/transform/v2/?inSys=wgsgeog&outSys=hkgrid&lat=22.41788395462&long=114.20904317540&h=100"
+        },
+        {
+          "inputE": 839380,
+          "inputN": 831150,
+          "lon": 114.20710100739936,
+          "lat": 22.41969042669846,
+          "ellipsoidalHeight": 100,
+          "result": {
+            "hkN": 831149.998,
+            "hkE": 839380.005,
+            "hkpd": 102.804
+          },
+          "url": "https://www.geodetic.gov.hk/transform/v2/?inSys=wgsgeog&outSys=hkgrid&lat=22.41969042670&long=114.20710100740&h=100"
+        },
+        {
+          "inputE": 839580,
+          "inputN": 831150,
+          "lon": 114.20904359186031,
+          "lat": 22.41969005116102,
+          "ellipsoidalHeight": 100,
+          "result": {
+            "hkN": 831149.998,
+            "hkE": 839580.005,
+            "hkpd": 102.798
+          },
+          "url": "https://www.geodetic.gov.hk/transform/v2/?inSys=wgsgeog&outSys=hkgrid&lat=22.41969005116&long=114.20904359186&h=100"
+        },
+        {
+          "inputE": 839480,
+          "inputN": 831050,
+          "lon": 114.2080720976803,
+          "lat": 22.41878719362324,
+          "ellipsoidalHeight": 100,
+          "result": {
+            "hkN": 831049.998,
+            "hkE": 839480.005,
+            "hkpd": 102.799
+          },
+          "url": "https://www.geodetic.gov.hk/transform/v2/?inSys=wgsgeog&outSys=hkgrid&lat=22.41878719362&long=114.20807209768&h=100"
+        }
+      ],
+      "horizontalPipeline": "Inverse of Hong Kong 1980 to WGS 84 (1) + Hong Kong 1980 Grid (with axis order normalized for visualization)",
+      "maximumControlXYDifferenceM": 0.005385164803502716
+    }
+  },
+  "sources": {
+    "governmentBuilding": {
+      "owner": "香港特别行政区政府地政总署",
+      "documentation": "https://portal.csdi.gov.hk/csdi-webpage/apidoc/3d-spatial-data-api",
+      "acquiredAt": "2026-09-28",
+      "epoch": null,
+      "epochNote": "tilesetVersion1.2.3 is a format/version identifier; no survey/imagery acquisition date provided for this component.",
+      "componentId": "B39468310600106011",
+      "leafUrls": [
+        "https://data.map.gov.hk/api/3d-data/3dsd/WGS84/building/Data/F_Tile_+4_3_0/F_Tile_+4_3_0+R0_4728.b3dm"
+      ],
+      "rootTransformECEF": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -2413000.0,
+        5380000.0,
+        2420000.0,
+        1.0
+      ],
+      "selection": "4 JSON indices +14 bounded leaves, 434473 bytes total offline; only matched building is shipped."
+    },
+    "cedd": {
+      "owner": "香港特别行政区政府土木工程拓展署",
+      "documentation": "https://www.ginfo.cedd.gov.hk/geoopendata/eng/LIDAR.aspx",
+      "metadata": "https://www.ginfo.cedd.gov.hk/geoopendata/Data/LiDAR/2020%20LiDAR.xml",
+      "acquiredAt": "2026-09-22",
+      "verifiedAt": "2026-09-28",
+      "epoch": "2019-12-19 to2020-02-01 (2020 survey metadata)",
+      "nativePixelM": 0.5,
+      "renderDtmSpacingM": 2,
+      "renderDsmSpacingM": 1,
+      "verticalAccuracyM": null,
+      "rasters": [
+        {
+          "kind": "dtm",
+          "url": "https://bulkdata.csdi.gov.hk/cedd/lidar/2020dtm/7NE22A(e839n830,e839n831).zip",
+          "inner_file": "7NE22A(e839n830,e839n831).tif",
+          "bbox_hk1980": [
+            839000.0,
+            830600.0,
+            839750.0,
+            831200.0
+          ],
+          "pixel_size_m": [
+            0.5,
+            0.5
+          ]
+        },
+        {
+          "kind": "dsm",
+          "url": "https://bulkdata.csdi.gov.hk/cedd/lidar/2020dsm/7NE22A(e839n830,e839n831).zip",
+          "inner_file": "7NE22A(e839n830,e839n831).tif",
+          "bbox_hk1980": [
+            839000.0,
+            830600.0,
+            839750.0,
+            831200.0
+          ],
+          "pixel_size_m": [
+            0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    "attribution": "© 香港特别行政区政府地政总署 / 土木工程拓展署；现有校园轮廓 © OpenStreetMap contributors (ODbL)."
+  }
+}

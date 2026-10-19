@@ -1,0 +1,221 @@
+[
+  {
+    "name": "Photo / Run Run Shaw Science Building | OSM 107139044",
+    "type": "MESH",
+    "hidden": false,
+    "collections": [
+      "11 Photo reference architecture"
+    ],
+    "properties": {
+      "osm_id": "107139044",
+      "source_building": "Run Run Shaw Science Building | OSM 107139044",
+      "photo_based": "True",
+      "reference_url": "https://www.cuhk.edu.hk/english/images/campus/photos/large/buildings/42.jpg",
+      "observed_features": "Distinctive contemporary multi-wing building: blue reflective glazing with irregular orange, lime green and blue vertical strips; dark charcoal solid end towers and rooftop perforated screens.",
+      "uncertainty": "Facade module dimensions, repetitions, unphotographed sides, roof depths and hidden geometry are approximate; not photogrammetry.",
+      "terrain_alignment_shift_m": "-15.942922385841513",
+      "terrain_alignment_method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+    },
+    "location": [
+      0.0,
+      0.0,
+      -15.942922592163086
+    ],
+    "bounds": [
+      [
+        24.845609664916992,
+        -126.25849914550781,
+        80.27375030517578
+      ],
+      [
+        135.14285278320312,
+        -66.49405670166016,
+        91.14875030517578
+      ]
+    ],
+    "vertices": 7632,
+    "materials": [
+      "Photo_107139044_Wall",
+      "Photo_107139044_Accent",
+      "Photo_ShadowGlazing",
+      "Photo_Aluminium",
+      "Photo_FlatConcreteRoof",
+      "Photo_TerracottaTile",
+      "Photo_OrangeFacadeFins",
+      "Photo_LimeFacadeFins",
+      "Photo_WhiteFacadeFrames"
+    ],
+    "z_values": [
+      80.27400207519531,
+      80.42400360107422,
+      80.4990005493164,
+      80.5199966430664,
+      80.58499908447266,
+      80.67500305175781,
+      83.70700073242188,
+      83.79900360107422,
+      83.85700225830078,
+      83.88899993896484,
+      83.9540023803711,
+      84.01899719238281,
+      84.10800170898438,
+      87.13999938964844,
+      87.23300170898438,
+      87.29000091552734,
+      87.3219985961914,
+      87.38700103759766,
+      87.4520034790039,
+      87.54199981689453,
+      90.4990005493164,
+      90.64900207519531,
+      90.66600036621094,
+      90.75499725341797,
+      90.81999969482422,
+      91.14900207519531
+    ]
+  },
+  {
+    "name": "Run Run Shaw Science Building | OSM 107139044",
+    "type": "MESH",
+    "hidden": false,
+    "collections": [
+      "02 Campus buildings"
+    ],
+    "properties": {
+      "osm_id": "107139044",
+      "height_m": "9.899999999999999",
+      "height_source": "levels",
+      "base_elevation_hkpd_m": "80.74874877929688",
+      "footprint_source": "OpenStreetMap",
+      "name_zh": "逸夫科學大樓",
+      "osm_tags": "{\"building\": \"university\", \"building:levels\": \"3\", \"building:levels:underground\": \"3\", \"name\": \"逸夫科學大樓 Run Run Shaw Science Building\", \"name:en\": \"Run Run Shaw Science Building\", \"name:zh\": \"逸夫科學大樓\", \"source\": \"Bing\"}",
+      "appearance": "Illustrative palette; not surveyed facade or roof finishes",
+      "photo_reference": "https://www.cuhk.edu.hk/english/images/campus/photos/large/buildings/42.jpg",
+      "photo_reference_scope": "exterior",
+      "photo_observations": "Distinctive contemporary multi-wing building: blue reflective glazing with irregular orange, lime green and blue vertical strips; dark charcoal solid end towers and rooftop perforated screens.",
+      "facade_reconstruction": "Visible architectural vocabulary from referenced photo; repeated layout on unseen elevations and dimensions approximate. OSM footprint/height retained.",
+      "terrain_alignment_shift_m": "-15.942922385841513",
+      "terrain_alignment_method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+    },
+    "location": [
+      0.0,
+      0.0,
+      -15.942922592163086
+    ],
+    "bounds": [
+      [
+        25.147165298461914,
+        -125.95404052734375,
+        80.34874725341797
+      ],
+      [
+        134.43038940429688,
+        -67.2104263305664,
+        90.64875030517578
+      ]
+    ],
+    "vertices": 46,
+    "materials": [
+      "Photo_107139044_Wall",
+      "Photo_FlatConcreteRoof"
+    ],
+    "z_values": [
+      80.3489990234375,
+      90.64900207519531
+    ]
+  },
+  {
+    "name": "Run Run Shaw Science Building | OSM 107139044 / facade detail",
+    "type": "MESH",
+    "hidden": true,
+    "collections": [
+      "07 Building details / illustrative"
+    ],
+    "properties": {
+      "source_building": "Run Run Shaw Science Building | OSM 107139044",
+      "osm_id": "107139044",
+      "illustrative": "True",
+      "detail_note": "Illustrative window rhythm, copings and roof equipment; not surveyed facades. Original source massing retained.",
+      "source_height_m": "9.899999999999999",
+      "height_source": "levels",
+      "detail_counts": "{\"entrance_canopies\": 1, \"floor_bands\": 34, \"parapet_segments\": 22, \"roof_equipment\": 2, \"windows\": 219}",
+      "terrain_alignment_shift_m": "-15.942922385841513",
+      "terrain_alignment_method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+    },
+    "location": [
+      0.0,
+      0.0,
+      -15.942922592163086
+    ],
+    "bounds": [
+      [
+        25.08549690246582,
+        -126.01589965820312,
+        96.34667205810547
+      ],
+      [
+        134.64785766601562,
+        -66.98482513427734,
+        107.961669921875
+      ]
+    ],
+    "vertices": 6664,
+    "materials": [
+      "Detail / pale stone window trim",
+      "Detail / dark blue glazing",
+      "Detail / reflected sky glazing",
+      "Detail / soft neutral glazing",
+      "Detail / charcoal metalwork",
+      "Detail / rooftop service concrete",
+      "Detail / rooftop equipment aluminum"
+    ],
+    "z_values": [
+      96.34700012207031,
+      96.4469985961914,
+      97.05899810791016,
+      97.13899993896484,
+      97.17900085449219,
+      97.21900177001953,
+      98.25900268554688,
+      98.3239974975586,
+      98.89700317382812,
+      98.99700164794922,
+      99.00399780273438,
+      99.08399963378906,
+      99.26200103759766,
+      99.4219970703125,
+      99.58000183105469,
+      99.70999908447266,
+      100.49199676513672,
+      100.5719985961914,
+      100.61199951171875,
+      100.6520004272461,
+      101.69200134277344,
+      101.75700378417969,
+      102.43699645996094,
+      102.51699829101562,
+      103.01300048828125,
+      103.14299774169922,
+      103.92500305175781,
+      104.00499725341797,
+      104.04499816894531,
+      104.08499908447266,
+      105.1259994506836,
+      105.19100189208984,
+      105.87100219726562,
+      105.95099639892578,
+      106.59200286865234,
+      106.90399932861328,
+      106.98899841308594,
+      107.0719985961914,
+      107.08399963378906,
+      107.16899871826172,
+      107.26399993896484,
+      107.3489990234375,
+      107.44400024414062,
+      107.52899932861328,
+      107.84200286865234,
+      107.96199798583984
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "source": "CEDD 2020 LiDAR-derived DTM",
+  "pixel_spacing_m": 0.5,
+  "pixel_location": "GeoTIFF pixel centres; no interpolation, grading, or vertical scaling",
+  "vertical_datum": "HKPD",
+  "horizontal_crs": "EPSG:2326",
+  "local_origin": [
+    839400,
+    831150,
+    0
+  ],
+  "bbox_hk1980": [
+    839021.5,
+    831281.0,
+    839189.0,
+    831588.5
+  ],
+  "shape": [
+    615,
+    335
+  ],
+  "sample_count": 206025,
+  "z_min_m": 37.743446350097656,
+  "z_max_m": 147.457275390625,
+  "source_archives": [
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7NE17C(e839n831,e839n831).zip"
+  ],
+  "limitation": "Acquired around 2020; source does not provide a verified vertical accuracy in this task. Building photography and terrain acquisition dates differ."
+}

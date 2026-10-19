@@ -1,0 +1,161 @@
+{
+  "source": "CUHK_sports_leveled.blend",
+  "surfaces": [
+    {
+      "osm_id": "170336289",
+      "name": "sport 170336289",
+      "z_range_m": 0.0,
+      "level_error_m": 0.0,
+      "vertices": 349
+    },
+    {
+      "osm_id": "170336290",
+      "name": "sport 170336290",
+      "z_range_m": 0.0,
+      "level_error_m": 0.0,
+      "vertices": 377
+    },
+    {
+      "osm_id": "174133740",
+      "name": "sport 174133740",
+      "z_range_m": 0.0,
+      "level_error_m": 0.0,
+      "vertices": 45
+    },
+    {
+      "osm_id": "174133742",
+      "name": "sport 174133742",
+      "z_range_m": 0.0,
+      "level_error_m": 0.0,
+      "vertices": 45
+    },
+    {
+      "osm_id": "174133743",
+      "name": "sport 174133743",
+      "z_range_m": 0.0,
+      "level_error_m": 0.0,
+      "vertices": 45
+    },
+    {
+      "osm_id": "955764574",
+      "name": "sport 955764574",
+      "z_range_m": 0.0,
+      "level_error_m": 0.0,
+      "vertices": 425
+    },
+    {
+      "osm_id": "955764575",
+      "name": "sport 955764575",
+      "z_range_m": 0.0,
+      "level_error_m": 0.0,
+      "vertices": 45
+    },
+    {
+      "osm_id": "955764576",
+      "name": "sport 955764576",
+      "z_range_m": 0.0,
+      "level_error_m": 0.0,
+      "vertices": 45
+    },
+    {
+      "osm_id": "955764577",
+      "name": "sport 955764577",
+      "z_range_m": 0.0,
+      "level_error_m": 0.0,
+      "vertices": 45
+    },
+    {
+      "osm_id": "955764585",
+      "name": "sport 955764585",
+      "z_range_m": 0.0,
+      "level_error_m": 0.0,
+      "vertices": 493
+    },
+    {
+      "osm_id": "955764586",
+      "name": "sport 955764586",
+      "z_range_m": 0.0,
+      "level_error_m": 0.0,
+      "vertices": 487
+    }
+  ],
+  "details": [
+    {
+      "track_id": "955764574",
+      "object": "Site / Court paint",
+      "vertices": 15052,
+      "min_above_surface_m": 0.019999980926513672,
+      "max_above_surface_m": 0.019999980926513672
+    },
+    {
+      "track_id": "955764574",
+      "object": "Site / Turf stripes",
+      "vertices": 5304,
+      "min_above_surface_m": 0.010000228881835938,
+      "max_above_surface_m": 0.010000228881835938
+    },
+    {
+      "track_id": "955764574",
+      "object": "Site / Goal frames",
+      "vertices": 480,
+      "min_above_surface_m": 0.0,
+      "max_above_surface_m": 2.5399999618530273
+    },
+    {
+      "track_id": "955764574",
+      "object": "Site / Net mesh",
+      "vertices": 1040,
+      "min_above_surface_m": 0.0,
+      "max_above_surface_m": 2.440000057220459
+    },
+    {
+      "track_id": "955764585",
+      "object": "Site / Court paint",
+      "vertices": 8260,
+      "min_above_surface_m": 0.020000457763671875,
+      "max_above_surface_m": 0.020000457763671875
+    },
+    {
+      "track_id": "955764585",
+      "object": "Site / Turf stripes",
+      "vertices": 3348,
+      "min_above_surface_m": 0.010000228881835938,
+      "max_above_surface_m": 0.010000228881835938
+    },
+    {
+      "track_id": "955764585",
+      "object": "Site / Goal frames",
+      "vertices": 240,
+      "min_above_surface_m": 0.0,
+      "max_above_surface_m": 2.5400009155273438
+    },
+    {
+      "track_id": "955764585",
+      "object": "Site / Net mesh",
+      "vertices": 520,
+      "min_above_surface_m": 0.0,
+      "max_above_surface_m": 2.440000534057617
+    }
+  ],
+  "path_xy_matches_adjustment": true,
+  "path_slabs_match": true,
+  "shared_path_nodes_unchanged": true,
+  "infield_xy_checks": [
+    {
+      "track_id": "955764574",
+      "actual_infield_track_overlap_m2": 0.0,
+      "actual_min_infield_centerline_clearance_m": 4.300436447749913,
+      "actual_min_infield_rubber_clearance_m": 0.3004322306849768,
+      "actual_path_track_overlap_m2": 0.0,
+      "actual_path_track_minimum_gap_m": 1.2001988599478293
+    },
+    {
+      "track_id": "955764585",
+      "actual_infield_track_overlap_m2": 0.0,
+      "actual_min_infield_centerline_clearance_m": 8.791167768782064,
+      "actual_min_infield_rubber_clearance_m": 4.791153859695625,
+      "actual_path_track_overlap_m2": 0.0,
+      "actual_path_track_minimum_gap_m": 329.83345286227143
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "source_base": "terrain_sports_leveled_1m.npz",
+  "source_restore": "terrain_survey_1m.npz",
+  "output": "terrain_shaw_science_corrected_1m.npz",
+  "building_osm_id": 107139044,
+  "method": "Uphill/back edges within 15m and source DTM >=92m only. Restore toward original survey using cubic feather, full rear-edge weight within 5m and zero at 15m; source-height eligibility feathers from zero at 92m to full at 96m. Protect every road top plus 3m collar exactly; smooth transition from 3m to 8m away from road tops. Road geometry is unchanged.",
+  "changed_vertices": 1568,
+  "max_raise_m": 17.211761474609375,
+  "changed_before": {
+    "min": 78.7959,
+    "p05": 80.4921,
+    "p25": 84.3895,
+    "p50": 88.6708,
+    "p75": 94.1129,
+    "p95": 97.6648,
+    "max": 98.3669
+  },
+  "changed_after": {
+    "min": 78.8094,
+    "p05": 86.3546,
+    "p25": 93.1823,
+    "p50": 96.7946,
+    "p75": 97.615,
+    "p95": 97.7238,
+    "max": 98.3673
+  },
+  "original_survey_at_changed": {
+    "min": 92.004,
+    "p05": 92.7963,
+    "p25": 95.9331,
+    "p50": 97.6029,
+    "p75": 97.6604,
+    "p95": 97.9639,
+    "max": 98.5358
+  },
+  "protected_road_vertices_in_window": 3790,
+  "protected_road_vertices_exact": true,
+  "minimum_changed_vertex_distance_to_road_top_m": 3.0052995709788375,
+  "unchanged_outside_changed_mask": true,
+  "no_lowering": true,
+  "no_changed_source_dtm_below_92m": true,
+  "affected_bounds_local_m": [
+    14.0,
+    -108.0,
+    135.0,
+    -53.0
+  ],
+  "source_road_mesh": "road_mesh_v3.npz triangles; sports_path_adjustment checked disjoint",
+  "nearby_road_parts": [
+    {
+      "id": "33412273",
+      "part": 0,
+      "name": "University Avenue",
+      "triangles": 308
+    },
+    {
+      "id": "135191008",
+      "part": 0,
+      "name": "Clinic Road",
+      "triangles": 36
+    },
+    {
+      "id": "135265605",
+      "part": 0,
+      "name": "service",
+      "triangles": 458
+    },
+    {
+      "id": "136995432",
+      "part": 0,
+      "name": "footway",
+      "triangles": 57
+    },
+    {
+      "id": "188010211",
+      "part": 0,
+      "name": "footway",
+      "triangles": 172
+    },
+    {
+      "id": "188010215",
+      "part": 0,
+      "name": "Engineering Bridge",
+      "triangles": 61
+    },
+    {
+      "id": "195863155",
+      "part": 0,
+      "name": "University Avenue",
+      "triangles": 242
+    },
+    {
+      "id": "217711478",
+      "part": 0,
+      "name": "steps",
+      "triangles": 55
+    },
+    {
+      "id": "218424331",
+      "part": 0,
+      "name": "footway",
+      "triangles": 96
+    },
+    {
+      "id": "218424332",
+      "part": 0,
+      "name": "steps",
+      "triangles": 120
+    },
+    {
+      "id": "230129215",
+      "part": 0,
+      "name": "service",
+      "triangles": 92
+    },
+    {
+      "id": "445173962",
+      "part": 0,
+      "name": "Chung Chi Road",
+      "triangles": 24
+    },
+    {
+      "id": "534476375",
+      "part": 0,
+      "name": "steps",
+      "triangles": 265
+    },
+    {
+      "id": "696387733",
+      "part": 0,
+      "name": "service",
+      "triangles": 113
+    },
+    {
+      "id": "893061087",
+      "part": 0,
+      "name": "Central Avenue",
+      "triangles": 376
+    },
+    {
+      "id": "985480338",
+      "part": 0,
+      "name": "service",
+      "triangles": 140
+    },
+    {
+      "id": "1349568930",
+      "part": 0,
+      "name": "steps",
+      "triangles": 19
+    }
+  ],
+  "rear_edges": [
+    {
+      "edge_index": 4,
+      "before": {
+        "min": 87.827,
+        "p05": 90.8814,
+        "p25": 93.367,
+        "p50": 94.4739,
+        "p75": 95.7843,
+        "p95": 97.4547,
+        "max": 97.5083
+      },
+      "after": {
+        "min": 88.2317,
+        "p05": 91.8174,
+        "p25": 93.4408,
+        "p50": 94.5218,
+        "p75": 95.7843,
+        "p95": 97.4547,
+        "max": 97.5083
+      },
+      "survey": {
+        "min": 89.6098,
+        "p05": 97.4105,
+        "p25": 97.452,
+        "p50": 97.487,
+        "p75": 97.5312,
+        "p95": 97.6223,
+        "max": 97.6673
+      },
+      "protected_vertices": 139,
+      "vertices": 178
+    },
+    {
+      "edge_index": 20,
+      "before": {
+        "min": 80.4987,
+        "p05": 80.4987,
+        "p25": 80.5208,
+        "p50": 81.1614,
+        "p75": 84.196,
+        "p95": 87.0079,
+        "max": 87.5462
+      },
+      "after": {
+        "min": 96.0466,
+        "p05": 97.5688,
+        "p25": 97.6061,
+        "p50": 97.6236,
+        "p75": 97.6496,
+        "p95": 97.6716,
+        "max": 97.6924
+      },
+      "survey": {
+        "min": 97.5594,
+        "p05": 97.5783,
+        "p25": 97.6061,
+        "p50": 97.6236,
+        "p75": 97.6496,
+        "p95": 97.6716,
+        "max": 97.6924
+      },
+      "protected_vertices": 0,
+      "vertices": 132
+    }
+  ],
+  "limitation": "Protected roads and collars may retain the previous local depression. This repair does not regrade or move roads. Survey DTM under buildings is interpolated bare earth, not a surveyed building floor."
+}

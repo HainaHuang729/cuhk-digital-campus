@@ -1,0 +1,79 @@
+[
+  {
+    "osm_id": "170336289",
+    "object": "sport 170336289",
+    "old_z_range_m": 0.24475955963134766,
+    "new_z_range_m": 0.0,
+    "surface_z_m": 5.334099769592285
+  },
+  {
+    "osm_id": "170336290",
+    "object": "sport 170336290",
+    "old_z_range_m": 0.3598155975341797,
+    "new_z_range_m": 0.0,
+    "surface_z_m": 5.334099769592285
+  },
+  {
+    "osm_id": "174133740",
+    "object": "sport 174133740",
+    "old_z_range_m": 0.003925800323486328,
+    "new_z_range_m": 0.0,
+    "surface_z_m": 5.334099769592285
+  },
+  {
+    "osm_id": "174133742",
+    "object": "sport 174133742",
+    "old_z_range_m": 0.0,
+    "new_z_range_m": 0.0,
+    "surface_z_m": 5.334099769592285
+  },
+  {
+    "osm_id": "174133743",
+    "object": "sport 174133743",
+    "old_z_range_m": 0.0,
+    "new_z_range_m": 0.0,
+    "surface_z_m": 5.334099769592285
+  },
+  {
+    "osm_id": "955764574",
+    "object": "sport 955764574",
+    "old_z_range_m": 10.821497917175293,
+    "new_z_range_m": 0.0,
+    "surface_z_m": 5.334099769592285
+  },
+  {
+    "osm_id": "955764575",
+    "object": "sport 955764575",
+    "old_z_range_m": 0.22921276092529297,
+    "new_z_range_m": 0.0,
+    "surface_z_m": 5.334099769592285
+  },
+  {
+    "osm_id": "955764576",
+    "object": "sport 955764576",
+    "old_z_range_m": 0.1680278778076172,
+    "new_z_range_m": 0.0,
+    "surface_z_m": 5.334099769592285
+  },
+  {
+    "osm_id": "955764577",
+    "object": "sport 955764577",
+    "old_z_range_m": 0.1548762321472168,
+    "new_z_range_m": 0.0,
+    "surface_z_m": 5.334099769592285
+  },
+  {
+    "osm_id": "955764585",
+    "object": "sport 955764585",
+    "old_z_range_m": 6.45069694519043,
+    "new_z_range_m": 0.0,
+    "surface_z_m": 23.602962493896484
+  },
+  {
+    "osm_id": "955764586",
+    "object": "sport 955764586",
+    "old_z_range_m": 0.03830718994140625,
+    "new_z_range_m": 0.0,
+    "surface_z_m": 23.602962493896484
+  }
+]

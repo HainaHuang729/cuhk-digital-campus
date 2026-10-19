@@ -1,0 +1,32 @@
+{
+  "files": 42,
+  "allFilesMeshopt": true,
+  "all369BuildingIds": true,
+  "highBoundsUnchanged": true,
+  "siteTrianglePositionsUnchanged": true,
+  "tracks": [
+    {
+      "id": "955764574",
+      "vertices": 425,
+      "heightRange": 0,
+      "maxHeightError": 4.077147508496637e-10
+    },
+    {
+      "id": "955764585",
+      "vertices": 493,
+      "heightRange": 0,
+      "maxHeightError": 0.000003818593750537502
+    }
+  ],
+  "shaw": {
+    "lowRoofTop": 117.5999984741211,
+    "mainRoofVertices": 352
+  },
+  "sourceUnchanged": true,
+  "lowGlazing": {
+    "buildingsWithGlazing": 193,
+    "triangles": 47790,
+    "originalGeometryPreserved": true
+  },
+  "groundSamples": 14641
+}

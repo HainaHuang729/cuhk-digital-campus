@@ -1,0 +1,23 @@
+{
+  "vegetation_decoded": true,
+  "templates": 16,
+  "template_triangles": 3512,
+  "one_material_primitive_per_template": true,
+  "vertex_colours_preserved": true,
+  "textures": 0,
+  "original_tree_instances": 1374,
+  "surface_samples": 3842,
+  "draws_maximum_trees": 16,
+  "draws_maximum_activity": 7,
+  "draws_static_furniture": 3,
+  "draws_night_light_pools": 1,
+  "illustrative_furniture": {
+    "benches": 6,
+    "bins": 6,
+    "bicycles": 3
+  },
+  "light_pools": 40,
+  "all_far_trees_triangles": 130530,
+  "all_near_trees_triangles": 472656,
+  "note": "Full render FPS and final visibility depend on the host scene; instance transforms and toggles have a Node test."
+}

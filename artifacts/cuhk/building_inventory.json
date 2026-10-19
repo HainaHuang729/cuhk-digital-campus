@@ -1,0 +1,2962 @@
+[
+  {
+    "osm_id": 107139024,
+    "name": "Pi Ch'iu Building",
+    "campus": true,
+    "height_m": 16,
+    "height_source": "estimated",
+    "base_elevation_m": 101.0
+  },
+  {
+    "osm_id": 107139025,
+    "name": "Cho Yiu Conference Hall",
+    "campus": true,
+    "height_m": 16,
+    "height_source": "estimated",
+    "base_elevation_m": 98.88992900472266
+  },
+  {
+    "osm_id": 107139026,
+    "name": "Sui Loong Pao Building",
+    "campus": true,
+    "height_m": 16,
+    "height_source": "estimated",
+    "base_elevation_m": 101.0
+  },
+  {
+    "osm_id": 107139028,
+    "name": "Pentecostal Mission Hall Complex (High Block)",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 78.00645153464826
+  },
+  {
+    "osm_id": 107139029,
+    "name": "Pentecostal Mission Hall Complex (Low Block)",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 66.93733129453847
+  },
+  {
+    "osm_id": 107139030,
+    "name": "Sir Run Run Shaw Hall",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 101.26915638191312
+  },
+  {
+    "osm_id": 107139044,
+    "name": "Run Run Shaw Science Building",
+    "campus": true,
+    "height_m": 9.899999999999999,
+    "height_source": "levels",
+    "base_elevation_m": 96.69167116513839
+  },
+  {
+    "osm_id": 134408687,
+    "name": "Chih Hsing Hall",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 136.76182180033894
+  },
+  {
+    "osm_id": 134408688,
+    "name": "Staff Student Centre - Leung Hung Kee Building",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 147.9918680360548
+  },
+  {
+    "osm_id": 134408689,
+    "name": "Cheng Ming Building",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 143.00722612269325
+  },
+  {
+    "osm_id": 134408690,
+    "name": "Humanities Building",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 141.99085376522112
+  },
+  {
+    "osm_id": 134408693,
+    "name": "Friendship Lodge",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 134.52002810768812
+  },
+  {
+    "osm_id": 134408696,
+    "name": "Ch'ien Mu Library",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 143.82901571087143
+  },
+  {
+    "osm_id": 134409111,
+    "name": "Daisy Li Hall",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 117.80302092753807
+  },
+  {
+    "osm_id": 134409115,
+    "name": "Grace Tien Hall",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 118.99954033262489
+  },
+  {
+    "osm_id": 134410444,
+    "name": "Tin Ka Ping Building",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 100.53922909439467
+  },
+  {
+    "osm_id": 134410446,
+    "name": "Charles Kuen Kao Building",
+    "campus": true,
+    "height_m": 13.2,
+    "height_source": "levels",
+    "base_elevation_m": 100.18684014036614
+  },
+  {
+    "osm_id": 134410447,
+    "name": "Science Centre East Block",
+    "campus": true,
+    "height_m": 16,
+    "height_source": "estimated",
+    "base_elevation_m": 95.89510138107316
+  },
+  {
+    "osm_id": 134410448,
+    "name": "Choh-Ming Li Basic Medical Sciences Building",
+    "campus": true,
+    "height_m": 23.099999999999998,
+    "height_source": "levels",
+    "base_elevation_m": 95.6794424025847
+  },
+  {
+    "osm_id": 134410449,
+    "name": "University Library",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 100.7066826407445
+  },
+  {
+    "osm_id": 134410450,
+    "name": "University Science Centre",
+    "campus": true,
+    "height_m": 9.899999999999999,
+    "height_source": "levels",
+    "base_elevation_m": 100.24700487488548
+  },
+  {
+    "osm_id": 134410451,
+    "name": "Ma Lin Building",
+    "campus": true,
+    "height_m": 13.2,
+    "height_source": "levels",
+    "base_elevation_m": 98.07145926494596
+  },
+  {
+    "osm_id": 134410719,
+    "name": "Mong Man Wai Building",
+    "campus": true,
+    "height_m": 29.7,
+    "height_source": "levels",
+    "base_elevation_m": 116.57104368628859
+  },
+  {
+    "osm_id": 134818772,
+    "name": "Lingnan Stadium",
+    "campus": true,
+    "height_m": 3.3,
+    "height_source": "levels",
+    "base_elevation_m": 8.29054612278392
+  },
+  {
+    "osm_id": 134819420,
+    "name": "building 134819420",
+    "campus": true,
+    "height_m": 3.3,
+    "height_source": "levels",
+    "base_elevation_m": 11.839785256069
+  },
+  {
+    "osm_id": 134819421,
+    "name": "Fong Yun Wah Hall",
+    "campus": true,
+    "height_m": 3.3,
+    "height_source": "levels",
+    "base_elevation_m": 10.888068216473332
+  },
+  {
+    "osm_id": 134819423,
+    "name": "Postgraduate Hall No.3",
+    "campus": true,
+    "height_m": 23.099999999999998,
+    "height_source": "levels",
+    "base_elevation_m": 8.373931113126108
+  },
+  {
+    "osm_id": 134819424,
+    "name": "Fong Shu Chuen Building",
+    "campus": true,
+    "height_m": 9.899999999999999,
+    "height_source": "levels",
+    "base_elevation_m": 10.407728035020742
+  },
+  {
+    "osm_id": 134820401,
+    "name": "University Sports Centre",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 34.07667498024857
+  },
+  {
+    "osm_id": 135018845,
+    "name": "Wen Chih Tang",
+    "campus": true,
+    "height_m": 19.799999999999997,
+    "height_source": "levels",
+    "base_elevation_m": 38.1161313858375
+  },
+  {
+    "osm_id": 135018848,
+    "name": "Ming Hua Tang",
+    "campus": true,
+    "height_m": 13.2,
+    "height_source": "levels",
+    "base_elevation_m": 39.299886066179276
+  },
+  {
+    "osm_id": 135018852,
+    "name": "Ying Lin Tang",
+    "campus": true,
+    "height_m": 9.899999999999999,
+    "height_source": "levels",
+    "base_elevation_m": 26.50345528651843
+  },
+  {
+    "osm_id": 135018853,
+    "name": "Madam S.H.Ho Hall",
+    "campus": true,
+    "height_m": 29.7,
+    "height_source": "levels",
+    "base_elevation_m": 37.59988737462366
+  },
+  {
+    "osm_id": 135021152,
+    "name": "Hua Lien Tang",
+    "campus": true,
+    "height_m": 9.899999999999999,
+    "height_source": "levels",
+    "base_elevation_m": 36.182050076363744
+  },
+  {
+    "osm_id": 135021153,
+    "name": "C.C. Staff Quarters S",
+    "campus": true,
+    "height_m": 9.899999999999999,
+    "height_source": "levels",
+    "base_elevation_m": 39.88918960224668
+  },
+  {
+    "osm_id": 135021154,
+    "name": "Elisabeth Luce Moore Library",
+    "campus": true,
+    "height_m": 9.899999999999999,
+    "height_source": "levels",
+    "base_elevation_m": 14.613937166613475
+  },
+  {
+    "osm_id": 135021155,
+    "name": "Lee Shu Pui Hall",
+    "campus": true,
+    "height_m": 26.4,
+    "height_source": "levels",
+    "base_elevation_m": 38.458313747193586
+  },
+  {
+    "osm_id": 135098351,
+    "name": "Li Koon Chun Hall",
+    "campus": true,
+    "height_m": 6.6,
+    "height_source": "levels",
+    "base_elevation_m": 23.0
+  },
+  {
+    "osm_id": 135098352,
+    "name": "Li Wai Chun Building",
+    "campus": true,
+    "height_m": 9.899999999999999,
+    "height_source": "levels",
+    "base_elevation_m": 23.555454163459153
+  },
+  {
+    "osm_id": 135156233,
+    "name": "Esther Lee Building",
+    "campus": true,
+    "height_m": 6.6,
+    "height_source": "levels",
+    "base_elevation_m": 29.25221720563373
+  },
+  {
+    "osm_id": 135156234,
+    "name": "C.C. Administration Building",
+    "campus": true,
+    "height_m": 19.799999999999997,
+    "height_source": "levels",
+    "base_elevation_m": 27.948406592722833
+  },
+  {
+    "osm_id": 135156235,
+    "name": "Ho Tim Building",
+    "campus": true,
+    "height_m": 19.799999999999997,
+    "height_source": "levels",
+    "base_elevation_m": 23.860599833118652
+  },
+  {
+    "osm_id": 135156314,
+    "name": "Chung Chi College Staff Club",
+    "campus": true,
+    "height_m": 13.2,
+    "height_source": "levels",
+    "base_elevation_m": 22.368389668372586
+  },
+  {
+    "osm_id": 135156315,
+    "name": "Chung Chi College Chapel",
+    "campus": true,
+    "height_m": 13.2,
+    "height_source": "levels",
+    "base_elevation_m": 31.090299094903486
+  },
+  {
+    "osm_id": 135181544,
+    "name": "building 135181544",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 11.536563924653562
+  },
+  {
+    "osm_id": 135181545,
+    "name": "Hui Yeung Shing Building",
+    "campus": true,
+    "height_m": 36.3,
+    "height_source": "levels",
+    "base_elevation_m": 23.64991259403596
+  },
+  {
+    "osm_id": 135182311,
+    "name": "Kwok Sports Building",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 35.86864256310164
+  },
+  {
+    "osm_id": 135190717,
+    "name": "University Health Centre",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 77.59321132995264
+  },
+  {
+    "osm_id": 135190718,
+    "name": "International House 3",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 94.54104146024103
+  },
+  {
+    "osm_id": 135190719,
+    "name": "University Guest House (Chiangs Bldg.)",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 72.98853875864191
+  },
+  {
+    "osm_id": 135190720,
+    "name": "Yali Guest House",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 73.68519944166387
+  },
+  {
+    "osm_id": 135190721,
+    "name": "Chan Kwan Tung Inter-university Hall",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 72.79675236775765
+  },
+  {
+    "osm_id": 135190722,
+    "name": "Panacea Lodge",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 104.02010349835975
+  },
+  {
+    "osm_id": 135190723,
+    "name": "Minor Staff Quarters 3",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 93.0947079585012
+  },
+  {
+    "osm_id": 135190724,
+    "name": "Minor Staff Quarters 2",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 93.11046146995302
+  },
+  {
+    "osm_id": 135191009,
+    "name": "building 135191009",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 24.153956581436386
+  },
+  {
+    "osm_id": 135191010,
+    "name": "University Gymnasium",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 24.000000000000004
+  },
+  {
+    "osm_id": 135191011,
+    "name": "building 135191011",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 24.0
+  },
+  {
+    "osm_id": 135191012,
+    "name": "building 135191012",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 24.0
+  },
+  {
+    "osm_id": 135191014,
+    "name": "building 135191014",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 24.558956333432732
+  },
+  {
+    "osm_id": 135191015,
+    "name": "building 135191015",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 24.927556066812723
+  },
+  {
+    "osm_id": 135191897,
+    "name": "Bethlehem Hall",
+    "campus": true,
+    "height_m": 19.799999999999997,
+    "height_source": "levels",
+    "base_elevation_m": 140.3480712140459
+  },
+  {
+    "osm_id": 135193164,
+    "name": "Tsang Shiu Tim Building",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 140.69584207287005
+  },
+  {
+    "osm_id": 135193165,
+    "name": "Chan Chun Ha Hostel",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 136.1433617508594
+  },
+  {
+    "osm_id": 135193166,
+    "name": "Wu Chung Multimedia Library",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 142.5813147087172
+  },
+  {
+    "osm_id": 135193913,
+    "name": "Cheung Chuk Shan Amenities Building",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 140.0010439690995
+  },
+  {
+    "osm_id": 135193917,
+    "name": "Hang Seng Hall",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 97.18351267448142
+  },
+  {
+    "osm_id": 135264056,
+    "name": "International House 1",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 74.29158608330312
+  },
+  {
+    "osm_id": 135264058,
+    "name": "U.C. Staff Residence",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 78.3878185101331
+  },
+  {
+    "osm_id": 135264060,
+    "name": "Postgraduate Hall No. 5",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 74.00122162983983
+  },
+  {
+    "osm_id": 135264063,
+    "name": "Postgraduate Hall No. 6",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 72.90146892089355
+  },
+  {
+    "osm_id": 135264066,
+    "name": "Postgraduate Hall No. 4",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 73.0
+  },
+  {
+    "osm_id": 135264069,
+    "name": "International House 2",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 73.96940072463536
+  },
+  {
+    "osm_id": 135264402,
+    "name": "University Residence No. 13",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 42.76289594015969
+  },
+  {
+    "osm_id": 135264404,
+    "name": "University Residence No. 15",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 56.53029724293292
+  },
+  {
+    "osm_id": 135264405,
+    "name": "University Residence No. 12",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 43.22007255711598
+  },
+  {
+    "osm_id": 135264901,
+    "name": "University Residence No. 10",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 23.0
+  },
+  {
+    "osm_id": 135264904,
+    "name": "University Residence No. 11",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 23.097242959548225
+  },
+  {
+    "osm_id": 135265375,
+    "name": "University Residence No. 17",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 24.60919588204406
+  },
+  {
+    "osm_id": 135265376,
+    "name": "University Residence No. 16",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 24.220716597141347
+  },
+  {
+    "osm_id": 135265380,
+    "name": "Fung King Hey Building",
+    "campus": true,
+    "height_m": 16,
+    "height_source": "estimated",
+    "base_elevation_m": 113.837113996784
+  },
+  {
+    "osm_id": 135265381,
+    "name": "Leung Kau Kui Building",
+    "campus": true,
+    "height_m": 16,
+    "height_source": "estimated",
+    "base_elevation_m": 112.30861754582547
+  },
+  {
+    "osm_id": 135265382,
+    "name": "University Residence No. 14",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 48.60210834689906
+  },
+  {
+    "osm_id": 135265606,
+    "name": "Benjamin Franklin Centre",
+    "campus": true,
+    "height_m": 13.2,
+    "height_source": "levels",
+    "base_elevation_m": 89.68510400392253
+  },
+  {
+    "osm_id": 135265607,
+    "name": "C U Head Qtrs 'A' Substation",
+    "campus": true,
+    "height_m": 4,
+    "height_source": "estimated",
+    "base_elevation_m": 101.05374622277245
+  },
+  {
+    "osm_id": 135265609,
+    "name": "John Fulton Centre",
+    "campus": true,
+    "height_m": 13.2,
+    "height_source": "levels",
+    "base_elevation_m": 90.68186750263078
+  },
+  {
+    "osm_id": 135311798,
+    "name": "C.C. Staff Quarters C",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 45.32677175475015
+  },
+  {
+    "osm_id": 135311802,
+    "name": "Academic Building No.1",
+    "campus": true,
+    "height_m": 23.099999999999998,
+    "height_source": "levels",
+    "base_elevation_m": 55.046507300804244
+  },
+  {
+    "osm_id": 135311803,
+    "name": "C.C. Staff Quarters B",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 47.274928864749725
+  },
+  {
+    "osm_id": 135311808,
+    "name": "William M.W. Mong Engineering Building",
+    "campus": true,
+    "height_m": 36.3,
+    "height_source": "levels",
+    "base_elevation_m": 64.56076836780865
+  },
+  {
+    "osm_id": 135311810,
+    "name": "Theology Building",
+    "campus": true,
+    "height_m": 13.2,
+    "height_source": "levels",
+    "base_elevation_m": 57.3517528961501
+  },
+  {
+    "osm_id": 135311814,
+    "name": "C.C. Staff Quarters A",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 48.378941303343844
+  },
+  {
+    "osm_id": 135311816,
+    "name": "building 135311816",
+    "campus": true,
+    "height_m": 6.6,
+    "height_source": "levels",
+    "base_elevation_m": 50.505761221448225
+  },
+  {
+    "osm_id": 135312912,
+    "name": "Ho Sin-Hang Engineering Building",
+    "campus": true,
+    "height_m": 33.0,
+    "height_source": "levels",
+    "base_elevation_m": 67.76451678780768
+  },
+  {
+    "osm_id": 135312914,
+    "name": "Security and Transport Building",
+    "campus": true,
+    "height_m": 3.3,
+    "height_source": "levels",
+    "base_elevation_m": 94.91034349321612
+  },
+  {
+    "osm_id": 135313705,
+    "name": "Wen Lin Tang",
+    "campus": true,
+    "height_m": 9.899999999999999,
+    "height_source": "levels",
+    "base_elevation_m": 74.68496131295637
+  },
+  {
+    "osm_id": 135315191,
+    "name": "University Residence Nos. 3",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 106.82378034894137
+  },
+  {
+    "osm_id": 135716504,
+    "name": "Energy Tower 2",
+    "campus": false,
+    "height_m": 19.799999999999997,
+    "height_source": "levels",
+    "base_elevation_m": 7.2476686132381065
+  },
+  {
+    "osm_id": 135716505,
+    "name": "Energy Tower 1",
+    "campus": false,
+    "height_m": 19.799999999999997,
+    "height_source": "levels",
+    "base_elevation_m": 6.905564546534997
+  },
+  {
+    "osm_id": 135787366,
+    "name": "Academic Building No.2",
+    "campus": true,
+    "height_m": 19.799999999999997,
+    "height_source": "levels",
+    "base_elevation_m": 7.171993665147899
+  },
+  {
+    "osm_id": 135787368,
+    "name": "Bio-Informatics Centre",
+    "campus": false,
+    "height_m": 26.4,
+    "height_source": "levels",
+    "base_elevation_m": 6.889691135396294
+  },
+  {
+    "osm_id": 135787369,
+    "name": "Biotech Centre 1",
+    "campus": false,
+    "height_m": 23.099999999999998,
+    "height_source": "levels",
+    "base_elevation_m": 7.9675582886906735
+  },
+  {
+    "osm_id": 135787370,
+    "name": "Biotech Centre 2",
+    "campus": false,
+    "height_m": 23.099999999999998,
+    "height_source": "levels",
+    "base_elevation_m": 7.805191124289303
+  },
+  {
+    "osm_id": 135787385,
+    "name": "Hong Kong Science Park Phase 1 Car Park Building",
+    "campus": false,
+    "height_m": 29.7,
+    "height_source": "levels",
+    "base_elevation_m": 5.972286435876136
+  },
+  {
+    "osm_id": 135787386,
+    "name": "IC Development Centre",
+    "campus": false,
+    "height_m": 26.4,
+    "height_source": "levels",
+    "base_elevation_m": 6.648392732391868
+  },
+  {
+    "osm_id": 135787390,
+    "name": "Photonics Centre",
+    "campus": false,
+    "height_m": 23.099999999999998,
+    "height_source": "levels",
+    "base_elevation_m": 6.766681274058008
+  },
+  {
+    "osm_id": 135787393,
+    "name": "Wireless Centre",
+    "campus": false,
+    "height_m": 23.099999999999998,
+    "height_source": "levels",
+    "base_elevation_m": 7.014662936112787
+  },
+  {
+    "osm_id": 135904004,
+    "name": "Yat Sen Hall",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 57.01338614203617
+  },
+  {
+    "osm_id": 135904006,
+    "name": "Student Hostel 2 (Low Block)",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 55.353264780015095
+  },
+  {
+    "osm_id": 135904506,
+    "name": "Wen Lan Tang",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 62.21727081299123
+  },
+  {
+    "osm_id": 135904507,
+    "name": "Shaw College Lecture Theatre",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 82.9646250543588
+  },
+  {
+    "osm_id": 135904508,
+    "name": "Kuo Mou Hall",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 77.45104403136975
+  },
+  {
+    "osm_id": 135904889,
+    "name": "Satellite Remote Sensing Receiving Station",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 155.30925598088496
+  },
+  {
+    "osm_id": 135904890,
+    "name": "building 135904890",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 154.84204521657625
+  },
+  {
+    "osm_id": 135904891,
+    "name": "Fok Ying Tung Remote Sensing Science Building",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 154.6447121281356
+  },
+  {
+    "osm_id": 135906000,
+    "name": "building 135906000",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 10.997525068061336
+  },
+  {
+    "osm_id": 135906001,
+    "name": "building 135906001",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 135906003,
+    "name": "Shanghai Fraternity Association Research Services Centre",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 135906004,
+    "name": "building 135906004",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 135906005,
+    "name": "building 135906005",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 11.0
+  },
+  {
+    "osm_id": 136637847,
+    "name": "Vice-Chancellor Residence",
+    "campus": false,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 153.0
+  },
+  {
+    "osm_id": 138223977,
+    "name": "Wong Foo Yuan Building",
+    "campus": true,
+    "height_m": 33.0,
+    "height_source": "levels",
+    "base_elevation_m": 23.01204128973201
+  },
+  {
+    "osm_id": 138223978,
+    "name": "Sino Building",
+    "campus": true,
+    "height_m": 33.0,
+    "height_source": "levels",
+    "base_elevation_m": 23.000000000000004
+  },
+  {
+    "osm_id": 138223979,
+    "name": "Chen Kou Bun Building",
+    "campus": true,
+    "height_m": 33.0,
+    "height_source": "levels",
+    "base_elevation_m": 23.000000000000004
+  },
+  {
+    "osm_id": 174133698,
+    "name": "Ho Tim Hall",
+    "campus": true,
+    "height_m": 46.199999999999996,
+    "height_source": "levels",
+    "base_elevation_m": 58.967930818331666
+  },
+  {
+    "osm_id": 174133703,
+    "name": "Lee Quo Wei Hall",
+    "campus": true,
+    "height_m": 29.7,
+    "height_source": "levels",
+    "base_elevation_m": 54.1286588589578
+  },
+  {
+    "osm_id": 174133709,
+    "name": "University Administration Building",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 98.39364914840561
+  },
+  {
+    "osm_id": 174133712,
+    "name": "Xuesi Hall",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 140.6487082915725
+  },
+  {
+    "osm_id": 174133716,
+    "name": "building 174133716",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 31.164287376921443
+  },
+  {
+    "osm_id": 174307328,
+    "name": "Science Park Road Public Toilet",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 7.227026230238343
+  },
+  {
+    "osm_id": 185253514,
+    "name": "Hyatt Regency Hong Kong, Sha Tin",
+    "campus": false,
+    "height_m": 102.3,
+    "height_source": "levels",
+    "base_elevation_m": 16.80861718351721
+  },
+  {
+    "osm_id": 185266978,
+    "name": "building 185266978",
+    "campus": true,
+    "height_m": 42.9,
+    "height_source": "levels",
+    "base_elevation_m": 19.964712110148277
+  },
+  {
+    "osm_id": 185266979,
+    "name": "Cheng Yu Tung Building",
+    "campus": true,
+    "height_m": 56.099999999999994,
+    "height_source": "levels",
+    "base_elevation_m": 18.705334316903844
+  },
+  {
+    "osm_id": 185740160,
+    "name": "Y.C. Liang Hall",
+    "campus": true,
+    "height_m": 16,
+    "height_source": "estimated",
+    "base_elevation_m": 101.30022057801195
+  },
+  {
+    "osm_id": 188010213,
+    "name": "Li Dak Sum Building",
+    "campus": true,
+    "height_m": 16,
+    "height_source": "estimated",
+    "base_elevation_m": 111.6740764858288
+  },
+  {
+    "osm_id": 188010216,
+    "name": "Lee Shau Kee Building",
+    "campus": true,
+    "height_m": 16,
+    "height_source": "estimated",
+    "base_elevation_m": 111.40862055259248
+  },
+  {
+    "osm_id": 191713160,
+    "name": "Li Dak Sum Yip Yio Chin Building",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 101.0
+  },
+  {
+    "osm_id": 193128663,
+    "name": "Maurice R. Greenberg Building",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 59.0
+  },
+  {
+    "osm_id": 194547399,
+    "name": "C. W. Chu College",
+    "campus": true,
+    "height_m": 23.099999999999998,
+    "height_source": "levels",
+    "base_elevation_m": 28.34196369805293
+  },
+  {
+    "osm_id": 194547400,
+    "name": "North Block, Lee Woo Sing College",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 100.22247440690708
+  },
+  {
+    "osm_id": 194547401,
+    "name": "Wu Yee Sun College",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 96.05205530876233
+  },
+  {
+    "osm_id": 194547402,
+    "name": "Dorothy and Ti-Hua Koo Building",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 101.0
+  },
+  {
+    "osm_id": 198965332,
+    "name": "building 198965332",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 8.622326495454463
+  },
+  {
+    "osm_id": 198965333,
+    "name": "building 198965333",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 7.761928729848167
+  },
+  {
+    "osm_id": 198965334,
+    "name": "building 198965334",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 7.49100087754667
+  },
+  {
+    "osm_id": 201907977,
+    "name": "Lee Shau Kee Architecture Building",
+    "campus": true,
+    "height_m": 23.099999999999998,
+    "height_source": "levels",
+    "base_elevation_m": 32.90717986702029
+  },
+  {
+    "osm_id": 201907981,
+    "name": "Yasumoto International Academic Park",
+    "campus": true,
+    "height_m": 66.4,
+    "height_source": "height_tag",
+    "base_elevation_m": 23.926007421182533
+  },
+  {
+    "osm_id": 201907994,
+    "name": "Wu Ho Man Yuen Building",
+    "campus": true,
+    "height_m": 51.8,
+    "height_source": "height_tag",
+    "base_elevation_m": 34.88366955121106
+  },
+  {
+    "osm_id": 204545720,
+    "name": "Ma Liu Shui off Tolo Highway Public Toilet",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 7.531268598109846
+  },
+  {
+    "osm_id": 219389532,
+    "name": "President Chi-tung Yung Memorial Building",
+    "campus": true,
+    "height_m": 13.2,
+    "height_source": "levels",
+    "base_elevation_m": 41.035391331977564
+  },
+  {
+    "osm_id": 230129212,
+    "name": "Pommerenke Student Centre",
+    "campus": true,
+    "height_m": 16,
+    "height_source": "estimated",
+    "base_elevation_m": 13.81252024349613
+  },
+  {
+    "osm_id": 230172683,
+    "name": "Dangerous Goods Stores",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 13.036706494551614
+  },
+  {
+    "osm_id": 230185998,
+    "name": "Morningside College",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 58.66894117518793
+  },
+  {
+    "osm_id": 255891590,
+    "name": "Hong Kong Institute of Biotechnology",
+    "campus": true,
+    "height_m": 6.6,
+    "height_source": "levels",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 255891597,
+    "name": "Marine Science Laboratory The Chinese University of Hong Kong",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 6.872314710789152
+  },
+  {
+    "osm_id": 255891621,
+    "name": "building 255891621",
+    "campus": true,
+    "height_m": 16.5,
+    "height_source": "levels",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 323784938,
+    "name": "building 323784938",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 7.455115102142848
+  },
+  {
+    "osm_id": 323784989,
+    "name": "15W",
+    "campus": false,
+    "height_m": 29.7,
+    "height_source": "levels",
+    "base_elevation_m": 7.591635271535905
+  },
+  {
+    "osm_id": 421850856,
+    "name": "Chan Chun Ha Hall",
+    "campus": true,
+    "height_m": 13.2,
+    "height_source": "levels",
+    "base_elevation_m": 55.9608056011791
+  },
+  {
+    "osm_id": 421937237,
+    "name": "Lady Ho Tung Hall",
+    "campus": true,
+    "height_m": 16,
+    "height_source": "estimated",
+    "base_elevation_m": 80.973945369572
+  },
+  {
+    "osm_id": 437402398,
+    "name": "Estate and Management Building Annex",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 56.52918295380185
+  },
+  {
+    "osm_id": 448483643,
+    "name": "Pak Shek Kok Sewage Pumping Station No.3",
+    "campus": false,
+    "height_m": 3.3,
+    "height_source": "levels",
+    "base_elevation_m": 7.62107780251174
+  },
+  {
+    "osm_id": 448483645,
+    "name": "Tolo Highway / Fanling Highway TCSS Communication Hub No.1",
+    "campus": false,
+    "height_m": 3.3,
+    "height_source": "levels",
+    "base_elevation_m": 7.673529675106941
+  },
+  {
+    "osm_id": 519120429,
+    "name": "University Station Cycling Entry/Exit Hub",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 7.781838682812781
+  },
+  {
+    "osm_id": 519120430,
+    "name": "building 519120430",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 10.583917054436988
+  },
+  {
+    "osm_id": 519120431,
+    "name": "building 519120431",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 9.92105774713567
+  },
+  {
+    "osm_id": 527852758,
+    "name": "building 527852758",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 72.6867046130269
+  },
+  {
+    "osm_id": 527852759,
+    "name": "building 527852759",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 48.09965475092919
+  },
+  {
+    "osm_id": 527852767,
+    "name": "building 527852767",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 44.966409180261024
+  },
+  {
+    "osm_id": 527852768,
+    "name": "Li's Ancestral Hall",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 45.23258361000252
+  },
+  {
+    "osm_id": 527853432,
+    "name": "building 527853432",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 121.4427666908023
+  },
+  {
+    "osm_id": 527853433,
+    "name": "building 527853433",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 121.35327000350674
+  },
+  {
+    "osm_id": 527853434,
+    "name": "building 527853434",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 120.20761094282851
+  },
+  {
+    "osm_id": 527854080,
+    "name": "building 527854080",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 103.7251995868042
+  },
+  {
+    "osm_id": 527854081,
+    "name": "building 527854081",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 103.69297100279235
+  },
+  {
+    "osm_id": 527854082,
+    "name": "building 527854082",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 103.3825846471849
+  },
+  {
+    "osm_id": 527854083,
+    "name": "Yau's Ancestral Hall",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 103.24501174049222
+  },
+  {
+    "osm_id": 527854809,
+    "name": "building 527854809",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 21.678233467942142
+  },
+  {
+    "osm_id": 527854810,
+    "name": "building 527854810",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 21.931426730006528
+  },
+  {
+    "osm_id": 527854811,
+    "name": "building 527854811",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 25.829299074089914
+  },
+  {
+    "osm_id": 527854812,
+    "name": "building 527854812",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 21.957068802169047
+  },
+  {
+    "osm_id": 527854813,
+    "name": "building 527854813",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 22.00570673818694
+  },
+  {
+    "osm_id": 527854815,
+    "name": "building 527854815",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 22.14472200380859
+  },
+  {
+    "osm_id": 527854816,
+    "name": "building 527854816",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 25.220363954213575
+  },
+  {
+    "osm_id": 527854817,
+    "name": "building 527854817",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 24.701212152871534
+  },
+  {
+    "osm_id": 527854819,
+    "name": "building 527854819",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 20.777617494153723
+  },
+  {
+    "osm_id": 527975230,
+    "name": "building 527975230",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 28.93977975213459
+  },
+  {
+    "osm_id": 527975231,
+    "name": "building 527975231",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 28.962634814916207
+  },
+  {
+    "osm_id": 527975232,
+    "name": "building 527975232",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 13.827538741267643
+  },
+  {
+    "osm_id": 527975236,
+    "name": "building 527975236",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 46.896252572707226
+  },
+  {
+    "osm_id": 527975237,
+    "name": "building 527975237",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 46.86871557908411
+  },
+  {
+    "osm_id": 527975238,
+    "name": "building 527975238",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 42.68558757196118
+  },
+  {
+    "osm_id": 527975239,
+    "name": "building 527975239",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 41.04739104635232
+  },
+  {
+    "osm_id": 527975241,
+    "name": "building 527975241",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 35.983480454976295
+  },
+  {
+    "osm_id": 527975242,
+    "name": "building 527975242",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 39.80898643670508
+  },
+  {
+    "osm_id": 527975243,
+    "name": "building 527975243",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 35.66710744509473
+  },
+  {
+    "osm_id": 527976277,
+    "name": "building 527976277",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 59.778908426746256
+  },
+  {
+    "osm_id": 527976361,
+    "name": "building 527976361",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 48.80087299014848
+  },
+  {
+    "osm_id": 527976362,
+    "name": "building 527976362",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 59.62196761591187
+  },
+  {
+    "osm_id": 544797036,
+    "name": "House of Sunny Living",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 97.95852108760826
+  },
+  {
+    "osm_id": 545777838,
+    "name": "building 545777838",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 18.111629247718007
+  },
+  {
+    "osm_id": 545778814,
+    "name": "Ya Qun Lodge",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 76.75522553584433
+  },
+  {
+    "osm_id": 545778815,
+    "name": "Huen Wing Ming Building",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 75.83573142094842
+  },
+  {
+    "osm_id": 667717925,
+    "name": "CUHK Jockey Club Postgraduate Hall 2",
+    "campus": true,
+    "height_m": 39.5,
+    "height_source": "height_tag",
+    "base_elevation_m": 10.46130163709141
+  },
+  {
+    "osm_id": 667717927,
+    "name": "CUHK Jockey Club Postgraduate Hall 3",
+    "campus": true,
+    "height_m": 36.4,
+    "height_source": "height_tag",
+    "base_elevation_m": 8.11945810033327
+  },
+  {
+    "osm_id": 667717928,
+    "name": "building 667717928",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 8.160832529729362
+  },
+  {
+    "osm_id": 667720096,
+    "name": "building 667720096",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 11.282312997045054
+  },
+  {
+    "osm_id": 696387721,
+    "name": "building 696387721",
+    "campus": true,
+    "height_m": 16,
+    "height_source": "estimated",
+    "base_elevation_m": 101.0
+  },
+  {
+    "osm_id": 696387728,
+    "name": "building 696387728",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 86.50043433586357
+  },
+  {
+    "osm_id": 696387736,
+    "name": "Orchid Lodge",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 24.799784675147585
+  },
+  {
+    "osm_id": 696387740,
+    "name": "building 696387740",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 41.58120838852724
+  },
+  {
+    "osm_id": 696387742,
+    "name": "Jockey Club Postgraduate Hall No. 1",
+    "campus": true,
+    "height_m": 33.0,
+    "height_source": "levels",
+    "base_elevation_m": 29.897868670058404
+  },
+  {
+    "osm_id": 697781253,
+    "name": "Lion Pavilion",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 5.9560372511001685
+  },
+  {
+    "osm_id": 707149633,
+    "name": "building 707149633",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 99.45552595113361
+  },
+  {
+    "osm_id": 707149650,
+    "name": "building 707149650",
+    "campus": false,
+    "height_m": 9.899999999999999,
+    "height_source": "levels",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 707149652,
+    "name": "building 707149652",
+    "campus": false,
+    "height_m": 9.899999999999999,
+    "height_source": "levels",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 707149655,
+    "name": "building 707149655",
+    "campus": false,
+    "height_m": 9.899999999999999,
+    "height_source": "levels",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 707149656,
+    "name": "building 707149656",
+    "campus": false,
+    "height_m": 9.899999999999999,
+    "height_source": "levels",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 709245126,
+    "name": "Ma Liu Shui Ferry Pier",
+    "campus": false,
+    "height_m": 3.3,
+    "height_source": "levels",
+    "base_elevation_m": 4.108633517979419
+  },
+  {
+    "osm_id": 721592506,
+    "name": "building 721592506",
+    "campus": false,
+    "height_m": 9.899999999999999,
+    "height_source": "levels",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 723796955,
+    "name": "龍霞靜院",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 9.21091746476897
+  },
+  {
+    "osm_id": 733045754,
+    "name": "19W",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 8.156407514683153
+  },
+  {
+    "osm_id": 733045755,
+    "name": "17W",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 7.408132166306538
+  },
+  {
+    "osm_id": 733045756,
+    "name": "building 733045756",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 7.823143593465893
+  },
+  {
+    "osm_id": 738386458,
+    "name": "building 738386458",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 11.407456919244616
+  },
+  {
+    "osm_id": 738386459,
+    "name": "building 738386459",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 7.273338373676059
+  },
+  {
+    "osm_id": 738395999,
+    "name": "building 738395999",
+    "campus": false,
+    "height_m": 9.899999999999999,
+    "height_source": "levels",
+    "base_elevation_m": 7.000000000000001
+  },
+  {
+    "osm_id": 744825499,
+    "name": "CUHK Satellite Remote Sensing Receiving Station (Phase 3)",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 9.40754233494792
+  },
+  {
+    "osm_id": 746662471,
+    "name": "building 746662471",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 140.0
+  },
+  {
+    "osm_id": 746662473,
+    "name": "building 746662473",
+    "campus": true,
+    "height_m": 4,
+    "height_source": "estimated",
+    "base_elevation_m": 139.31777006239008
+  },
+  {
+    "osm_id": 751056962,
+    "name": "House 16",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 81.25520665026468
+  },
+  {
+    "osm_id": 751056963,
+    "name": "House 17",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 83.88821613423414
+  },
+  {
+    "osm_id": 751056964,
+    "name": "House 18",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 83.98175620197357
+  },
+  {
+    "osm_id": 751056965,
+    "name": "House 19",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 84.2452482699168
+  },
+  {
+    "osm_id": 751056966,
+    "name": "House 20",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 84.5656745804615
+  },
+  {
+    "osm_id": 751056968,
+    "name": "House 21",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 84.71075333491893
+  },
+  {
+    "osm_id": 751056970,
+    "name": "House 22",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 84.42385753748516
+  },
+  {
+    "osm_id": 751056972,
+    "name": "House 23",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 84.22630003238413
+  },
+  {
+    "osm_id": 751056973,
+    "name": "building 751056973",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 79.5452342723428
+  },
+  {
+    "osm_id": 751056979,
+    "name": "House 15",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 70.86739614089416
+  },
+  {
+    "osm_id": 751056980,
+    "name": "House 13",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 70.18100281824493
+  },
+  {
+    "osm_id": 751056981,
+    "name": "House 12",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 70.15986387819494
+  },
+  {
+    "osm_id": 751056982,
+    "name": "House 11",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 70.23380828554758
+  },
+  {
+    "osm_id": 751056983,
+    "name": "House 10",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 70.53389674714843
+  },
+  {
+    "osm_id": 751056984,
+    "name": "House 9",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 70.3684313838941
+  },
+  {
+    "osm_id": 751056985,
+    "name": "building 751056985",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 70.71786900737459
+  },
+  {
+    "osm_id": 751056986,
+    "name": "building 751056986",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 69.80382043064297
+  },
+  {
+    "osm_id": 751056987,
+    "name": "building 751056987",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 69.82299212105352
+  },
+  {
+    "osm_id": 751056988,
+    "name": "building 751056988",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 70.1528679649482
+  },
+  {
+    "osm_id": 751056989,
+    "name": "building 751056989",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 70.2325663699629
+  },
+  {
+    "osm_id": 751056990,
+    "name": "building 751056990",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 69.67429160758996
+  },
+  {
+    "osm_id": 751056998,
+    "name": "House 8",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 68.09989507712763
+  },
+  {
+    "osm_id": 751056999,
+    "name": "House 7",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 68.02451401387671
+  },
+  {
+    "osm_id": 751057000,
+    "name": "House 6",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 68.29859855975874
+  },
+  {
+    "osm_id": 751057001,
+    "name": "House 5",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 68.13653609806703
+  },
+  {
+    "osm_id": 751057002,
+    "name": "House 3",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 67.98486495085547
+  },
+  {
+    "osm_id": 751057003,
+    "name": "House 2",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 67.90534297479837
+  },
+  {
+    "osm_id": 751057004,
+    "name": "House 1",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 68.0355610301335
+  },
+  {
+    "osm_id": 751057005,
+    "name": "building 751057005",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 67.70765968002995
+  },
+  {
+    "osm_id": 751057006,
+    "name": "building 751057006",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 67.73455737333116
+  },
+  {
+    "osm_id": 751057007,
+    "name": "building 751057007",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 67.77442460631607
+  },
+  {
+    "osm_id": 751057008,
+    "name": "building 751057008",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 67.79171400658277
+  },
+  {
+    "osm_id": 751057009,
+    "name": "building 751057009",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 67.72252121919024
+  },
+  {
+    "osm_id": 751057010,
+    "name": "building 751057010",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 67.56065827868353
+  },
+  {
+    "osm_id": 751057011,
+    "name": "building 751057011",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 67.15374677154557
+  },
+  {
+    "osm_id": 751059031,
+    "name": "building 751059031",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 81.1398342525564
+  },
+  {
+    "osm_id": 751059032,
+    "name": "building 751059032",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 73.83837420648854
+  },
+  {
+    "osm_id": 772869173,
+    "name": "building 772869173",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 24.0
+  },
+  {
+    "osm_id": 772869174,
+    "name": "Estates Management Office Building",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 19.977328659503268
+  },
+  {
+    "osm_id": 772869179,
+    "name": "building 772869179",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 19.712804048474062
+  },
+  {
+    "osm_id": 773906092,
+    "name": "Tower 8",
+    "campus": false,
+    "height_m": 62.699999999999996,
+    "height_source": "levels",
+    "base_elevation_m": 6.4297454559238645
+  },
+  {
+    "osm_id": 822750048,
+    "name": "building 822750048",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 10.23891763616593
+  },
+  {
+    "osm_id": 838814781,
+    "name": "building 838814781",
+    "campus": false,
+    "height_m": 9.899999999999999,
+    "height_source": "levels",
+    "base_elevation_m": 29.754590775417505
+  },
+  {
+    "osm_id": 838814783,
+    "name": "building 838814783",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 838814784,
+    "name": "building 838814784",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 34.175656916227055
+  },
+  {
+    "osm_id": 839051021,
+    "name": "building 839051021",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 31.141896063555215
+  },
+  {
+    "osm_id": 885812200,
+    "name": "InnoCell",
+    "campus": false,
+    "height_m": 49.5,
+    "height_source": "levels",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 887841452,
+    "name": "building 887841452",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 11.743716962246975
+  },
+  {
+    "osm_id": 914897042,
+    "name": "Tower 7",
+    "campus": false,
+    "height_m": 62.699999999999996,
+    "height_source": "levels",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 914897043,
+    "name": "Tower 6",
+    "campus": false,
+    "height_m": 62.699999999999996,
+    "height_source": "levels",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 914900392,
+    "name": "Tower 10",
+    "campus": false,
+    "height_m": 62.699999999999996,
+    "height_source": "levels",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 914900394,
+    "name": "Tower 1",
+    "campus": false,
+    "height_m": 62.699999999999996,
+    "height_source": "levels",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 914900395,
+    "name": "Tower 2",
+    "campus": false,
+    "height_m": 62.699999999999996,
+    "height_source": "levels",
+    "base_elevation_m": 6.997702845382836
+  },
+  {
+    "osm_id": 914900396,
+    "name": "Tower 3",
+    "campus": false,
+    "height_m": 62.699999999999996,
+    "height_source": "levels",
+    "base_elevation_m": 6.4315462868014475
+  },
+  {
+    "osm_id": 914925545,
+    "name": "building 914925545",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 26.801508848470178
+  },
+  {
+    "osm_id": 914925546,
+    "name": "building 914925546",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 26.469587212211113
+  },
+  {
+    "osm_id": 914925547,
+    "name": "building 914925547",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 23.945670376149046
+  },
+  {
+    "osm_id": 914925548,
+    "name": "building 914925548",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 20.074407797809265
+  },
+  {
+    "osm_id": 914925549,
+    "name": "building 914925549",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 20.19700852418249
+  },
+  {
+    "osm_id": 914925550,
+    "name": "building 914925550",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 20.154211946010093
+  },
+  {
+    "osm_id": 914925551,
+    "name": "building 914925551",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 20.223594022988546
+  },
+  {
+    "osm_id": 914925552,
+    "name": "building 914925552",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 20.281430550290086
+  },
+  {
+    "osm_id": 914925553,
+    "name": "building 914925553",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 20.33795426262846
+  },
+  {
+    "osm_id": 914925554,
+    "name": "building 914925554",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 18.348621716221892
+  },
+  {
+    "osm_id": 914925555,
+    "name": "building 914925555",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 18.418593807424724
+  },
+  {
+    "osm_id": 914925556,
+    "name": "building 914925556",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 18.218110757579307
+  },
+  {
+    "osm_id": 914925557,
+    "name": "building 914925557",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 18.13640825760742
+  },
+  {
+    "osm_id": 914925558,
+    "name": "building 914925558",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 18.386151364022023
+  },
+  {
+    "osm_id": 914925559,
+    "name": "building 914925559",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 18.522020355672584
+  },
+  {
+    "osm_id": 914925560,
+    "name": "building 914925560",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 18.617934988180135
+  },
+  {
+    "osm_id": 914925561,
+    "name": "building 914925561",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 19.093319281728355
+  },
+  {
+    "osm_id": 914973813,
+    "name": "Tower 13",
+    "campus": false,
+    "height_m": 59.4,
+    "height_source": "levels",
+    "base_elevation_m": 13.000401364710491
+  },
+  {
+    "osm_id": 914973819,
+    "name": "Tower 5",
+    "campus": false,
+    "height_m": 59.4,
+    "height_source": "levels",
+    "base_elevation_m": 13.227419115436938
+  },
+  {
+    "osm_id": 914973820,
+    "name": "Tower 3",
+    "campus": false,
+    "height_m": 62.699999999999996,
+    "height_source": "levels",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 914973821,
+    "name": "Tower 2",
+    "campus": false,
+    "height_m": 56.099999999999994,
+    "height_source": "levels",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 914973822,
+    "name": "Tower 1",
+    "campus": false,
+    "height_m": 56.099999999999994,
+    "height_source": "levels",
+    "base_elevation_m": 6.906739804815366
+  },
+  {
+    "osm_id": 914973823,
+    "name": "Clubhouse",
+    "campus": false,
+    "height_m": 6.6,
+    "height_source": "levels",
+    "base_elevation_m": 13.540116735751461
+  },
+  {
+    "osm_id": 914973842,
+    "name": "Tower 3A",
+    "campus": false,
+    "height_m": 56.099999999999994,
+    "height_source": "levels",
+    "base_elevation_m": 4.982314449345267
+  },
+  {
+    "osm_id": 914973844,
+    "name": "Tower 1",
+    "campus": false,
+    "height_m": 56.099999999999994,
+    "height_source": "levels",
+    "base_elevation_m": 7.495560600014951
+  },
+  {
+    "osm_id": 923320388,
+    "name": "building 923320388",
+    "campus": true,
+    "height_m": 3.3,
+    "height_source": "levels",
+    "base_elevation_m": 58.43155799212857
+  },
+  {
+    "osm_id": 923320392,
+    "name": "building 923320392",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 6.305228012218997
+  },
+  {
+    "osm_id": 923320400,
+    "name": "building 923320400",
+    "campus": true,
+    "height_m": 6.6,
+    "height_source": "levels",
+    "base_elevation_m": 11.589015196227763
+  },
+  {
+    "osm_id": 923320403,
+    "name": "Chung Chi Tang",
+    "campus": true,
+    "height_m": 16,
+    "height_source": "estimated",
+    "base_elevation_m": 11.839241094651491
+  },
+  {
+    "osm_id": 923320416,
+    "name": "building 923320416",
+    "campus": true,
+    "height_m": 39.599999999999994,
+    "height_source": "levels",
+    "base_elevation_m": 30.0
+  },
+  {
+    "osm_id": 955764566,
+    "name": "building 955764566",
+    "campus": true,
+    "height_m": 3.3,
+    "height_source": "levels",
+    "base_elevation_m": 93.26354933034227
+  },
+  {
+    "osm_id": 1000297731,
+    "name": "Kunkle Student Centre",
+    "campus": true,
+    "height_m": 16,
+    "height_source": "estimated",
+    "base_elevation_m": 30.455482104235664
+  },
+  {
+    "osm_id": 1000297732,
+    "name": "Leung Fung Yee Building",
+    "campus": true,
+    "height_m": 16,
+    "height_source": "estimated",
+    "base_elevation_m": 41.838249841863686
+  },
+  {
+    "osm_id": 1021573535,
+    "name": "building 1021573535",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 155.46416939404702
+  },
+  {
+    "osm_id": 1021573537,
+    "name": "building 1021573537",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 140.5529616291273
+  },
+  {
+    "osm_id": 1021573538,
+    "name": "building 1021573538",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 141.77351391651317
+  },
+  {
+    "osm_id": 1024849530,
+    "name": "Yau Chan Fei Ancestral Hall",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 7.246034667015158
+  },
+  {
+    "osm_id": 1032917711,
+    "name": "building 1032917711",
+    "campus": false,
+    "height_m": 9.899999999999999,
+    "height_source": "levels",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 1035894228,
+    "name": "building 1035894228",
+    "campus": false,
+    "height_m": 9.899999999999999,
+    "height_source": "levels",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 1035894230,
+    "name": "building 1035894230",
+    "campus": false,
+    "height_m": 9.899999999999999,
+    "height_source": "levels",
+    "base_elevation_m": 10.318864030537279
+  },
+  {
+    "osm_id": 1058569047,
+    "name": "Marina Tower 1",
+    "campus": false,
+    "height_m": 39.599999999999994,
+    "height_source": "levels",
+    "base_elevation_m": 5.0
+  },
+  {
+    "osm_id": 1058569048,
+    "name": "Marina Tower 2",
+    "campus": false,
+    "height_m": 39.599999999999994,
+    "height_source": "levels",
+    "base_elevation_m": 5.063229710726807
+  },
+  {
+    "osm_id": 1058569050,
+    "name": "Marina Tower 5",
+    "campus": false,
+    "height_m": 42.9,
+    "height_source": "levels",
+    "base_elevation_m": 3.529803164727187
+  },
+  {
+    "osm_id": 1058569052,
+    "name": "Greenwood Tower 2",
+    "campus": false,
+    "height_m": 36.3,
+    "height_source": "levels",
+    "base_elevation_m": 3.010793893662304
+  },
+  {
+    "osm_id": 1058569053,
+    "name": "Greenwood Tower 3",
+    "campus": false,
+    "height_m": 36.3,
+    "height_source": "levels",
+    "base_elevation_m": 3.7183524694547856
+  },
+  {
+    "osm_id": 1058569054,
+    "name": "Greenwood Tower 6",
+    "campus": false,
+    "height_m": 36.3,
+    "height_source": "levels",
+    "base_elevation_m": 4.0
+  },
+  {
+    "osm_id": 1058569055,
+    "name": "Greenwood Tower 5",
+    "campus": false,
+    "height_m": 36.3,
+    "height_source": "levels",
+    "base_elevation_m": 6.438852263884938
+  },
+  {
+    "osm_id": 1058569056,
+    "name": "Greenwood Tower 1",
+    "campus": false,
+    "height_m": 36.3,
+    "height_source": "levels",
+    "base_elevation_m": 3.7119401670660297
+  },
+  {
+    "osm_id": 1072300300,
+    "name": "building 1072300300",
+    "campus": true,
+    "height_m": 3.3,
+    "height_source": "levels",
+    "base_elevation_m": 100.92527601370803
+  },
+  {
+    "osm_id": 1080920665,
+    "name": "CUHK Medical Centre",
+    "campus": false,
+    "height_m": 30,
+    "height_source": "estimated",
+    "base_elevation_m": 6.316318361623362
+  },
+  {
+    "osm_id": 1162853133,
+    "name": "building 1162853133",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 5.7993165874657695
+  },
+  {
+    "osm_id": 1173350220,
+    "name": "building 1173350220",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 5.0
+  },
+  {
+    "osm_id": 1201096779,
+    "name": "building 1201096779",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 121.09373619905762
+  },
+  {
+    "osm_id": 1201096780,
+    "name": "building 1201096780",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 117.8477652415225
+  },
+  {
+    "osm_id": 1201096781,
+    "name": "building 1201096781",
+    "campus": false,
+    "height_m": 8,
+    "height_source": "estimated",
+    "base_elevation_m": 119.27628478541544
+  },
+  {
+    "osm_id": 1209315213,
+    "name": "building 1209315213",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 9.420851803549834
+  },
+  {
+    "osm_id": 1230610505,
+    "name": "building 1230610505",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 7.441577799580558
+  },
+  {
+    "osm_id": 1230610506,
+    "name": "building 1230610506",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 7.965352915590681
+  },
+  {
+    "osm_id": 1243363293,
+    "name": "Mei Yun Tang",
+    "campus": true,
+    "height_m": 23.099999999999998,
+    "height_source": "levels",
+    "base_elevation_m": 130.85205547774876
+  },
+  {
+    "osm_id": 1255479559,
+    "name": "building 1255479559",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 6.372870298704972
+  },
+  {
+    "osm_id": 1255479560,
+    "name": "building 1255479560",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 6.467486353805266
+  },
+  {
+    "osm_id": 1328114548,
+    "name": "Centralized General Research Laboratory Complex (Block 2)",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 7.248767588216341
+  },
+  {
+    "osm_id": 1344748884,
+    "name": "Choi Kai Yau Residence",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 140.56816466985936
+  },
+  {
+    "osm_id": 1349568933,
+    "name": "building 1349568933",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 40.89744098259874
+  },
+  {
+    "osm_id": 1370428885,
+    "name": "building 1370428885",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 1370428886,
+    "name": "building 1370428886",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 7.015422290912722
+  },
+  {
+    "osm_id": 1370428887,
+    "name": "building 1370428887",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 1376955188,
+    "name": "building 1376955188",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 102.30786223674009
+  },
+  {
+    "osm_id": 1424777851,
+    "name": "Teaching - Research Complex",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 6.35847846423629
+  },
+  {
+    "osm_id": 1424818901,
+    "name": "building 1424818901",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 42.06928046878696
+  },
+  {
+    "osm_id": 1424818902,
+    "name": "building 1424818902",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 41.838249841863686
+  },
+  {
+    "osm_id": 1424818905,
+    "name": "building 1424818905",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 29.745668455216475
+  },
+  {
+    "osm_id": 1424818906,
+    "name": "building 1424818906",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 33.215569775517395
+  },
+  {
+    "osm_id": 1424818907,
+    "name": "building 1424818907",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 33.50500705611344
+  },
+  {
+    "osm_id": 1424900699,
+    "name": "East Wing",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 98.79645712375182
+  },
+  {
+    "osm_id": 1424900700,
+    "name": "West Wing",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 100.21244824770896
+  },
+  {
+    "osm_id": 1424900701,
+    "name": "Lo Kwee Seong Pavilion",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 96.67104960653496
+  },
+  {
+    "osm_id": 1554329277,
+    "name": "Science Park Road Public Toilet",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 7.743889009698412
+  },
+  {
+    "osm_id": 1806438,
+    "name": "Lady Shaw Building",
+    "campus": true,
+    "height_m": 16.5,
+    "height_source": "levels",
+    "base_elevation_m": 91.0
+  },
+  {
+    "osm_id": 2096073,
+    "name": "Institute of Chinese Studies",
+    "campus": true,
+    "height_m": 16,
+    "height_source": "estimated",
+    "base_elevation_m": 100.95699331922782
+  },
+  {
+    "osm_id": 2325105,
+    "name": "Adam Schall Residence",
+    "campus": true,
+    "height_m": 22,
+    "height_source": "estimated",
+    "base_elevation_m": 140.96490351244725
+  },
+  {
+    "osm_id": 2532440,
+    "name": "Lo Kwee Seong Integrated Biomedical Sciences Building",
+    "campus": true,
+    "height_m": 33.0,
+    "height_source": "levels",
+    "base_elevation_m": 7.0
+  },
+  {
+    "osm_id": 2712284,
+    "name": "building 2712284",
+    "campus": true,
+    "height_m": 15.3,
+    "height_source": "height_tag",
+    "base_elevation_m": 21.92466175971524
+  },
+  {
+    "osm_id": 3086286,
+    "name": "T.C. Cheng Building",
+    "campus": true,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 143.3345229875033
+  },
+  {
+    "osm_id": 10266054,
+    "name": "building 10266054",
+    "campus": true,
+    "height_m": 16,
+    "height_source": "estimated",
+    "base_elevation_m": 101.00992302728015
+  },
+  {
+    "osm_id": 15728037,
+    "name": "Silicon Lane",
+    "campus": false,
+    "height_m": 12,
+    "height_source": "estimated",
+    "base_elevation_m": 4.696617146719128
+  }
+]

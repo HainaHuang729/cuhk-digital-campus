@@ -1,0 +1,54 @@
+{
+  "fps": 30,
+  "frameMsP95": 37.6,
+  "drawCalls": 145,
+  "triangles": 2535962,
+  "geometries": 807,
+  "textures": 4,
+  "pixelRatio": 1,
+  "viewport": [
+    390,
+    844
+  ],
+  "geometryMB": 93.8,
+  "gpuMemoryMB": null,
+  "heapMB": 115.8,
+  "quality": "low",
+  "automatic": true,
+  "ao": false,
+  "time": 16.5,
+  "night": 0,
+  "streaming": {
+    "zones": 2,
+    "pending": 0,
+    "loadedMiB": 26.87820816040039,
+    "distanceScale": 1,
+    "lowBuildings": 369,
+    "levels": [
+      "zone_2_1:medium",
+      "zone_2_2:medium"
+    ],
+    "errors": 0
+  },
+  "life": {
+    "illustrative": true,
+    "people": 3,
+    "cars": 2,
+    "bicycles": 0,
+    "trees": 29,
+    "furniture": 15,
+    "nightPools": 0,
+    "drawCalls": 12,
+    "triangles": 5423
+  },
+  "camera": [
+    -28.84544834030592,
+    318.2654371454314,
+    253.60024547045083
+  ],
+  "target": [
+    -238.97621154785156,
+    107.498779296875,
+    22.188322067260774
+  ]
+}

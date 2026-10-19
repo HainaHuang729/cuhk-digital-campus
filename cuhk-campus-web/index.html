@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <meta name="theme-color" content="#d5deda"/><meta name="description" content="在时间、山坡与海岸之间，探索香港中文大学的互动数字校园。"/>
+  <title>CUHK — Interactive Digital Campus</title>
+</head>
+<body class="at-entry">
+<main id="app">
+  <div id="viewport" aria-label="香港中文大学交互式三维校园"></div>
+  <div id="labels" aria-label="校园地点标注"></div>
+  <div class="amenities-legend chrome" aria-label="地点图层"><button data-amenity-type="canteen" aria-pressed="true"><i aria-hidden="true"></i>食堂 <span id="canteen-count"></span></button><button data-amenity-type="bus_stop" aria-pressed="true"><i aria-hidden="true"></i>公交站 <span id="bus-stop-count"></span></button></div>
+  <a href="#" id="brand-home" class="brand chrome" aria-label="返回校园总览"><b>CUHK</b><span>DIGITAL CAMPUS</span></a>
+  <div class="top-tools chrome"><button id="photo-button" aria-pressed="false">Photo <span>↗</span></button><button id="about-button" aria-label="关于校园模型">ⓘ</button></div>
+  <section id="entry" class="entry" aria-label="进入数字校园">
+    <p class="eyebrow">THE CHINESE UNIVERSITY OF HONG KONG</p><h1>CAMPUS<span>DIGITAL MODEL</span></h1>
+    <p class="entry-line">Explore the campus through space and time.</p><button id="enter-button" disabled>ENTER <span>↗</span></button>
+    <div id="loading" role="status"><span id="loading-detail">正在铺开山海校园…</span><div class="progress-track"><i id="loading-progress"></i></div><button id="retry-button" hidden>重新加载</button></div>
+    <p class="entry-location">22°25′ N &nbsp; 114°12′ E <span>HILLSIDE TO HARBOUR</span></p>
+  </section>
+  <nav class="dock chrome" aria-label="校园探索"><button data-panel="explore-panel" aria-expanded="false">Explore</button><button data-panel="places-panel" aria-expanded="false">Places</button><button data-panel="stories-panel" aria-expanded="false">Stories</button><button data-panel="ecology-panel" aria-expanded="false">Ecology</button><button data-panel="time-panel" aria-expanded="false">Time</button></nav>
+  <div id="ecology-badge" class="ecology-badge chrome" hidden><span>未圆湖 · ECOLOGY</span><button id="exit-ecology">返回 Explore ×</button></div>
+  <section id="ecology-panel" class="panel dock-panel chrome" aria-label="未圆湖植物与生态" hidden>
+    <div class="panel-heading"><span class="eyebrow">CAMPUS FLORA · PILOT</span><button class="close-panel" aria-label="收起生态面板">×</button></div><h2>沿湖，慢慢发现</h2>
+    <p id="ecology-summary" class="muted" role="status">正在读取有来源的校园生态资料…</p>
+    <div class="ecology-options"><label><input id="ecology-markers" type="checkbox" checked/>显示区域标记</label><button id="ecology-focus">全湖总览 ↗</button></div>
+    <div class="ecology-views" role="group" aria-label="湖区观察视角"><button type="button" data-ecology-view="shoreline" disabled>湖岸漫步 ↗</button><button type="button" data-ecology-view="philosophy" disabled>哲径望湖 ↗</button></div>
+    <label class="ecology-filter">探索内容<select id="ecology-filter"><option value="all">全部</option><option value="plants">Plants · 植物</option><option value="tree">乔木</option><option value="shrub">灌木</option><option value="aquatic_edge">水岸植物</option><option value="ecology">生境与观察</option></select></label>
+    <div id="ecology-list" class="place-list"></div><small>区域标记表示资料支持的观察范围，不是树干实测坐标。生态解说不代表实时监测。</small><button id="ecology-retry" hidden>重试读取资料</button>
+  </section>
+  <section id="explore-panel" class="panel dock-panel chrome" aria-label="校园视角" hidden>
+    <div class="panel-heading"><span class="eyebrow">EXPLORE THE CAMPUS</span><button class="close-panel" aria-label="关闭探索面板">×</button></div><h2>山海之间</h2><p class="muted">循着山势，找到自己的视角。</p><div id="view-list" class="place-list"></div>
+    <div class="diorama-options"><label>风格示例<select id="diorama-style"><option value="diorama">A · 暖纸沙盘</option><option value="white">B · 白模建筑</option><option value="fresh">C · 清新彩色</option><option value="original">原始材质</option></select></label><button id="diorama-view">未圆湖沙盘 ↗</button></div>
+    <div class="panel-options"><button id="labels-button" aria-pressed="false">建筑名称 <span>OFF</span></button><button id="fullscreen-button">全屏浏览 ↗</button></div><small class="gesture-note">拖动旋转 · 滚轮缩放 · 右键平移</small>
+  </section>
+  <section id="places-panel" class="panel dock-panel chrome" aria-label="搜索校园地点" hidden>
+    <div class="panel-heading"><span class="eyebrow">PLACES</span><button class="close-panel" aria-label="关闭地点面板">×</button></div><label class="search-wrap"><span>⌕</span><input id="search" type="search" aria-label="搜索校园地点" placeholder="搜索食堂、公交站或建筑" autocomplete="off"/><kbd>/</kbd></label><div class="place-categories" aria-label="地点类型"><button data-place-category="all" aria-pressed="true">全部</button><button data-place-category="canteen" aria-pressed="false">食堂</button><button data-place-category="bus_stop" aria-pressed="false">公交站</button><button data-place-category="building" aria-pressed="false">建筑</button></div><div id="search-results" class="place-list" hidden></div><div id="landmarks" class="place-list"></div><small id="places-summary">食堂与公交站 · 点击标记查看地点</small>
+  </section>
+  <section id="stories-panel" class="panel dock-panel chrome" aria-label="校园故事目录" hidden>
+    <div class="panel-heading"><span class="eyebrow">CAMPUS STORIES</span><button class="close-panel" aria-label="关闭故事目录">×</button></div><h2>空间里的时间</h2><p class="muted">从一座建筑，读校园的片段。</p><div id="story-list" class="place-list"></div>
+  </section>
+  <section id="time-panel" class="panel time-panel chrome" aria-label="校园时间" hidden>
+    <div class="panel-heading"><span class="eyebrow">A DAY ON CAMPUS</span><button class="close-panel" aria-label="关闭时间面板">×</button></div><div class="time-heading"><output id="time-value">16:30</output><button id="time-play" aria-pressed="false">播放一天 ▷</button></div><input id="time-slider" type="range" min="0" max="24" step="0.01" value="16.5" aria-label="一天中的时间"/><div class="time-ticks"><button data-hour="0">00:00</button><button data-hour="6">06:00</button><button data-hour="12">12:00</button><button data-hour="18">18:00</button><button data-hour="24">24:00</button></div><p class="muted">看晨光、夕阳和灯火慢慢改变校园。</p>
+  </section>
+  <section id="selection" class="panel selection-card chrome" aria-label="地点详情" hidden>
+    <div class="panel-heading"><span id="selected-type" class="eyebrow">CAMPUS ARCHITECTURE</span><button id="close-selection" aria-label="关闭地点详情">×</button></div><h2 id="selected-name"></h2><p id="selected-en" class="place-english"></p><p id="selected-description"></p><div class="building-facts"><span id="selected-year" hidden></span><span id="selected-height"></span><span id="selected-source"></span></div><a id="selected-link" class="source-link" target="_blank" rel="noreferrer" hidden>查看地点来源 ↗</a><a id="selected-notice" class="source-link" target="_blank" rel="noreferrer" hidden>校巴通告 ↗</a><div class="building-actions"><button id="explore-selection">Explore</button><button id="story-selection">Story</button><button id="focus-selection">Focus ↗</button></div>
+  </section>
+  <section id="story-detail" class="panel story-detail chrome" aria-label="校园故事" hidden>
+    <div class="panel-heading"><span class="eyebrow">A CAMPUS THROUGH TIME</span><button id="close-story" aria-label="关闭故事">×</button></div><div id="story-years" class="story-years"></div><img id="story-image" alt=""/><small id="story-credit">图片：香港中文大学</small><h2 id="story-title"></h2><p id="story-text"></p><a id="story-source" target="_blank" rel="noreferrer">阅读来源 ↗</a>
+  </section>
+  <div class="compass-tools chrome"><button id="north-button" aria-label="正北俯视"><span>N</span><i id="compass-arrow">↑</i></button><button id="zoom-in" aria-label="放大">＋</button><button id="zoom-out" aria-label="缩小">−</button></div>
+  <div class="scene-clock chrome" aria-label="当前校园时间"><span id="scene-date">09.26</span><b id="scene-time">16:30</b><span id="scene-status">CLEAR</span></div>
+  <div class="photo-controls" hidden><span>PHOTOGRAPHY <small>拖动构图 · Esc 返回</small></span><button id="capture-button" disabled>保存画面 ↓</button><button id="exit-photo">返回 Explore</button></div><div id="toast" role="status"></div>
+  <aside id="debug-panel" class="panel debug-panel" aria-label="开发调试" hidden>
+    <div class="panel-heading"><b>SCENE CONTROLS</b><button id="close-debug" aria-label="关闭调试">×</button></div>
+    <details id="calibration-controls"><summary>逸夫科学大楼 · 几何校准</summary><p>政府公开三维数据参考层</p><small>局部比对 · 不代表全校已按官方模型重建</small>
+      <label><input id="calibration-visible" type="checkbox"/>显示参考层（按需加载）</label><label>透明度<input id="calibration-opacity" type="range" min="0.1" max="1" step="0.05" value="0.45" aria-label="参考层透明度"/></label><label><input id="calibration-bounds" type="checkbox" checked/>样板建筑边界框</label>
+      <label>建筑高程解释<select id="calibration-vertical" aria-label="参考建筑高程解释"><option value="hkpd">椭球高转 HKPD</option><option value="source">保留源高度（待核）</option></select></label>
+      <button id="calibration-focus">聚焦逸夫科学大楼 ↗</button><p id="calibration-status" role="status">参考数据尚未载入。</p><div id="calibration-metrics"></div><button id="calibration-capture" disabled>导出同视角对照图 ↓</button>
+    </details>
+    <label><input id="debug-ecology-visuals" type="checkbox" checked/>未圆湖局部视觉优化</label>
+    <label>画质<select id="quality-select"><option value="auto">Auto</option><option value="high">High</option><option value="medium">Medium</option><option value="low">Low</option></select></label>
+    <label>太阳方向<input id="debug-sun" type="range" min="-90" max="90" value="0"/></label><label>曝光<input id="debug-exposure" type="range" min="0.5" max="1.5" step="0.05" value="1"/></label><label>雾气<input id="debug-fog" type="range" min="0" max="2" step="0.1" value="1"/></label><label>环境反射<input id="debug-environment" type="range" min="0" max="2" step="0.1" value="1"/></label><label>LOD距离<input id="debug-lod" type="range" min="0.5" max="1.5" step="0.1" value="1"/></label>
+    <label><input id="debug-ao" type="checkbox" checked/>轻度 AO（近景 / High）</label><label><input id="debug-shadow" type="checkbox" checked/>阴影</label><label><input id="debug-people" type="checkbox" checked/>校园活动</label><label><input id="debug-vegetation" type="checkbox" checked/>植被</label><button id="benchmark-button">环绕性能测试 · B</button><small>P：性能 · D：调试</small>
+  </aside>
+  <dialog id="about-dialog"><button id="close-about" class="dialog-close" aria-label="关闭说明">×</button><span class="eyebrow">ABOUT THIS CAMPUS</span><h2>从山坡到吐露港</h2><p>沿用已有 Blender 校园模型，加入昼夜、校园活动与空间故事。建筑与场地包含照片和高程辅助估算；人物、车辆和环境小物是场景示意，并非实时校园数据。</p><p>地形：香港政府 CEDD LiDAR 派生资料。建筑、道路与名称：© OpenStreetMap contributors。局部地形按道路和运动场调整，植被为示意布置。</p><p>鼠标拖动旋转、右键平移、滚轮缩放。触屏单指旋转、双指平移与缩放。按 / 搜索，Esc 返回，C 摄影，P 性能，D 调试。</p><a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noreferrer">OpenStreetMap 署名 ↗</a><p class="muted">仅供校园空间探索，不用于实测或导航。</p></dialog>
+  <dialog id="comparison-dialog" aria-label="政府参考对照图"><button id="close-comparison" class="dialog-close" aria-label="关闭对照图">×</button><p>同镜头 · 原模型 / 政府公开三维数据参考层</p><img id="comparison-image" alt="逸夫科学大楼原模型与政府参考层的同视角对照"/><a id="comparison-save" download="CUHK-Shaw-government-reference-comparison.png">保存 PNG ↓</a><p class="muted">仅为数据对照，未修改主模型；高程基准仍有待核实。</p></dialog>
+</main><script type="module" src="/main.js"></script>
+</body></html>

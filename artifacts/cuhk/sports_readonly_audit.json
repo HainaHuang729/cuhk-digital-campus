@@ -1,0 +1,2100 @@
+{
+  "sports": [
+    {
+      "name": "sport 135266016",
+      "osm_id": "135266016",
+      "tags": {
+        "access": "permissive",
+        "covered": "no",
+        "description:en": "Swimming pool",
+        "description:zh": "游泳池",
+        "leisure": "swimming_pool",
+        "sport": "swimming"
+      },
+      "geometry": "Polygon",
+      "vertices": 79,
+      "xyz_min": [
+        -213.931396484375,
+        -197.7838897705078,
+        86.38874053955078
+      ],
+      "xyz_max": [
+        -163.92869567871094,
+        -179.44444274902344,
+        86.90496063232422
+      ],
+      "z_range_m": 0.5162200927734375,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 136637852",
+      "osm_id": "136637852",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": "Polygon",
+      "vertices": 21,
+      "xyz_min": [
+        -487.7839660644531,
+        -352.2843933105469,
+        154.04843139648438
+      ],
+      "xyz_max": [
+        -466.5208740234375,
+        -327.2913513183594,
+        154.82521057128906
+      ],
+      "z_range_m": 0.7767791748046875,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 170336289",
+      "osm_id": "170336289",
+      "tags": {
+        "goalposts": "2",
+        "leisure": "pitch",
+        "soccer": "11-a-side",
+        "sport": "soccer",
+        "surface": "grass"
+      },
+      "geometry": "Polygon",
+      "vertices": 349,
+      "xyz_min": [
+        174.60623168945312,
+        -577.5281982421875,
+        6.982404708862305
+      ],
+      "xyz_max": [
+        260.9375915527344,
+        -525.6969604492188,
+        7.227164268493652
+      ],
+      "z_range_m": 0.24475955963134766,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 170336290",
+      "osm_id": "170336290",
+      "tags": {
+        "goalposts": "2",
+        "leisure": "pitch",
+        "soccer": "11-a-side",
+        "sport": "soccer",
+        "surface": "grass"
+      },
+      "geometry": "Polygon",
+      "vertices": 377,
+      "xyz_min": [
+        172.8035430908203,
+        -528.4614868164062,
+        6.951318740844727
+      ],
+      "xyz_max": [
+        258.81591796875,
+        -473.5185241699219,
+        7.311134338378906
+      ],
+      "z_range_m": 0.3598155975341797,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 174133740",
+      "osm_id": "174133740",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "basketball"
+      },
+      "geometry": "Polygon",
+      "vertices": 45,
+      "xyz_min": [
+        195.62075805664062,
+        -607.765869140625,
+        6.997246742248535
+      ],
+      "xyz_max": [
+        212.61521911621094,
+        -578.406494140625,
+        7.0011725425720215
+      ],
+      "z_range_m": 0.003925800323486328,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 174133742",
+      "osm_id": "174133742",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "basketball"
+      },
+      "geometry": "Polygon",
+      "vertices": 45,
+      "xyz_min": [
+        211.74411010742188,
+        -607.2862548828125,
+        7.0
+      ],
+      "xyz_max": [
+        228.70770263671875,
+        -577.9268188476562,
+        7.0
+      ],
+      "z_range_m": 0.0,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 174133743",
+      "osm_id": "174133743",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "basketball"
+      },
+      "geometry": "Polygon",
+      "vertices": 45,
+      "xyz_min": [
+        227.83656311035156,
+        -606.8065795898438,
+        7.0
+      ],
+      "xyz_max": [
+        244.78990173339844,
+        -577.4471435546875,
+        7.0
+      ],
+      "z_range_m": 0.0,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 174133745",
+      "osm_id": "174133745",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": "Polygon",
+      "vertices": 21,
+      "xyz_min": [
+        -136.31190490722656,
+        487.1815490722656,
+        40.0
+      ],
+      "xyz_max": [
+        -117.2899398803711,
+        513.6248779296875,
+        40.35931396484375
+      ],
+      "z_range_m": 0.35931396484375,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 174133751",
+      "osm_id": "174133751",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": "Polygon",
+      "vertices": 21,
+      "xyz_min": [
+        -150.11888122558594,
+        492.5384826660156,
+        40.0
+      ],
+      "xyz_max": [
+        -130.81887817382812,
+        519.0040283203125,
+        40.363468170166016
+      ],
+      "z_range_m": 0.3634681701660156,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 174133755",
+      "osm_id": "174133755",
+      "tags": {
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "tennis",
+        "surface": "tartan"
+      },
+      "geometry": "Polygon",
+      "vertices": 21,
+      "xyz_min": [
+        -415.2261047363281,
+        55.859405517578125,
+        122.98954772949219
+      ],
+      "xyz_max": [
+        -390.2921447753906,
+        68.14688110351562,
+        123.84618377685547
+      ],
+      "z_range_m": 0.8566360473632812,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 174133756",
+      "osm_id": "174133756",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": "Polygon",
+      "vertices": 21,
+      "xyz_min": [
+        -163.6992645263672,
+        497.70721435546875,
+        40.0
+      ],
+      "xyz_max": [
+        -144.5331268310547,
+        524.1284790039062,
+        40.79777526855469
+      ],
+      "z_range_m": 0.7977752685546875,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 174133760",
+      "osm_id": "174133760",
+      "tags": {
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "tennis",
+        "surface": "tartan"
+      },
+      "geometry": "Polygon",
+      "vertices": 21,
+      "xyz_min": [
+        -415.62530517578125,
+        42.648521423339844,
+        124.0
+      ],
+      "xyz_max": [
+        -390.6913146972656,
+        54.9249267578125,
+        124.69768524169922
+      ],
+      "z_range_m": 0.6976852416992188,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 174307348",
+      "osm_id": "174307348",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "athletics"
+      },
+      "geometry": "Polygon",
+      "vertices": 146,
+      "xyz_min": [
+        -762.8649291992188,
+        1106.954345703125,
+        9.998690605163574
+      ],
+      "xyz_max": [
+        -693.7250366210938,
+        1131.3775634765625,
+        10.265620231628418
+      ],
+      "z_range_m": 0.26692962646484375,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 174307352",
+      "osm_id": "174307352",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": "Polygon",
+      "vertices": 1007,
+      "xyz_min": [
+        -720.73046875,
+        1020.055419921875,
+        6.970857620239258
+      ],
+      "xyz_max": [
+        -589.3468017578125,
+        1133.5926513671875,
+        7.626209259033203
+      ],
+      "z_range_m": 0.6553516387939453,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 174307353",
+      "osm_id": "174307353",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": "Polygon",
+      "vertices": 21,
+      "xyz_min": [
+        -753.2352294921875,
+        1038.1412353515625,
+        8.98427963256836
+      ],
+      "xyz_max": [
+        -741.6572265625,
+        1062.40185546875,
+        9.25020694732666
+      ],
+      "z_range_m": 0.2659273147583008,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 174307354",
+      "osm_id": "174307354",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": "Polygon",
+      "vertices": 21,
+      "xyz_min": [
+        -720.8005981445312,
+        1001.0607299804688,
+        7.950123310089111
+      ],
+      "xyz_max": [
+        -709.2225952148438,
+        1025.3323974609375,
+        8.172266006469727
+      ],
+      "z_range_m": 0.22214269638061523,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 174307355",
+      "osm_id": "174307355",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": "Polygon",
+      "vertices": 21,
+      "xyz_min": [
+        -739.0797729492188,
+        1037.910888671875,
+        9.21706485748291
+      ],
+      "xyz_max": [
+        -727.491455078125,
+        1062.1715087890625,
+        9.425019264221191
+      ],
+      "z_range_m": 0.20795440673828125,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 174307356",
+      "osm_id": "174307356",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": "Polygon",
+      "vertices": 21,
+      "xyz_min": [
+        -775.2910766601562,
+        1065.533935546875,
+        10.541208267211914
+      ],
+      "xyz_max": [
+        -763.7130126953125,
+        1089.8056640625,
+        10.701394081115723
+      ],
+      "z_range_m": 0.1601858139038086,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 174307357",
+      "osm_id": "174307357",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": "Polygon",
+      "vertices": 21,
+      "xyz_min": [
+        -734.9664306640625,
+        1001.3021240234375,
+        8.19520092010498
+      ],
+      "xyz_max": [
+        -723.388427734375,
+        1025.562744140625,
+        8.274017333984375
+      ],
+      "z_range_m": 0.07881641387939453,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 174307358",
+      "osm_id": "174307358",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": "Polygon",
+      "vertices": 405,
+      "xyz_min": [
+        -761.3724365234375,
+        1132.8619384765625,
+        10.0
+      ],
+      "xyz_max": [
+        -695.218017578125,
+        1200.0,
+        10.310735702514648
+      ],
+      "z_range_m": 0.31073570251464844,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "University Tennis Court No. 7",
+      "osm_id": "198965339",
+      "tags": {
+        "barrier": "fence",
+        "fence_type": "chain_link",
+        "leisure": "pitch",
+        "level": "1",
+        "name": "大學七號網球場 University Tennis Court No. 7",
+        "name:en": "University Tennis Court No. 7",
+        "name:zh": "大學七號網球場",
+        "sport": "tennis"
+      },
+      "geometry": "Polygon",
+      "vertices": 60,
+      "xyz_min": [
+        553.9514770507812,
+        -65.3175048828125,
+        20.857572555541992
+      ],
+      "xyz_max": [
+        574.1428833007812,
+        -27.615751266479492,
+        22.161725997924805
+      ],
+      "z_range_m": 1.3041534423828125,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 230088370",
+      "osm_id": "230088370",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "archery"
+      },
+      "geometry": "Polygon",
+      "vertices": 99,
+      "xyz_min": [
+        429.3215026855469,
+        -210.47064208984375,
+        25.27777862548828
+      ],
+      "xyz_max": [
+        490.7602844238281,
+        -190.81185913085938,
+        26.07760238647461
+      ],
+      "z_range_m": 0.7998237609863281,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 230131247",
+      "osm_id": "230131247",
+      "tags": {
+        "leisure": "pitch"
+      },
+      "geometry": "Polygon",
+      "vertices": 13,
+      "xyz_min": [
+        -294.7123718261719,
+        417.71923828125,
+        75.04476165771484
+      ],
+      "xyz_max": [
+        -276.30548095703125,
+        436.29058837890625,
+        75.61354064941406
+      ],
+      "z_range_m": 0.5687789916992188,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 355111055",
+      "osm_id": "355111055",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": "Polygon",
+      "vertices": 153,
+      "xyz_min": [
+        341.72650146484375,
+        -194.64466857910156,
+        36.359737396240234
+      ],
+      "xyz_max": [
+        389.09918212890625,
+        -158.74363708496094,
+        37.85221481323242
+      ],
+      "z_range_m": 1.4924774169921875,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 421937239",
+      "osm_id": "421937239",
+      "tags": {
+        "leisure": "pitch",
+        "surface": "grass"
+      },
+      "geometry": "Polygon",
+      "vertices": 179,
+      "xyz_min": [
+        117.04851531982422,
+        -512.5372314453125,
+        9.786457061767578
+      ],
+      "xyz_max": [
+        156.86264038085938,
+        -447.52899169921875,
+        12.212799072265625
+      ],
+      "z_range_m": 2.426342010498047,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 558847065",
+      "osm_id": "558847065",
+      "tags": {
+        "area": "no",
+        "leisure": "track",
+        "sport": "cycling",
+        "surface": "paved"
+      },
+      "geometry": "LineString",
+      "vertices": 57,
+      "xyz_min": [
+        330.2810974121094,
+        -613.4397583007812,
+        7.583954811096191
+      ],
+      "xyz_max": [
+        353.0162353515625,
+        -601.021240234375,
+        8.648618698120117
+      ],
+      "z_range_m": 1.0646638870239258,
+      "materials": [
+        "Track / red rubber"
+      ]
+    },
+    {
+      "name": "sport 584589625",
+      "osm_id": "584589625",
+      "tags": {
+        "leisure": "swimming_pool"
+      },
+      "geometry": "Polygon",
+      "vertices": 12,
+      "xyz_min": [
+        182.3219757080078,
+        -1027.8109130859375,
+        39.9400749206543
+      ],
+      "xyz_max": [
+        195.72564697265625,
+        -1017.9570922851562,
+        40.87250518798828
+      ],
+      "z_range_m": 0.9324302673339844,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 584589628",
+      "osm_id": "584589628",
+      "tags": {
+        "leisure": "pitch"
+      },
+      "geometry": "Polygon",
+      "vertices": 49,
+      "xyz_min": [
+        74.30741882324219,
+        -1044.8707275390625,
+        40.0
+      ],
+      "xyz_max": [
+        108.21894836425781,
+        -1022.1987915039062,
+        40.494178771972656
+      ],
+      "z_range_m": 0.49417877197265625,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 584589629",
+      "osm_id": "584589629",
+      "tags": {
+        "leisure": "swimming_pool"
+      },
+      "geometry": "Polygon",
+      "vertices": 14,
+      "xyz_min": [
+        94.92296600341797,
+        -1061.703369140625,
+        40.54901123046875
+      ],
+      "xyz_max": [
+        103.95140075683594,
+        -1048.70361328125,
+        41.29344177246094
+      ],
+      "z_range_m": 0.7444305419921875,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 599554534",
+      "osm_id": "599554534",
+      "tags": {
+        "access": "private",
+        "leisure": "swimming_pool"
+      },
+      "geometry": "Polygon",
+      "vertices": 11,
+      "xyz_min": [
+        -782.9655151367188,
+        -463.11212158203125,
+        211.50906372070312
+      ],
+      "xyz_max": [
+        -766.9146118164062,
+        -452.5829772949219,
+        211.73687744140625
+      ],
+      "z_range_m": 0.227813720703125,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 599637950",
+      "osm_id": "599637950",
+      "tags": {
+        "access": "private",
+        "leisure": "swimming_pool"
+      },
+      "geometry": "Polygon",
+      "vertices": 14,
+      "xyz_min": [
+        -681.6829833984375,
+        -494.4348449707031,
+        205.0785369873047
+      ],
+      "xyz_max": [
+        -665.6593627929688,
+        -470.1407775878906,
+        205.57949829101562
+      ],
+      "z_range_m": 0.5009613037109375,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 599677274",
+      "osm_id": "599677274",
+      "tags": {
+        "access": "private",
+        "leisure": "swimming_pool"
+      },
+      "geometry": "Polygon",
+      "vertices": 7,
+      "xyz_min": [
+        -622.3467407226562,
+        -671.2391967773438,
+        193.12771606445312
+      ],
+      "xyz_max": [
+        -615.1503295898438,
+        -664.206787109375,
+        193.77757263183594
+      ],
+      "z_range_m": 0.6498565673828125,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 599677283",
+      "osm_id": "599677283",
+      "tags": {
+        "access": "private",
+        "leisure": "swimming_pool"
+      },
+      "geometry": "Polygon",
+      "vertices": 7,
+      "xyz_min": [
+        -626.301513671875,
+        -664.3964233398438,
+        193.8018798828125
+      ],
+      "xyz_max": [
+        -619.002197265625,
+        -657.186767578125,
+        194.4585418701172
+      ],
+      "z_range_m": 0.6566619873046875,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 599677288",
+      "osm_id": "599677288",
+      "tags": {
+        "access": "private",
+        "leisure": "swimming_pool"
+      },
+      "geometry": "Polygon",
+      "vertices": 7,
+      "xyz_min": [
+        -629.7930908203125,
+        -657.321044921875,
+        194.37791442871094
+      ],
+      "xyz_max": [
+        -623.2658081054688,
+        -650.3883056640625,
+        195.14437866210938
+      ],
+      "z_range_m": 0.7664642333984375,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 599677369",
+      "osm_id": "599677369",
+      "tags": {
+        "access": "private",
+        "leisure": "swimming_pool"
+      },
+      "geometry": "Polygon",
+      "vertices": 8,
+      "xyz_min": [
+        -612.552734375,
+        -687.1835327148438,
+        191.44253540039062
+      ],
+      "xyz_max": [
+        -601.8768920898438,
+        -676.2526245117188,
+        191.6363983154297
+      ],
+      "z_range_m": 0.1938629150390625,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 599677377",
+      "osm_id": "599677377",
+      "tags": {
+        "access": "private",
+        "leisure": "swimming_pool"
+      },
+      "geometry": "Polygon",
+      "vertices": 8,
+      "xyz_min": [
+        -605.642333984375,
+        -698.7653198242188,
+        190.72769165039062
+      ],
+      "xyz_max": [
+        -596.6138305664062,
+        -687.1814575195312,
+        190.91061401367188
+      ],
+      "z_range_m": 0.18292236328125,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 599719248",
+      "osm_id": "599719248",
+      "tags": {
+        "access": "private",
+        "leisure": "swimming_pool",
+        "level": "1"
+      },
+      "geometry": "Polygon",
+      "vertices": 12,
+      "xyz_min": [
+        -520.5021362304688,
+        -715.8592529296875,
+        186.73748779296875
+      ],
+      "xyz_max": [
+        -509.1864929199219,
+        -708.5845336914062,
+        187.07164001464844
+      ],
+      "z_range_m": 0.3341522216796875,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 599719249",
+      "osm_id": "599719249",
+      "tags": {
+        "access": "private",
+        "leisure": "swimming_pool",
+        "level": "1"
+      },
+      "geometry": "Polygon",
+      "vertices": 20,
+      "xyz_min": [
+        -516.703857421875,
+        -707.4869995117188,
+        186.87461853027344
+      ],
+      "xyz_max": [
+        -494.19677734375,
+        -698.0862426757812,
+        187.3553466796875
+      ],
+      "z_range_m": 0.4807281494140625,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 696387726",
+      "osm_id": "696387726",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "basketball"
+      },
+      "geometry": "Polygon",
+      "vertices": 59,
+      "xyz_min": [
+        -156.41441345214844,
+        455.6673889160156,
+        41.66451644897461
+      ],
+      "xyz_max": [
+        -111.35308837890625,
+        489.1037902832031,
+        44.471492767333984
+      ],
+      "z_range_m": 2.806976318359375,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 696387738",
+      "osm_id": "696387738",
+      "tags": {
+        "leisure": "pitch"
+      },
+      "geometry": "Polygon",
+      "vertices": 21,
+      "xyz_min": [
+        145.65867614746094,
+        -573.6477661132812,
+        9.407011032104492
+      ],
+      "xyz_max": [
+        157.5039520263672,
+        -549.5715942382812,
+        10.359822273254395
+      ],
+      "z_range_m": 0.9528112411499023,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 751056961",
+      "osm_id": "751056961",
+      "tags": {
+        "leisure": "swimming_pool",
+        "level": "1"
+      },
+      "geometry": "Polygon",
+      "vertices": 8,
+      "xyz_min": [
+        -91.44125366210938,
+        -577.8709716796875,
+        81.04523468017578
+      ],
+      "xyz_max": [
+        -83.00919342041016,
+        -571.9674682617188,
+        81.37943267822266
+      ],
+      "z_range_m": 0.334197998046875,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 751056967",
+      "osm_id": "751056967",
+      "tags": {
+        "leisure": "swimming_pool",
+        "level": "1"
+      },
+      "geometry": "Polygon",
+      "vertices": 7,
+      "xyz_min": [
+        -55.05763626098633,
+        -622.2240600585938,
+        80.03983306884766
+      ],
+      "xyz_max": [
+        -48.55991744995117,
+        -614.9380493164062,
+        81.04523468017578
+      ],
+      "z_range_m": 1.005401611328125,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 751056969",
+      "osm_id": "751056969",
+      "tags": {
+        "leisure": "swimming_pool",
+        "level": "1"
+      },
+      "geometry": "Polygon",
+      "vertices": 18,
+      "xyz_min": [
+        -56.46620178222656,
+        -628.7786254882812,
+        80.83998107910156
+      ],
+      "xyz_max": [
+        -44.41941833496094,
+        -621.8136596679688,
+        81.04523468017578
+      ],
+      "z_range_m": 0.20525360107421875,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 751056971",
+      "osm_id": "751056971",
+      "tags": {
+        "leisure": "swimming_pool",
+        "level": "1"
+      },
+      "geometry": "Polygon",
+      "vertices": 15,
+      "xyz_min": [
+        -50.73949432373047,
+        -641.8110961914062,
+        81.04523468017578
+      ],
+      "xyz_max": [
+        -38.14646911621094,
+        -632.6314086914062,
+        81.04523468017578
+      ],
+      "z_range_m": 0.0,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 751056974",
+      "osm_id": "751056974",
+      "tags": {
+        "leisure": "swimming_pool",
+        "level": "1"
+      },
+      "geometry": "Polygon",
+      "vertices": 10,
+      "xyz_min": [
+        -109.33507537841797,
+        -528.6629638671875,
+        72.2178726196289
+      ],
+      "xyz_max": [
+        -97.56790161132812,
+        -515.7392578125,
+        72.62991333007812
+      ],
+      "z_range_m": 0.41204071044921875,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 751056975",
+      "osm_id": "751056975",
+      "tags": {
+        "leisure": "swimming_pool",
+        "level": "1"
+      },
+      "geometry": "Polygon",
+      "vertices": 6,
+      "xyz_min": [
+        -82.15145874023438,
+        -543.3629150390625,
+        71.34878540039062
+      ],
+      "xyz_max": [
+        -74.8096923828125,
+        -536.0550537109375,
+        71.64586639404297
+      ],
+      "z_range_m": 0.29708099365234375,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 751056976",
+      "osm_id": "751056976",
+      "tags": {
+        "leisure": "swimming_pool",
+        "level": "1"
+      },
+      "geometry": "Polygon",
+      "vertices": 6,
+      "xyz_min": [
+        -75.84908294677734,
+        -549.7289428710938,
+        71.62207794189453
+      ],
+      "xyz_max": [
+        -68.4146957397461,
+        -542.3103637695312,
+        71.7284164428711
+      ],
+      "z_range_m": 0.1063385009765625,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 751056977",
+      "osm_id": "751056977",
+      "tags": {
+        "leisure": "swimming_pool",
+        "level": "1"
+      },
+      "geometry": "Polygon",
+      "vertices": 6,
+      "xyz_min": [
+        -69.5158462524414,
+        -556.028564453125,
+        71.2036361694336
+      ],
+      "xyz_max": [
+        -61.957923889160156,
+        -548.5214233398438,
+        71.68817138671875
+      ],
+      "z_range_m": 0.48453521728515625,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 751056978",
+      "osm_id": "751056978",
+      "tags": {
+        "leisure": "swimming_pool",
+        "level": "1"
+      },
+      "geometry": "Polygon",
+      "vertices": 6,
+      "xyz_min": [
+        -63.007591247558594,
+        -564.1217041015625,
+        70.82722473144531
+      ],
+      "xyz_max": [
+        -53.61662292480469,
+        -554.69921875,
+        71.20266723632812
+      ],
+      "z_range_m": 0.3754425048828125,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 751056992",
+      "osm_id": "751056992",
+      "tags": {
+        "leisure": "swimming_pool",
+        "level": "1"
+      },
+      "geometry": "Polygon",
+      "vertices": 6,
+      "xyz_min": [
+        -28.352317810058594,
+        -609.2954711914062,
+        69.21714782714844
+      ],
+      "xyz_max": [
+        -20.742883682250977,
+        -601.4227905273438,
+        69.2817153930664
+      ],
+      "z_range_m": 0.06456756591796875,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 751056993",
+      "osm_id": "751056993",
+      "tags": {
+        "leisure": "swimming_pool",
+        "level": "1"
+      },
+      "geometry": "Polygon",
+      "vertices": 15,
+      "xyz_min": [
+        -59.079689025878906,
+        -585.4052734375,
+        69.20765686035156
+      ],
+      "xyz_max": [
+        -48.558128356933594,
+        -576.5123291015625,
+        69.2495346069336
+      ],
+      "z_range_m": 0.04187774658203125,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 751056994",
+      "osm_id": "751056994",
+      "tags": {
+        "leisure": "swimming_pool",
+        "level": "1"
+      },
+      "geometry": "Polygon",
+      "vertices": 6,
+      "xyz_min": [
+        -34.41796112060547,
+        -602.7078857421875,
+        69.27545928955078
+      ],
+      "xyz_max": [
+        -26.74677276611328,
+        -594.8573608398438,
+        69.28681182861328
+      ],
+      "z_range_m": 0.0113525390625,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 751056995",
+      "osm_id": "751056995",
+      "tags": {
+        "leisure": "swimming_pool",
+        "level": "1"
+      },
+      "geometry": "Polygon",
+      "vertices": 6,
+      "xyz_min": [
+        -22.224891662597656,
+        -615.8165893554688,
+        69.04641723632812
+      ],
+      "xyz_max": [
+        -14.769862174987793,
+        -607.999267578125,
+        69.20954132080078
+      ],
+      "z_range_m": 0.16312408447265625,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 751056996",
+      "osm_id": "751056996",
+      "tags": {
+        "leisure": "swimming_pool",
+        "level": "1"
+      },
+      "geometry": "Polygon",
+      "vertices": 6,
+      "xyz_min": [
+        -16.35483169555664,
+        -622.5813598632812,
+        68.65201568603516
+      ],
+      "xyz_max": [
+        -8.971842765808105,
+        -614.7197265625,
+        69.03507995605469
+      ],
+      "z_range_m": 0.38306427001953125,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 751056997",
+      "osm_id": "751056997",
+      "tags": {
+        "leisure": "swimming_pool",
+        "level": "1"
+      },
+      "geometry": "Polygon",
+      "vertices": 6,
+      "xyz_min": [
+        -10.381818771362305,
+        -629.390380859375,
+        68.46923065185547
+      ],
+      "xyz_max": [
+        -3.2356009483337402,
+        -621.6727905273438,
+        68.67133331298828
+      ],
+      "z_range_m": 0.2021026611328125,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 751059030",
+      "osm_id": "751059030",
+      "tags": {
+        "leisure": "swimming_pool",
+        "level": "1"
+      },
+      "geometry": "Polygon",
+      "vertices": 19,
+      "xyz_min": [
+        168.4049835205078,
+        -867.3692626953125,
+        75.33837127685547
+      ],
+      "xyz_max": [
+        177.10855102539062,
+        -848.2784423828125,
+        75.33837127685547
+      ],
+      "z_range_m": 0.0,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 755360164",
+      "osm_id": "755360164",
+      "tags": {
+        "access": "customers",
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": "Polygon",
+      "vertices": 45,
+      "xyz_min": [
+        391.8052062988281,
+        -1010.9193115234375,
+        9.722222328186035
+      ],
+      "xyz_max": [
+        412.5451354980469,
+        -977.0817260742188,
+        10.004036903381348
+      ],
+      "z_range_m": 0.2818145751953125,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 755363799",
+      "osm_id": "755363799",
+      "tags": {
+        "access": "customers",
+        "leisure": "swimming_pool"
+      },
+      "geometry": "Polygon",
+      "vertices": 44,
+      "xyz_min": [
+        348.5846862792969,
+        -914.623046875,
+        17.80568504333496
+      ],
+      "xyz_max": [
+        368.37786865234375,
+        -883.2529296875,
+        17.88525390625
+      ],
+      "z_range_m": 0.07956886291503906,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "Cheung Shue Tan Heung Shu Yan Basketball Court",
+      "osm_id": "783103741",
+      "tags": {
+        "hoops": "2",
+        "leisure": "pitch",
+        "name": "樟樹灘鄉樹人籃球場 Cheung Shue Tan Heung Shu Yan Basketball Court",
+        "name:en": "Cheung Shue Tan Heung Shu Yan Basketball Court",
+        "name:zh": "樟樹灘鄉樹人籃球場",
+        "sport": "basketball",
+        "wikidata": "Q139986468"
+      },
+      "geometry": "Polygon",
+      "vertices": 21,
+      "xyz_min": [
+        -718.3306274414062,
+        742.3151245117188,
+        17.870969772338867
+      ],
+      "xyz_max": [
+        -704.7756958007812,
+        767.0076293945312,
+        18.486574172973633
+      ],
+      "z_range_m": 0.6156044006347656,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 914897036",
+      "osm_id": "914897036",
+      "tags": {
+        "leisure": "swimming_pool"
+      },
+      "geometry": "Polygon",
+      "vertices": 10,
+      "xyz_min": [
+        -287.91070556640625,
+        1163.6934814453125,
+        8.493131637573242
+      ],
+      "xyz_max": [
+        -269.9559326171875,
+        1170.418212890625,
+        8.5
+      ],
+      "z_range_m": 0.0068683624267578125,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 914897038",
+      "osm_id": "914897038",
+      "tags": {
+        "leisure": "swimming_pool"
+      },
+      "geometry": "Polygon",
+      "vertices": 17,
+      "xyz_min": [
+        -352.8963317871094,
+        1137.825927734375,
+        8.501320838928223
+      ],
+      "xyz_max": [
+        -338.47357177734375,
+        1143.4300537109375,
+        8.545336723327637
+      ],
+      "z_range_m": 0.04401588439941406,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 914897044",
+      "osm_id": "914897044",
+      "tags": {
+        "access": "private",
+        "leisure": "swimming_pool"
+      },
+      "geometry": "Polygon",
+      "vertices": 63,
+      "xyz_min": [
+        -356.9341125488281,
+        1144.1502685546875,
+        8.5438232421875
+      ],
+      "xyz_max": [
+        -306.3458557128906,
+        1168.3375244140625,
+        8.586008071899414
+      ],
+      "z_range_m": 0.04218482971191406,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 914900393",
+      "osm_id": "914900393",
+      "tags": {
+        "access": "private",
+        "leisure": "swimming_pool"
+      },
+      "geometry": "Polygon",
+      "vertices": 51,
+      "xyz_min": [
+        -231.2816925048828,
+        1069.2470703125,
+        8.68326473236084
+      ],
+      "xyz_max": [
+        -192.05426025390625,
+        1112.10693359375,
+        8.844806671142578
+      ],
+      "z_range_m": 0.16154193878173828,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 914907427",
+      "osm_id": "914907427",
+      "tags": {
+        "access": "private",
+        "leisure": "swimming_pool"
+      },
+      "geometry": "Polygon",
+      "vertices": 6,
+      "xyz_min": [
+        16.96735191345215,
+        1022.6425170898438,
+        10.628257751464844
+      ],
+      "xyz_max": [
+        25.01852035522461,
+        1030.19384765625,
+        11.548322677612305
+      ],
+      "z_range_m": 0.9200649261474609,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 914907428",
+      "osm_id": "914907428",
+      "tags": {
+        "access": "private",
+        "leisure": "swimming_pool"
+      },
+      "geometry": "Polygon",
+      "vertices": 26,
+      "xyz_min": [
+        29.35448455810547,
+        984.4911499023438,
+        8.544708251953125
+      ],
+      "xyz_max": [
+        70.68335723876953,
+        1019.20068359375,
+        8.755704879760742
+      ],
+      "z_range_m": 0.2109966278076172,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 914973824",
+      "osm_id": "914973824",
+      "tags": {
+        "access": "private",
+        "leisure": "swimming_pool"
+      },
+      "geometry": "Polygon",
+      "vertices": 29,
+      "xyz_min": [
+        -110.37493896484375,
+        992.0106201171875,
+        15.044923782348633
+      ],
+      "xyz_max": [
+        -79.67884063720703,
+        1025.6429443359375,
+        15.459074020385742
+      ],
+      "z_range_m": 0.4141502380371094,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 914973839",
+      "osm_id": "914973839",
+      "tags": {
+        "access": "private",
+        "leisure": "swimming_pool",
+        "operation": "private",
+        "operator:ownership": "private",
+        "ownership": "private"
+      },
+      "geometry": "Polygon",
+      "vertices": 46,
+      "xyz_min": [
+        -6.346738815307617,
+        900.3193969726562,
+        8.810585975646973
+      ],
+      "xyz_max": [
+        33.27129364013672,
+        951.0847778320312,
+        9.627446174621582
+      ],
+      "z_range_m": 0.8168601989746094,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 914979756",
+      "osm_id": "914979756",
+      "tags": {
+        "access": "private",
+        "leisure": "swimming_pool"
+      },
+      "geometry": "Polygon",
+      "vertices": 36,
+      "xyz_min": [
+        -8.759261131286621,
+        1118.634521484375,
+        9.89161205291748
+      ],
+      "xyz_max": [
+        16.822118759155273,
+        1141.66015625,
+        10.240070343017578
+      ],
+      "z_range_m": 0.34845829010009766,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 955764574",
+      "osm_id": "955764574",
+      "tags": {
+        "area": "no",
+        "leisure": "track",
+        "oneway": "yes",
+        "sport": "running",
+        "surface": "tartan"
+      },
+      "geometry": "LineString",
+      "vertices": 425,
+      "xyz_min": [
+        167.3026885986328,
+        -620.5344848632812,
+        6.855555534362793
+      ],
+      "xyz_max": [
+        266.437255859375,
+        -429.9190673828125,
+        17.677053451538086
+      ],
+      "z_range_m": 10.821497917175293,
+      "materials": [
+        "Track / red rubber"
+      ]
+    },
+    {
+      "name": "sport 955764575",
+      "osm_id": "955764575",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "basketball"
+      },
+      "geometry": "Polygon",
+      "vertices": 45,
+      "xyz_min": [
+        191.23667907714844,
+        -473.4662170410156,
+        6.950085163116455
+      ],
+      "xyz_max": [
+        208.23098754882812,
+        -444.1068115234375,
+        7.179297924041748
+      ],
+      "z_range_m": 0.22921276092529297,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 955764576",
+      "osm_id": "955764576",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "basketball"
+      },
+      "geometry": "Polygon",
+      "vertices": 45,
+      "xyz_min": [
+        207.35989379882812,
+        -472.986572265625,
+        6.94444465637207
+      ],
+      "xyz_max": [
+        224.32334899902344,
+        -443.6271667480469,
+        7.1124725341796875
+      ],
+      "z_range_m": 0.1680278778076172,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 955764577",
+      "osm_id": "955764577",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "basketball"
+      },
+      "geometry": "Polygon",
+      "vertices": 45,
+      "xyz_min": [
+        223.4522247314453,
+        -472.5069274902344,
+        6.991456031799316
+      ],
+      "xyz_max": [
+        240.4053955078125,
+        -443.1474914550781,
+        7.146332263946533
+      ],
+      "z_range_m": 0.1548762321472168,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "Chung Chi Tennis Court No. 1",
+      "osm_id": "955764583",
+      "tags": {
+        "leisure": "pitch",
+        "name": "崇基一號網球場 Chung Chi Tennis Court No. 1",
+        "name:en": "Chung Chi Tennis Court No. 1",
+        "name:zh": "崇基一號網球場",
+        "sport": "tennis",
+        "surface": "paved"
+      },
+      "geometry": "Polygon",
+      "vertices": 25,
+      "xyz_min": [
+        556.4395751953125,
+        -93.61144256591797,
+        21.45160675048828
+      ],
+      "xyz_max": [
+        569.6019897460938,
+        -68.78703308105469,
+        22.029760360717773
+      ],
+      "z_range_m": 0.5781536102294922,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "University Tennis Court No. 6",
+      "osm_id": "955764584",
+      "tags": {
+        "leisure": "pitch",
+        "name": "大學六號網球場 University Tennis Court No. 6",
+        "name:en": "University Tennis Court No. 6",
+        "name:zh": "大學六號網球場",
+        "ref": "6",
+        "sport": "tennis",
+        "surface": "paved"
+      },
+      "geometry": "Polygon",
+      "vertices": 21,
+      "xyz_min": [
+        554.6568603515625,
+        -130.5421600341797,
+        22.789400100708008
+      ],
+      "xyz_max": [
+        568.787353515625,
+        -106.2272720336914,
+        23.16168975830078
+      ],
+      "z_range_m": 0.37228965759277344,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 955764585",
+      "osm_id": "955764585",
+      "tags": {
+        "area": "no",
+        "leisure": "track",
+        "oneway": "yes",
+        "sport": "running",
+        "surface": "tartan"
+      },
+      "geometry": "LineString",
+      "vertices": 493,
+      "xyz_min": [
+        437.49151611328125,
+        -188.94537353515625,
+        25.297016143798828
+      ],
+      "xyz_max": [
+        528.1954345703125,
+        -14.939515113830566,
+        31.747713088989258
+      ],
+      "z_range_m": 6.45069694519043,
+      "materials": [
+        "Track / red rubber"
+      ]
+    },
+    {
+      "name": "sport 955764586",
+      "osm_id": "955764586",
+      "tags": {
+        "goalposts": "2",
+        "leisure": "pitch",
+        "soccer": "11-a-side",
+        "sport": "soccer",
+        "surface": "grass"
+      },
+      "geometry": "Polygon",
+      "vertices": 487,
+      "xyz_min": [
+        451.9820556640625,
+        -144.27830505371094,
+        25.0
+      ],
+      "xyz_max": [
+        515.40283203125,
+        -56.36158752441406,
+        25.038307189941406
+      ],
+      "z_range_m": 0.03830718994140625,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 1162853134",
+      "osm_id": "1162853134",
+      "tags": {
+        "access": "private",
+        "leisure": "swimming_pool"
+      },
+      "geometry": "Polygon",
+      "vertices": 80,
+      "xyz_min": [
+        -624.472900390625,
+        905.0714721679688,
+        6.868089199066162
+      ],
+      "xyz_max": [
+        -579.7757568359375,
+        954.6565551757812,
+        7.291599750518799
+      ],
+      "z_range_m": 0.4235105514526367,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    },
+    {
+      "name": "sport 1316872000",
+      "osm_id": "1316872000",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": "Polygon",
+      "vertices": 11,
+      "xyz_min": [
+        -295.5408020019531,
+        500.593505859375,
+        73.93284606933594
+      ],
+      "xyz_max": [
+        -279.3675231933594,
+        514.7802734375,
+        74.16310119628906
+      ],
+      "z_range_m": 0.230255126953125,
+      "materials": [
+        "Pitch / emerald turf"
+      ]
+    },
+    {
+      "name": "sport 1382548363",
+      "osm_id": "1382548363",
+      "tags": {
+        "access": "private",
+        "leisure": "swimming_pool",
+        "sport": "swimming"
+      },
+      "geometry": "Polygon",
+      "vertices": 45,
+      "xyz_min": [
+        -801.0030517578125,
+        -672.7611083984375,
+        130.7139129638672
+      ],
+      "xyz_max": [
+        -778.1897583007812,
+        -641.7545166015625,
+        131.53652954101562
+      ],
+      "z_range_m": 0.8226165771484375,
+      "materials": [
+        "Refined water / calm teal"
+      ]
+    }
+  ],
+  "detail_objects": [
+    {
+      "name": "Site / Road paint",
+      "vertices": 9712,
+      "min": [
+        -689.7276611328125,
+        -870.645263671875,
+        5.84243106842041
+      ],
+      "max": [
+        728.7997436523438,
+        929.2058715820312,
+        141.97415161132812
+      ],
+      "materials": [
+        "Detail / Road paint"
+      ]
+    },
+    {
+      "name": "Site / Curbs",
+      "vertices": 83132,
+      "min": [
+        -692.4453125,
+        -877.2092895507812,
+        4.545012950897217
+      ],
+      "max": [
+        752.878662109375,
+        940.6226196289062,
+        141.9507598876953
+      ],
+      "materials": [
+        "Detail / Curbs"
+      ]
+    },
+    {
+      "name": "Site / Court paint",
+      "vertices": 27236,
+      "min": [
+        -415.35040283203125,
+        -620.2498168945312,
+        7.174444675445557
+      ],
+      "max": [
+        570.250244140625,
+        523.9252319335938,
+        124.7420883178711
+      ],
+      "materials": [
+        "Detail / Court paint"
+      ]
+    },
+    {
+      "name": "Site / Pool lane ropes",
+      "vertices": 800,
+      "min": [
+        -213.53627014160156,
+        -197.4481658935547,
+        86.63238525390625
+      ],
+      "max": [
+        -164.32376098632812,
+        -179.78016662597656,
+        87.01261138916016
+      ],
+      "materials": [
+        "Detail / Pool lane ropes"
+      ]
+    },
+    {
+      "name": "Site / Lamp poles",
+      "vertices": 13280,
+      "min": [
+        -687.5054321289062,
+        -855.0148315429688,
+        3.6760218143463135
+      ],
+      "max": [
+        732.9886474609375,
+        896.9862670898438,
+        146.07032775878906
+      ],
+      "materials": [
+        "Detail / Lamp poles"
+      ]
+    },
+    {
+      "name": "Site / Lamp heads",
+      "vertices": 6280,
+      "min": [
+        -686.31884765625,
+        -854.5056762695312,
+        10.056021690368652
+      ],
+      "max": [
+        731.6148071289062,
+        897.2843017578125,
+        146.11532592773438
+      ],
+      "materials": [
+        "Detail / Lamp heads"
+      ]
+    },
+    {
+      "name": "Site / Goal frames",
+      "vertices": 720,
+      "min": [
+        174.41015625,
+        -557.3035888671875,
+        7.147345066070557
+      ],
+      "max": [
+        487.8696594238281,
+        -57.52123260498047,
+        27.697858810424805
+      ],
+      "materials": [
+        "Detail / Goal frames"
+      ]
+    },
+    {
+      "name": "Site / Net mesh",
+      "vertices": 1920,
+      "min": [
+        -403.44793701171875,
+        -557.2216186523438,
+        7.147345066070557
+      ],
+      "max": [
+        569.875732421875,
+        513.0062255859375,
+        125.41777801513672
+      ],
+      "materials": [
+        "Detail / Net mesh"
+      ]
+    },
+    {
+      "name": "Site / Turf stripes",
+      "vertices": 8652,
+      "min": [
+        173.8344268798828,
+        -577.6630249023438,
+        7.029759883880615
+      ],
+      "max": [
+        514.3931274414062,
+        -57.360774993896484,
+        25.094650268554688
+      ],
+      "materials": [
+        "Detail / Turf stripes"
+      ]
+    }
+  ]
+}

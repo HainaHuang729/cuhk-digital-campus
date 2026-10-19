@@ -1,0 +1,260 @@
+{
+  "source": "C:\\Users\\Amadeus\\Documents\\桌游主持人\\artifacts\\cuhk\\CUHK_shaw_science_corrected.blend",
+  "source_unchanged": true,
+  "collection_groups": {
+    "01": {
+      "objects": 3,
+      "types": {
+        "MESH": 3
+      },
+      "distinct_meshes": 3
+    },
+    "02": {
+      "objects": 197,
+      "types": {
+        "MESH": 197
+      },
+      "distinct_meshes": 197
+    },
+    "03": {
+      "objects": 165,
+      "types": {
+        "MESH": 165
+      },
+      "distinct_meshes": 165
+    },
+    "04": {
+      "objects": 1602,
+      "types": {
+        "MESH": 1602
+      },
+      "distinct_meshes": 1602
+    },
+    "05": {
+      "objects": 97,
+      "types": {
+        "MESH": 97
+      },
+      "distinct_meshes": 97
+    },
+    "07": {
+      "objects": 59,
+      "types": {
+        "MESH": 59
+      },
+      "distinct_meshes": 59
+    },
+    "08": {
+      "objects": 9,
+      "types": {
+        "MESH": 9
+      },
+      "distinct_meshes": 9
+    },
+    "09": {
+      "objects": 1374,
+      "types": {
+        "MESH": 1374
+      },
+      "distinct_meshes": 8
+    },
+    "11": {
+      "objects": 139,
+      "types": {
+        "MESH": 139
+      },
+      "distinct_meshes": 139
+    },
+    "14": {
+      "objects": 2,
+      "types": {
+        "MESH": 2
+      },
+      "distinct_meshes": 2
+    }
+  },
+  "vegetation": {
+    "objects": 1374,
+    "shared_mesh_counts": {
+      "棱角球": 172,
+      "棱角球.004": 172,
+      "棱角球.008": 172,
+      "棱角球.012": 172,
+      "棱角球.016": 172,
+      "棱角球.020": 172,
+      "棱角球.024": 171,
+      "棱角球.028": 171
+    },
+    "sample": {
+      "name": "Tree 00000",
+      "position": [
+        426.2794494628906,
+        -1180.2255859375,
+        7.398104667663574
+      ],
+      "scale": [
+        4.678050518035889,
+        4.749320983886719,
+        8.326220512390137
+      ],
+      "properties": {
+        "placement_source": "woodland_area_scatter",
+        "appearance": "Illustrative crown; woodland scatter positions are not individual surveyed trees"
+      }
+    },
+    "mesh_topologies": {
+      "棱角球": {
+        "vertices": 182,
+        "polygons": 329
+      },
+      "棱角球.004": {
+        "vertices": 182,
+        "polygons": 329
+      },
+      "棱角球.008": {
+        "vertices": 182,
+        "polygons": 329
+      },
+      "棱角球.012": {
+        "vertices": 182,
+        "polygons": 329
+      },
+      "棱角球.016": {
+        "vertices": 182,
+        "polygons": 329
+      },
+      "棱角球.020": {
+        "vertices": 182,
+        "polygons": 329
+      },
+      "棱角球.024": {
+        "vertices": 182,
+        "polygons": 329
+      },
+      "棱角球.028": {
+        "vertices": 182,
+        "polygons": 329
+      }
+    }
+  },
+  "props": [
+    {
+      "name": "Site / Court paint",
+      "triangles": 13482,
+      "materials": [
+        "Detail / Court paint"
+      ],
+      "properties": {
+        "detail_type": "illustrative",
+        "placement_source": "Existing OSM local-metre geometries, matched to smoothed source DTM"
+      }
+    },
+    {
+      "name": "Site / Curbs",
+      "triangles": 41566,
+      "materials": [
+        "Detail / Curbs"
+      ],
+      "properties": {
+        "detail_type": "illustrative",
+        "placement_source": "Existing OSM local-metre geometries, matched to smoothed source DTM"
+      }
+    },
+    {
+      "name": "Site / Goal frames",
+      "triangles": 396,
+      "materials": [
+        "Detail / Goal frames"
+      ],
+      "properties": {
+        "detail_type": "illustrative",
+        "placement_source": "Existing OSM local-metre geometries, matched to smoothed source DTM"
+      }
+    },
+    {
+      "name": "Site / Lamp heads",
+      "triangles": 3454,
+      "materials": [
+        "Detail / Lamp heads"
+      ],
+      "properties": {
+        "detail_type": "illustrative",
+        "placement_source": "Existing OSM local-metre geometries, matched to smoothed source DTM"
+      }
+    },
+    {
+      "name": "Site / Lamp poles",
+      "triangles": 7304,
+      "materials": [
+        "Detail / Lamp poles"
+      ],
+      "properties": {
+        "detail_type": "illustrative",
+        "placement_source": "Existing OSM local-metre geometries, matched to smoothed source DTM"
+      }
+    },
+    {
+      "name": "Site / Net mesh",
+      "triangles": 978,
+      "materials": [
+        "Detail / Net mesh"
+      ],
+      "properties": {
+        "detail_type": "illustrative",
+        "placement_source": "Existing OSM local-metre geometries, matched to smoothed source DTM"
+      }
+    },
+    {
+      "name": "Site / Pool lane ropes",
+      "triangles": 400,
+      "materials": [
+        "Detail / Pool lane ropes"
+      ],
+      "properties": {
+        "detail_type": "illustrative",
+        "placement_source": "Existing OSM local-metre geometries, matched to smoothed source DTM"
+      }
+    },
+    {
+      "name": "Site / Road paint",
+      "triangles": 4856,
+      "materials": [
+        "Detail / Road paint"
+      ],
+      "properties": {
+        "detail_type": "illustrative",
+        "placement_source": "Existing OSM local-metre geometries, matched to smoothed source DTM"
+      }
+    },
+    {
+      "name": "Site / Turf stripes",
+      "triangles": 4326,
+      "materials": [
+        "Detail / Turf stripes"
+      ],
+      "properties": {
+        "detail_type": "illustrative",
+        "placement_source": "Existing OSM local-metre geometries, matched to smoothed source DTM"
+      }
+    }
+  ],
+  "images": [
+    {
+      "name": "Render Result",
+      "size": [
+        0,
+        0
+      ],
+      "filepath": ""
+    },
+    {
+      "name": "Viewer Node",
+      "size": [
+        256,
+        256
+      ],
+      "filepath": ""
+    }
+  ],
+  "scene_site_properties": {}
+}

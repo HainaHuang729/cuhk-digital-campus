@@ -1,0 +1,46 @@
+{
+  "source": "CEDD 2020 LiDAR-derived 0.5m DTM",
+  "display_sample_interval_m": 1,
+  "shape": [
+    2401,
+    2401
+  ],
+  "source_archives": [
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7SE1A(e837n829,e838n830).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7SE1B(e838n829,e839n830).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7SE2A(e839n829,e839n830).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7SE2B(e839n829,e840n830).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7SE3A(e840n829,e841n830).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7NE21A(e837n830,e838n831).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7NE21B(e838n830,e839n831).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7NE22A(e839n830,e839n831).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7NE22B(e839n830,e840n831).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7NE23A(e840n830,e841n831).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7NE21C(e837n830,e838n830).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7NE21D(e838n830,e839n830).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7NE22C(e839n830,e839n830).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7NE22D(e839n830,e840n830).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7NE23C(e840n830,e841n830).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7NE16C(e837n831,e838n831).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7NE16D(e838n831,e839n831).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7NE17C(e839n831,e839n831).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7NE17D(e839n831,e840n831).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7NE18C(e840n831,e841n831).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7NE16A(e837n831,e838n832).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7NE16B(e838n831,e839n832).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7NE17A(e839n831,e839n832).zip",
+    "C:\\Users\\Amadeus\\.agent-reach\\cuhk\\high_detail_20260922\\dtm2020_tiles\\7NE17B(e839n831,e840n832).zip"
+  ],
+  "source_nodata_legacy_fallback_samples": 1231250,
+  "existing_sport_water_pad_count": 93,
+  "aligned_building_count": 343,
+  "pad_blend_samples": 153049,
+  "vertical_datum": "HKPD",
+  "crs": "EPSG:2326",
+  "origin": [
+    839400,
+    831150,
+    0
+  ],
+  "note": "1m display sampling derived from 0.5m source. Source NoData (including sea) retains original 5m scene terrain, explicitly masked source_valid=false. Buildings align to lower-quartile bare-earth elevation with local pads; sport/water levels retained. Road bed grading is illustrative, not a new survey."
+}

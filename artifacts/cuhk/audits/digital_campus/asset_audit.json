@@ -1,0 +1,616 @@
+{
+  "files": [
+    {
+      "file": "terrain.glb",
+      "bytes": 14566228,
+      "mib": 13.891,
+      "triangles": 5269222,
+      "primitive_draw_calls": 2,
+      "position_vertices": 2637592,
+      "nodes": 2,
+      "meshes": 2,
+      "materials": 2,
+      "unique_material_values": 2,
+      "duplicate_value_materials": 0,
+      "textures": 0,
+      "images": 0,
+      "texture_resolutions": [],
+      "attributes": {
+        "POSITION": 2,
+        "NORMAL": 2
+      },
+      "extensions_used": [
+        "KHR_draco_mesh_compression"
+      ],
+      "instance_extension_present": false,
+      "bounds_min": [
+        -1200,
+        -50,
+        -1200
+      ],
+      "bounds_max": [
+        1200,
+        259.31024169921875,
+        1200
+      ],
+      "dimensions_m": [
+        2400,
+        309.31024169921875,
+        2400
+      ],
+      "decoded_accessor_bytes": 126509760,
+      "groups": {
+        "terrain": {
+          "triangles": 5269222,
+          "primitives": 2,
+          "nodes": 2,
+          "position_vertices": 2637592
+        }
+      },
+      "largest_objects": [
+        {
+          "name": "web_terrain",
+          "category": "terrain",
+          "primitives": 1,
+          "triangles": 5265370,
+          "position_vertices": 2633720,
+          "bounds_min": [
+            -1200,
+            -2.5999999046325684,
+            -1200
+          ],
+          "bounds_max": [
+            1200,
+            259.31024169921875,
+            1200
+          ],
+          "extras": {
+            "category": "terrain",
+            "source_grid_m": 1
+          }
+        },
+        {
+          "name": "web_site_01",
+          "category": "terrain",
+          "primitives": 1,
+          "triangles": 3852,
+          "position_vertices": 3872,
+          "bounds_min": [
+            -1200,
+            -50,
+            -1200
+          ],
+          "bounds_max": [
+            1200,
+            246.913330078125,
+            1200
+          ],
+          "extras": {
+            "category": "terrain",
+            "collection_group": "01"
+          }
+        }
+      ]
+    },
+    {
+      "file": "campus.glb",
+      "bytes": 20076888,
+      "mib": 19.147,
+      "triangles": 2343302,
+      "primitive_draw_calls": 1387,
+      "position_vertices": 2811096,
+      "nodes": 374,
+      "meshes": 374,
+      "materials": 223,
+      "unique_material_values": 217,
+      "duplicate_value_materials": 6,
+      "textures": 0,
+      "images": 0,
+      "texture_resolutions": [],
+      "attributes": {
+        "POSITION": 1387,
+        "NORMAL": 1387
+      },
+      "extensions_used": [
+        "KHR_draco_mesh_compression"
+      ],
+      "instance_extension_present": false,
+      "bounds_min": [
+        -1149.179931640625,
+        -0.7666692733764648,
+        -1204.994873046875
+      ],
+      "bounds_max": [
+        1200,
+        259.5414123535156,
+        1203.99951171875
+      ],
+      "dimensions_m": [
+        2349.179931640625,
+        260.3080816268921,
+        2408.994384765625
+      ],
+      "decoded_accessor_bytes": 85978206,
+      "groups": {
+        "building": {
+          "triangles": 818377,
+          "primitives": 1364,
+          "nodes": 369,
+          "position_vertices": 1633059
+        },
+        "roads": {
+          "triangles": 455700,
+          "primitives": 3,
+          "nodes": 1,
+          "position_vertices": 384882
+        },
+        "sports_water": {
+          "triangles": 12680,
+          "primitives": 3,
+          "nodes": 1,
+          "position_vertices": 14463
+        },
+        "details": {
+          "triangles": 76762,
+          "primitives": 9,
+          "nodes": 1,
+          "position_vertices": 151460
+        },
+        "vegetation": {
+          "triangles": 472656,
+          "primitives": 7,
+          "nodes": 1,
+          "position_vertices": 288540
+        },
+        "road_foundations": {
+          "triangles": 507127,
+          "primitives": 1,
+          "nodes": 1,
+          "position_vertices": 338692
+        }
+      },
+      "largest_objects": [
+        {
+          "name": "web_site_14",
+          "category": "road_foundations",
+          "primitives": 1,
+          "triangles": 507127,
+          "position_vertices": 338692,
+          "bounds_min": [
+            -1149.179931640625,
+            -0.24583670496940613,
+            -1204.994873046875
+          ],
+          "bounds_max": [
+            810.0324096679688,
+            259.5414123535156,
+            1203.99951171875
+          ],
+          "extras": {
+            "category": "road_foundations",
+            "collection_group": "14"
+          }
+        },
+        {
+          "name": "web_site_09",
+          "category": "vegetation",
+          "primitives": 7,
+          "triangles": 472656,
+          "position_vertices": 288540,
+          "bounds_min": [
+            -1026.267578125,
+            1.2376147508621216,
+            -1183.484130859375
+          ],
+          "bounds_max": [
+            781.2022094726562,
+            215.843017578125,
+            1186.497314453125
+          ],
+          "extras": {
+            "category": "vegetation",
+            "collection_group": "09"
+          }
+        },
+        {
+          "name": "web_site_04",
+          "category": "roads",
+          "primitives": 3,
+          "triangles": 455700,
+          "position_vertices": 384882,
+          "bounds_min": [
+            -1149.179931640625,
+            -0.10583669692277908,
+            -1204.994873046875
+          ],
+          "bounds_max": [
+            810.0324096679688,
+            259.5414123535156,
+            1203.99951171875
+          ],
+          "extras": {
+            "category": "roads",
+            "collection_group": "04"
+          }
+        },
+        {
+          "name": "web_site_08",
+          "category": "details",
+          "primitives": 9,
+          "triangles": 76762,
+          "position_vertices": 151460,
+          "bounds_min": [
+            -692.4453125,
+            3.6760218143463135,
+            -940.6226196289062
+          ],
+          "bounds_max": [
+            752.878662109375,
+            146.11532592773438,
+            877.2092895507812
+          ],
+          "extras": {
+            "category": "details",
+            "collection_group": "08"
+          }
+        },
+        {
+          "name": "web_building_107139044",
+          "category": "building",
+          "primitives": 9,
+          "triangles": 20960,
+          "position_vertices": 41870,
+          "bounds_min": [
+            24.845609664916992,
+            71,
+            66.49405670166016
+          ],
+          "bounds_max": [
+            135.14285278320312,
+            117.5999984741211,
+            126.25849914550781
+          ],
+          "extras": {
+            "osm_id": "107139044",
+            "category": "building",
+            "collection_group": "02"
+          }
+        },
+        {
+          "name": "web_building_923320416",
+          "category": "building",
+          "primitives": 9,
+          "triangles": 17416,
+          "position_vertices": 34824,
+          "bounds_min": [
+            96.25279235839844,
+            27.253618240356445,
+            604.6904296875
+          ],
+          "bounds_max": [
+            144.51876831054688,
+            69.27361297607422,
+            675.8646850585938
+          ],
+          "extras": {
+            "osm_id": "923320416",
+            "category": "building",
+            "collection_group": "02"
+          }
+        },
+        {
+          "name": "web_building_696387742",
+          "category": "building",
+          "primitives": 3,
+          "triangles": 16360,
+          "position_vertices": 32618,
+          "bounds_min": [
+            450.60308837890625,
+            28.150279998779297,
+            -119.63803100585938
+          ],
+          "bounds_max": [
+            528.7839965820312,
+            62.060279846191406,
+            -41.819400787353516
+          ],
+          "extras": {
+            "osm_id": "696387742",
+            "category": "building",
+            "collection_group": "02"
+          }
+        },
+        {
+          "name": "web_building_667717927",
+          "category": "building",
+          "primitives": 5,
+          "triangles": 15224,
+          "position_vertices": 30372,
+          "bounds_min": [
+            -163.4755401611328,
+            7.014135837554932,
+            -749.1671142578125
+          ],
+          "bounds_max": [
+            -121.1439437866211,
+            44.31413650512695,
+            -701.2642822265625
+          ],
+          "extras": {
+            "osm_id": "667717927",
+            "category": "building",
+            "collection_group": "02"
+          }
+        },
+        {
+          "name": "web_building_2712284",
+          "category": "building",
+          "primitives": 9,
+          "triangles": 15056,
+          "position_vertices": 30012,
+          "bounds_min": [
+            344.2545471191406,
+            16.96735954284668,
+            292.0072021484375
+          ],
+          "bounds_max": [
+            480.67987060546875,
+            34.03736114501953,
+            410.6141357421875
+          ],
+          "extras": {
+            "osm_id": "2712284",
+            "category": "building",
+            "collection_group": "02"
+          }
+        },
+        {
+          "name": "web_building_185266978",
+          "category": "building",
+          "primitives": 9,
+          "triangles": 14694,
+          "position_vertices": 29372,
+          "bounds_min": [
+            327.95458984375,
+            7.539600372314453,
+            815.5968627929688
+          ],
+          "bounds_max": [
+            366.39215087890625,
+            52.85960006713867,
+            860.4967041015625
+          ],
+          "extras": {
+            "osm_id": "185266978",
+            "category": "building",
+            "collection_group": "02"
+          }
+        },
+        {
+          "name": "web_building_667717925",
+          "category": "building",
+          "primitives": 5,
+          "triangles": 14680,
+          "position_vertices": 29298,
+          "bounds_min": [
+            -127.70764923095703,
+            6.827297210693359,
+            -724.1038208007812
+          ],
+          "bounds_max": [
+            -83.46177673339844,
+            47.227294921875,
+            -677.1529541015625
+          ],
+          "extras": {
+            "osm_id": "667717925",
+            "category": "building",
+            "collection_group": "02"
+          }
+        },
+        {
+          "name": "web_building_10266054",
+          "category": "building",
+          "primitives": 9,
+          "triangles": 14484,
+          "position_vertices": 28882,
+          "bounds_min": [
+            -351.1441955566406,
+            77.11174774169922,
+            -350.1450500488281
+          ],
+          "bounds_max": [
+            -266.2816467285156,
+            94.88174438476562,
+            -265.650634765625
+          ],
+          "extras": {
+            "osm_id": "10266054",
+            "category": "building",
+            "collection_group": "02"
+          }
+        },
+        {
+          "name": "web_building_1806438",
+          "category": "building",
+          "primitives": 3,
+          "triangles": 13706,
+          "position_vertices": 27378,
+          "bounds_min": [
+            -71.8200454711914,
+            84.53430938720703,
+            51.681312561035156
+          ],
+          "bounds_max": [
+            0.7522733211517334,
+            101.94430541992188,
+            124.1181640625
+          ],
+          "extras": {
+            "osm_id": "1806438",
+            "category": "building",
+            "collection_group": "02"
+          }
+        },
+        {
+          "name": "web_site_05",
+          "category": "sports_water",
+          "primitives": 3,
+          "triangles": 12680,
+          "position_vertices": 14463,
+          "bounds_min": [
+            -894.7710571289062,
+            1,
+            -1200
+          ],
+          "bounds_max": [
+            1200,
+            211.73687744140625,
+            1200
+          ],
+          "extras": {
+            "category": "sports_water",
+            "collection_group": "05"
+          }
+        },
+        {
+          "name": "web_building_134409111",
+          "category": "building",
+          "primitives": 5,
+          "triangles": 12308,
+          "position_vertices": 24608,
+          "bounds_min": [
+            329.5929870605469,
+            114.59117126464844,
+            -190.7675018310547
+          ],
+          "bounds_max": [
+            366.4328308105469,
+            137.49118041992188,
+            -144.21609497070312
+          ],
+          "extras": {
+            "osm_id": "134409111",
+            "category": "building",
+            "collection_group": "02"
+          }
+        },
+        {
+          "name": "web_building_135193165",
+          "category": "building",
+          "primitives": 5,
+          "triangles": 11896,
+          "position_vertices": 23726,
+          "bounds_min": [
+            -259.50811767578125,
+            104.9033203125,
+            -294.3550109863281
+          ],
+          "bounds_max": [
+            -223.32135009765625,
+            138.4033203125,
+            -225.54188537597656
+          ],
+          "extras": {
+            "osm_id": "135193165",
+            "category": "building",
+            "collection_group": "02"
+          }
+        },
+        {
+          "name": "web_building_135904508",
+          "category": "building",
+          "primitives": 3,
+          "triangles": 10860,
+          "position_vertices": 21696,
+          "bounds_min": [
+            -683.8184814453125,
+            76.6820068359375,
+            -356.6720886230469
+          ],
+          "bounds_max": [
+            -600.8983154296875,
+            99.59200286865234,
+            -275.074951171875
+          ],
+          "extras": {
+            "osm_id": "135904508",
+            "category": "building",
+            "collection_group": "02"
+          }
+        },
+        {
+          "name": "web_building_194547399",
+          "category": "building",
+          "primitives": 4,
+          "triangles": 10822,
+          "position_vertices": 21598,
+          "bounds_min": [
+            -116.1989517211914,
+            18.407062530517578,
+            -641.4395141601562
+          ],
+          "bounds_max": [
+            -51.5125846862793,
+            42.41706466674805,
+            -595.1917114257812
+          ],
+          "extras": {
+            "osm_id": "194547399",
+            "category": "building",
+            "collection_group": "02"
+          }
+        },
+        {
+          "name": "web_building_667717928",
+          "category": "building",
+          "primitives": 9,
+          "triangles": 10600,
+          "position_vertices": 21102,
+          "bounds_min": [
+            -175.43894958496094,
+            7.089112281799316,
+            -751.8729858398438
+          ],
+          "bounds_max": [
+            -121.15325164794922,
+            20.859111785888672,
+            -674.652587890625
+          ],
+          "extras": {
+            "osm_id": "667717928",
+            "category": "building",
+            "collection_group": "02"
+          }
+        },
+        {
+          "name": "web_building_2532440",
+          "category": "building",
+          "primitives": 3,
+          "triangles": 10560,
+          "position_vertices": 21096,
+          "bounds_min": [
+            -374.1684875488281,
+            6.109012126922607,
+            -887.1644287109375
+          ],
+          "bounds_max": [
+            -302.93719482421875,
+            40.019012451171875,
+            -849.7363891601562
+          ],
+          "extras": {
+            "osm_id": "2532440",
+            "category": "building",
+            "collection_group": "02"
+          }
+        }
+      ]
+    }
+  ],
+  "total_bytes": 34643116,
+  "total_triangles": 7612524,
+  "primitive_draw_calls": 1389,
+  "decoded_accessor_bytes": 212487966,
+  "note": "Draw calls are total primitive submissions for a complete single color pass, before view culling, shadows, and post-processing. GPU byte estimate counts decoded accessors, excluding driver padding, render targets and CPU copies."
+}

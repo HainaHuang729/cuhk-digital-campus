@@ -1,0 +1,938 @@
+{
+  "updatedAt": "2026-09-27",
+  "coordinateSystem": "WGS84 transformed to EPSG:2326; Three.js [E-839400, label elevation HKPD, -(N-831150)]",
+  "coverage": "17 dining venues covering all nine colleges and Benjamin Franklin Centre; 25 published campus-shuttle stop points. Static map points, not live boarding locations. See AMENITY_SOURCES.md for omissions.",
+  "sources": [
+    {
+      "label": "CUHK dining directory",
+      "url": "https://www.cuhk.edu.hk/chinese/campus/accommodation.html"
+    },
+    {
+      "label": "CUHK campus map",
+      "url": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html"
+    },
+    {
+      "label": "CUHK map coordinates",
+      "url": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915"
+    },
+    {
+      "label": "CUHK shuttle diagram effective 1 September 2026",
+      "url": "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+    },
+    {
+      "label": "Transport Office notices",
+      "url": "https://transport.cuhk.edu.hk/"
+    }
+  ],
+  "items": [
+    {
+      "id": "canteen-229",
+      "type": "canteen",
+      "name": "Canteen of S.H. Ho College",
+      "name_en": "Canteen of S.H. Ho College",
+      "name_zh": "善衡書院餐廳",
+      "position": [
+        294.742,
+        64.593,
+        174.651
+      ],
+      "latitude": 22.418112640753165,
+      "longitude": 114.2101576924324,
+      "buildingId": "421850856",
+      "address": "陳震夏館一樓",
+      "locationNote": "陳震夏館一樓 · 校方地圖參考位置；具體入口請參照現場指示。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/accommodation.html",
+      "sourceLabel": "香港中文大學餐飲名錄與校園地圖",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialFacilityId": "229"
+    },
+    {
+      "id": "canteen-230",
+      "type": "canteen",
+      "name": "Morningside College Dining Hall",
+      "name_en": "Morningside College Dining Hall",
+      "name_zh": "晨興書院宴會廳",
+      "position": [
+        318.744,
+        85.056,
+        69.486
+      ],
+      "latitude": 22.41906228695141,
+      "longitude": 114.2103910446167,
+      "buildingId": "193128663",
+      "address": "格林伯格樓低層地下",
+      "locationNote": "格林伯格樓低層地下 · 校方地圖參考位置；具體入口請參照現場指示。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/accommodation.html",
+      "sourceLabel": "香港中文大學餐飲名錄與校園地圖",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialFacilityId": "230"
+    },
+    {
+      "id": "canteen-14",
+      "type": "canteen",
+      "name": "Chung Chi College Student Canteen",
+      "name_en": "Chung Chi College Student Canteen",
+      "name_zh": "崇基學院學生膳堂",
+      "position": [
+        248.109,
+        34.313,
+        341.052
+      ],
+      "latitude": 22.416610054130075,
+      "longitude": 114.20970439910889,
+      "buildingId": "923320403",
+      "address": "眾志堂",
+      "locationNote": "眾志堂 · 校方地圖參考位置；具體入口請參照現場指示。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/accommodation.html",
+      "sourceLabel": "香港中文大學餐飲名錄與校園地圖",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialFacilityId": "14"
+    },
+    {
+      "id": "canteen-16",
+      "type": "canteen",
+      "name": "New Asia College Staff Canteen",
+      "name_en": "New Asia College Staff Canteen",
+      "name_zh": "新亞書院教職員餐廳",
+      "position": [
+        210.172,
+        156.509,
+        -138.886
+      ],
+      "latitude": 22.4209442037046,
+      "longitude": 114.20933693647385,
+      "buildingId": "134408688",
+      "address": "樂群館－梁雄姬樓地下低層",
+      "locationNote": "樂群館－梁雄姬樓地下低層 · 校方地圖參考位置；具體入口請參照現場指示。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/accommodation.html",
+      "sourceLabel": "香港中文大學餐飲名錄與校園地圖",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialFacilityId": "16"
+    },
+    {
+      "id": "canteen-17",
+      "type": "canteen",
+      "name": "New Asia College Student Canteen",
+      "name_en": "New Asia College Student Canteen",
+      "name_zh": "新亞書院學生餐廳",
+      "position": [
+        189.739,
+        156.509,
+        -131.469
+      ],
+      "latitude": 22.42087725848682,
+      "longitude": 114.20913845300674,
+      "buildingId": "134408688",
+      "address": "樂群館－梁雄姬樓地下低層",
+      "locationNote": "樂群館－梁雄姬樓地下低層 · 校方地圖參考位置；具體入口請參照現場指示。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/accommodation.html",
+      "sourceLabel": "香港中文大學餐飲名錄與校園地圖",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialFacilityId": "17"
+    },
+    {
+      "id": "canteen-19",
+      "type": "canteen",
+      "name": "United College Student Canteen",
+      "name_en": "United College Student Canteen",
+      "name_zh": "聯合書院學生膳堂",
+      "position": [
+        -132.528,
+        156.501,
+        -152.544
+      ],
+      "latitude": 22.421068176244894,
+      "longitude": 114.20600831508636,
+      "buildingId": "135193913",
+      "address": "張祝珊師生康樂中心地下",
+      "locationNote": "張祝珊師生康樂中心地下 · 校方地圖參考位置；具體入口請參照現場指示。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/accommodation.html",
+      "sourceLabel": "香港中文大學餐飲名錄與校園地圖",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialFacilityId": "19"
+    },
+    {
+      "id": "canteen-20",
+      "type": "canteen",
+      "name": "United College Staff Canteen",
+      "name_en": "United College Staff Canteen",
+      "name_zh": "聯合書院教職員膳堂聚賢軒",
+      "position": [
+        -151.857,
+        156.501,
+        -146.5
+      ],
+      "latitude": 22.421013628340805,
+      "longitude": 114.20582056045532,
+      "buildingId": "135193913",
+      "address": "張祝珊師生康樂中心地下",
+      "locationNote": "張祝珊師生康樂中心地下 · 校方地圖參考位置；具體入口請參照現場指示。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/accommodation.html",
+      "sourceLabel": "香港中文大學餐飲名錄與校園地圖",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialFacilityId": "20"
+    },
+    {
+      "id": "canteen-237",
+      "type": "canteen",
+      "name": "United College Si Yuan Amenities Centre",
+      "name_en": "United College Si Yuan Amenities Centre",
+      "name_zh": "聯合書院思源館",
+      "position": [
+        -293.251,
+        158.391,
+        -187.383
+      ],
+      "latitude": 22.421383065999667,
+      "longitude": 114.2044472694397,
+      "buildingId": "3086286",
+      "address": "鄭棟材樓地庫",
+      "locationNote": "鄭棟材樓地庫 · 校方地圖參考位置；具體入口請參照現場指示。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/accommodation.html",
+      "sourceLabel": "香港中文大學餐飲名錄與校園地圖",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialFacilityId": "237"
+    },
+    {
+      "id": "canteen-249",
+      "type": "canteen",
+      "name": "Lee Woo Sing College - WS Pavilion",
+      "name_en": "Lee Woo Sing College - WS Pavilion",
+      "name_zh": "和聲書院WS Pavilion",
+      "position": [
+        -315.359,
+        118.189,
+        -277.436
+      ],
+      "latitude": 22.422196321275372,
+      "longitude": 114.2042326927185,
+      "buildingId": "194547402",
+      "address": "和聲書院低層二樓",
+      "locationNote": "和聲書院低層二樓 · 校方地圖參考位置；具體入口請參照現場指示。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/accommodation.html",
+      "sourceLabel": "香港中文大學餐飲名錄與校園地圖",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialFacilityId": "249"
+    },
+    {
+      "id": "canteen-300",
+      "type": "canteen",
+      "name": "Lee Woo Sing College - The Harmony",
+      "name_en": "Lee Woo Sing College - The Harmony",
+      "name_zh": "和聲滬軒",
+      "position": [
+        -326.405,
+        119.03,
+        -279.631
+      ],
+      "latitude": 22.422216156710395,
+      "longitude": 114.20412540435791,
+      "buildingId": "194547402",
+      "address": "和聲書院低層二樓",
+      "locationNote": "和聲書院低層二樓 · 校方地圖參考位置；具體入口請參照現場指示。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/accommodation.html",
+      "sourceLabel": "香港中文大學餐飲名錄與校園地圖",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialFacilityId": "300"
+    },
+    {
+      "id": "canteen-309",
+      "type": "canteen",
+      "name": "Canteen of CW Chu College",
+      "name_en": "Canteen of CW Chu College",
+      "name_zh": "敬文書院餐廳",
+      "position": [
+        -107.76,
+        46.417,
+        -588.277
+      ],
+      "latitude": 22.425003007165333,
+      "longitude": 114.2062497138977,
+      "buildingId": "194547399",
+      "address": "敬文書院臧健和堂地下",
+      "locationNote": "敬文書院臧健和堂地下 · 校方地圖參考位置；具體入口請參照現場指示。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/accommodation.html",
+      "sourceLabel": "香港中文大學餐飲名錄與校園地圖",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialFacilityId": "309"
+    },
+    {
+      "id": "canteen-332",
+      "type": "canteen",
+      "name": "Canteen of Shaw College－Café Shaw",
+      "name_en": "Canteen of Shaw College－Café Shaw",
+      "name_zh": "逸夫書院餐廳－Café Shaw",
+      "position": [
+        -666.895,
+        103.592,
+        -306.48
+      ],
+      "latitude": 22.422459140559532,
+      "longitude": 114.20081824064255,
+      "buildingId": "135904508",
+      "address": "國楙樓地下",
+      "locationNote": "國楙樓地下 · 校方地圖參考位置；具體入口請參照現場指示。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/accommodation.html",
+      "sourceLabel": "香港中文大學餐飲名錄與校園地圖",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialFacilityId": "332"
+    },
+    {
+      "id": "canteen-391",
+      "type": "canteen",
+      "name": "Benjamin Franklin Centre Lower Ground Canteen",
+      "name_en": "Benjamin Franklin Centre Lower Ground Canteen",
+      "name_zh": "范克廉樓底層餐廳",
+      "position": [
+        -238.787,
+        105.49,
+        151.422
+      ],
+      "latitude": 22.418323398302967,
+      "longitude": 114.20497566461563,
+      "buildingId": "135265606",
+      "address": "范克廉樓LG14",
+      "locationNote": "范克廉樓LG14 · 校方地圖參考位置；具體入口請參照現場指示。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/accommodation.html",
+      "sourceLabel": "香港中文大學餐飲名錄與校園地圖",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialFacilityId": "391"
+    },
+    {
+      "id": "canteen-399",
+      "type": "canteen",
+      "name": "Benjamin Franklin Centre Staff Canteen",
+      "name_en": "Benjamin Franklin Centre Staff Canteen",
+      "name_zh": "范克廉樓教職員餐廳",
+      "position": [
+        -198.474,
+        105.49,
+        126.429
+      ],
+      "latitude": 22.4185490325018,
+      "longitude": 114.2053672671318,
+      "buildingId": "135265606",
+      "address": "范克廉樓地下",
+      "locationNote": "范克廉樓地下 · 校方地圖參考位置；具體入口請參照現場指示。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/accommodation.html",
+      "sourceLabel": "香港中文大學餐飲名錄與校園地圖",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialFacilityId": "399"
+    },
+    {
+      "id": "canteen-400",
+      "type": "canteen",
+      "name": "Benjamin Franklin Centre Student Canteen",
+      "name_en": "Benjamin Franklin Centre Student Canteen",
+      "name_zh": "范克廉樓學生膳堂",
+      "position": [
+        -221.114,
+        105.49,
+        151.419
+      ],
+      "latitude": 22.418323398302963,
+      "longitude": 114.20514732599258,
+      "buildingId": "135265606",
+      "address": "范克廉樓地下",
+      "locationNote": "范克廉樓地下 · 校方地圖參考位置；具體入口請參照現場指示。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/accommodation.html",
+      "sourceLabel": "香港中文大學餐飲名錄與校園地圖",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialFacilityId": "400"
+    },
+    {
+      "id": "canteen-315",
+      "type": "canteen",
+      "name": "Wu Yee Sun College Staff Dining Room",
+      "name_en": "Wu Yee Sun College Staff Dining Room",
+      "name_zh": "伍宜孫書院教職員飯堂",
+      "position": [
+        -502.031,
+        111.126,
+        -270.814
+      ],
+      "latitude": 22.422136814953337,
+      "longitude": 114.20241951942444,
+      "buildingId": "194547401",
+      "address": "伍宜孫書院西座地下",
+      "locationNote": "伍宜孫書院西座地下 · 校方地圖參考位置；具體入口請參照現場指示。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/accommodation.html",
+      "sourceLabel": "香港中文大學餐飲名錄與校園地圖",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialFacilityId": "315"
+    },
+    {
+      "id": "canteen-316",
+      "type": "canteen",
+      "name": "Wu Yee Sun College Student Canteen",
+      "name_en": "Wu Yee Sun College Student Canteen",
+      "name_zh": "伍宜孫書院學生飯堂",
+      "position": [
+        -473.31,
+        111.126,
+        -259.287
+      ],
+      "latitude": 22.42203267882843,
+      "longitude": 114.20269846916199,
+      "buildingId": "194547401",
+      "address": "伍宜孫書院西座地面下層",
+      "locationNote": "伍宜孫書院西座地面下層 · 校方地圖參考位置；具體入口請參照現場指示。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/accommodation.html",
+      "sourceLabel": "香港中文大學餐飲名錄與校園地圖",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialFacilityId": "316"
+    },
+    {
+      "id": "bus-stop-1",
+      "type": "bus_stop",
+      "name": "University Station Shuttle Bus Stop",
+      "name_en": "University Station Shuttle Bus Stop",
+      "name_zh": "港鐵大學站校巴站",
+      "position": [
+        292.345,
+        12.517,
+        574.98
+      ],
+      "latitude": 22.414497479108096,
+      "longitude": 114.21013355255127,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "1",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    },
+    {
+      "id": "bus-stop-2",
+      "type": "bus_stop",
+      "name": "University Sports Centre Shuttle Bus Stop",
+      "name_en": "University Sports Centre Shuttle Bus Stop",
+      "name_zh": "大學體育中心校巴站",
+      "position": [
+        331.756,
+        45.233,
+        215.829
+      ],
+      "latitude": 22.41774071488508,
+      "longitude": 114.2105171084404,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "2",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    },
+    {
+      "id": "bus-stop-4",
+      "type": "bus_stop",
+      "name": "Sir Run Run Shaw Hall Shuttle Bus Stop",
+      "name_en": "Sir Run Run Shaw Hall Shuttle Bus Stop",
+      "name_zh": "邵逸夫堂校巴站",
+      "position": [
+        -39.163,
+        103.05,
+        -13.907
+      ],
+      "latitude": 22.41981604850182,
+      "longitude": 114.2069149017334,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "4",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    },
+    {
+      "id": "bus-stop-5",
+      "type": "bus_stop",
+      "name": "Fung King Hey Building Shuttle Bus Stop",
+      "name_en": "Fung King Hey Building Shuttle Bus Stop",
+      "name_zh": "馮景禧樓校巴站",
+      "position": [
+        -434.055,
+        117.691,
+        -14.931
+      ],
+      "latitude": 22.419825966389684,
+      "longitude": 114.2030793428421,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "5",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    },
+    {
+      "id": "bus-stop-6",
+      "type": "bus_stop",
+      "name": "United College Shuttle Bus Stop",
+      "name_en": "United College Shuttle Bus Stop",
+      "name_zh": "聯合書院校巴站",
+      "position": [
+        -202.103,
+        142.068,
+        -77.574
+      ],
+      "latitude": 22.420391284827307,
+      "longitude": 114.20533239841461,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "6",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    },
+    {
+      "id": "bus-stop-7",
+      "type": "bus_stop",
+      "name": "United College Shuttle Bus Stop",
+      "name_en": "United College Shuttle Bus Stop",
+      "name_zh": "聯合書院校巴站",
+      "position": [
+        -219.498,
+        142.068,
+        -66.314
+      ],
+      "latitude": 22.42028962685691,
+      "longitude": 114.20516341924667,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "7",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    },
+    {
+      "id": "bus-stop-8",
+      "type": "bus_stop",
+      "name": "New Asia College Shuttle Bus Stop",
+      "name_en": "New Asia College Shuttle Bus Stop",
+      "name_zh": "新亞書院校巴站",
+      "position": [
+        19.899,
+        146.174,
+        -178.658
+      ],
+      "latitude": 22.421303723766545,
+      "longitude": 114.20748889446259,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "8",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    },
+    {
+      "id": "bus-stop-9",
+      "type": "bus_stop",
+      "name": "New Asia College Shuttle Bus Stop",
+      "name_en": "New Asia College Shuttle Bus Stop",
+      "name_zh": "新亞書院校巴站",
+      "position": [
+        16.591,
+        143.05,
+        -152.299
+      ],
+      "latitude": 22.421065696795175,
+      "longitude": 114.2074567079544,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "9",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    },
+    {
+      "id": "bus-stop-10",
+      "type": "bus_stop",
+      "name": "University Administration Building Shuttle Bus Stop",
+      "name_en": "University Administration Building Shuttle Bus Stop",
+      "name_zh": "大學行政樓校巴站",
+      "position": [
+        -209.802,
+        98.139,
+        96.777
+      ],
+      "latitude": 22.41881681766868,
+      "longitude": 114.2052572965622,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "10",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    },
+    {
+      "id": "bus-stop-15",
+      "type": "bus_stop",
+      "name": "Shaw College Shuttle Bus Stop",
+      "name_en": "Shaw College Shuttle Bus Stop",
+      "name_zh": "逸夫書院校巴站",
+      "position": [
+        -617.189,
+        89.109,
+        -307.586
+      ],
+      "latitude": 22.422469058258624,
+      "longitude": 114.20130103826523,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "15",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    },
+    {
+      "id": "bus-stop-18",
+      "type": "bus_stop",
+      "name": "University Residence No. 15 Shuttle Bus Stop",
+      "name_en": "University Residence No. 15 Shuttle Bus Stop",
+      "name_zh": "第十五苑校巴站",
+      "position": [
+        -63.551,
+        62.618,
+        -451.281
+      ],
+      "latitude": 22.423765791314086,
+      "longitude": 114.20667886734009,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "18",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    },
+    {
+      "id": "bus-stop-20",
+      "type": "bus_stop",
+      "name": "UC Staff Residence Shuttle Bus Stop",
+      "name_en": "UC Staff Residence Shuttle Bus Stop",
+      "name_zh": "聯合苑校巴站",
+      "position": [
+        -152.452,
+        98.028,
+        -365.326
+      ],
+      "latitude": 22.42298973646636,
+      "longitude": 114.20581519603729,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "20",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    },
+    {
+      "id": "bus-stop-21",
+      "type": "bus_stop",
+      "name": "Chan Chun Ha Hostel Shuttle Bus Stop",
+      "name_en": "Chan Chun Ha Hostel Shuttle Bus Stop",
+      "name_zh": "陳震夏宿舍校巴站",
+      "position": [
+        -255.153,
+        135.395,
+        -241.754
+      ],
+      "latitude": 22.421873995059045,
+      "longitude": 114.20481741428375,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "21",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    },
+    {
+      "id": "bus-stop-22",
+      "type": "bus_stop",
+      "name": "Jockey Club Postgraduate Hall 1 Shuttle Bus Stop",
+      "name_en": "Jockey Club Postgraduate Hall 1 Shuttle Bus Stop",
+      "name_zh": "賽馬會研究生宿舍（一座）校巴站",
+      "position": [
+        493.789,
+        32.828,
+        -73.604
+      ],
+      "latitude": 22.420354092895547,
+      "longitude": 114.21209156513214,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "22",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    },
+    {
+      "id": "bus-stop-23",
+      "type": "bus_stop",
+      "name": "Chung Chi Teaching Blocks Shuttle Bus Stop",
+      "name_en": "Chung Chi Teaching Blocks Shuttle Bus Stop",
+      "name_zh": "崇基教學樓校巴站",
+      "position": [
+        89.069,
+        20.467,
+        459.977
+      ],
+      "latitude": 22.415536413797238,
+      "longitude": 114.20815944671631,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "23",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    },
+    {
+      "id": "bus-stop-24",
+      "type": "bus_stop",
+      "name": "University Science Centre Shuttle Bus Stop",
+      "name_en": "University Science Centre Shuttle Bus Stop",
+      "name_zh": "科學館校巴站",
+      "position": [
+        5.573,
+        104.759,
+        -14.19
+      ],
+      "latitude": 22.419818527973842,
+      "longitude": 114.20734941959381,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "24",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    },
+    {
+      "id": "bus-stop-51",
+      "type": "bus_stop",
+      "name": "S.H. Ho College Shuttle Bus Stop",
+      "name_en": "S.H. Ho College Shuttle Bus Stop",
+      "name_zh": "善衡書院校巴站",
+      "position": [
+        252.769,
+        54.317,
+        184.545
+      ],
+      "latitude": 22.418023378635656,
+      "longitude": 114.20974999666214,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "51",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    },
+    {
+      "id": "bus-stop-52",
+      "type": "bus_stop",
+      "name": "Entrance Piazza Shuttle Bus Stop",
+      "name_en": "Entrance Piazza Shuttle Bus Stop",
+      "name_zh": "港鐵大學站廣場校巴站",
+      "position": [
+        211.447,
+        10.514,
+        649.409
+      ],
+      "latitude": 22.413825514824925,
+      "longitude": 114.2093476653099,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "52",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    },
+    {
+      "id": "bus-stop-53",
+      "type": "bus_stop",
+      "name": "Yasumoto International Academic Park Shuttle Bus Stop",
+      "name_en": "Yasumoto International Academic Park Shuttle Bus Stop",
+      "name_zh": "康本國際學術園校巴站",
+      "position": [
+        357.206,
+        17.964,
+        412.966
+      ],
+      "latitude": 22.415960415936375,
+      "longitude": 114.21076387166977,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "53",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    },
+    {
+      "id": "bus-stop-55",
+      "type": "bus_stop",
+      "name": "Area 39 Shuttle Bus Stop",
+      "name_en": "Area 39 Shuttle Bus Stop",
+      "name_zh": "三十九區校巴站",
+      "position": [
+        -295.584,
+        9.138,
+        -859.776
+      ],
+      "latitude": 22.427455091773282,
+      "longitude": 114.20442581176758,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "55",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    },
+    {
+      "id": "bus-stop-56",
+      "type": "bus_stop",
+      "name": "CW Chu College (to Shaw College) Shuttle Bus Stop",
+      "name_en": "CW Chu College (to Shaw College) Shuttle Bus Stop",
+      "name_zh": "敬文書院（往逸夫書院）校巴站",
+      "position": [
+        -116.057,
+        22.592,
+        -651.972
+      ],
+      "latitude": 22.425578222003136,
+      "longitude": 114.20616924762726,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "56",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    },
+    {
+      "id": "bus-stop-62",
+      "type": "bus_stop",
+      "name": "Campus Circuit East (to C.W. College) Shuttle Bus Stop",
+      "name_en": "Campus Circuit East (to C.W. College) Shuttle Bus Stop",
+      "name_zh": "環迴東站（往敬文書院）校巴站",
+      "position": [
+        570.589,
+        23.056,
+        56.523
+      ],
+      "latitude": 22.4191788227218,
+      "longitude": 114.21283721923828,
+      "locationNote": "此站近期有臨時遷移通告。標記為校方地圖原位置，請查看校巴通告確認上車點。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "62",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf",
+        "https://transport.cuhk.edu.hk/"
+      ]
+    },
+    {
+      "id": "bus-stop-63",
+      "type": "bus_stop",
+      "name": "Campus Circuit East (to University Station) Shuttle Bus Stop",
+      "name_en": "Campus Circuit East (to University Station) Shuttle Bus Stop",
+      "name_zh": "環迴東站（往大學站）校巴站",
+      "position": [
+        575.289,
+        23.598,
+        77.938
+      ],
+      "latitude": 22.418985422879373,
+      "longitude": 114.21288281679153,
+      "locationNote": "此站近期有臨時遷移通告。標記為校方地圖原位置，請查看校巴通告確認上車點。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "63",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf",
+        "https://transport.cuhk.edu.hk/newsdetails/bus-stop-temporary-relocation-campus-circuit-east-downwards/"
+      ]
+    },
+    {
+      "id": "bus-stop-64",
+      "type": "bus_stop",
+      "name": "CW Chu College (to University Residence No. 10) Shuttle Bus Stop",
+      "name_en": "CW Chu College (to University Residence No. 10) Shuttle Bus Stop",
+      "name_zh": "敬文書院（往第十苑）校巴站",
+      "position": [
+        -136.279,
+        23.594,
+        -664.2
+      ],
+      "latitude": 22.425688682311435,
+      "longitude": 114.20597284345502,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "64",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    },
+    {
+      "id": "bus-stop-66",
+      "type": "bus_stop",
+      "name": "Campus Circuit North Shuttle Bus Stop",
+      "name_en": "Campus Circuit North Shuttle Bus Stop",
+      "name_zh": "環迴北站校巴站",
+      "position": [
+        -89.611,
+        21.341,
+        -656.522
+      ],
+      "latitude": 22.42561926001272,
+      "longitude": 114.20642613677853,
+      "locationNote": "校方地圖參考站點；實際停靠及臨時安排請查看校巴通告。",
+      "source": "https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html",
+      "sourceLabel": "香港中文大學校園地圖／交通處",
+      "coordinateSource": "https://www.cuhk.edu.hk/chinese/js/campus/cuhk_location_db.js?20200915",
+      "officialBusStopId": "66",
+      "secondarySources": [
+        "https://transport.cuhk.edu.hk/wp-content/uploads/documents/Shuttle.pdf"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "source": "C:\\Users\\Amadeus\\Documents\\桌游主持人\\artifacts\\cuhk\\CUHK_shaw_science_corrected.blend",
+  "source_unchanged": true,
+  "vegetation": {
+    "trees": 1374,
+    "shared_templates": 8,
+    "triangles_per_template": {
+      "棱角球": 344,
+      "棱角球.004": 344,
+      "棱角球.008": 344,
+      "棱角球.012": 344,
+      "棱角球.016": 344,
+      "棱角球.020": 344,
+      "棱角球.024": 344,
+      "棱角球.028": 344
+    },
+    "runtime_replacement": "8 InstancedMesh with vertex colors; remove/hide existing web_site_09 first."
+  },
+  "site_objects": [
+    {
+      "name": "Site / Road paint",
+      "vertices": 9712,
+      "materials": [
+        "Detail / Road paint"
+      ]
+    },
+    {
+      "name": "Site / Curbs",
+      "vertices": 83132,
+      "materials": [
+        "Detail / Curbs"
+      ]
+    },
+    {
+      "name": "Site / Court paint",
+      "vertices": 26964,
+      "materials": [
+        "Detail / Court paint"
+      ]
+    },
+    {
+      "name": "Site / Pool lane ropes",
+      "vertices": 800,
+      "materials": [
+        "Detail / Pool lane ropes"
+      ]
+    },
+    {
+      "name": "Site / Lamp poles",
+      "vertices": 13280,
+      "materials": [
+        "Detail / Lamp poles"
+      ]
+    },
+    {
+      "name": "Site / Lamp heads",
+      "vertices": 6280,
+      "materials": [
+        "Detail / Lamp heads"
+      ]
+    },
+    {
+      "name": "Site / Goal frames",
+      "vertices": 720,
+      "materials": [
+        "Detail / Goal frames"
+      ]
+    },
+    {
+      "name": "Site / Net mesh",
+      "vertices": 1920,
+      "materials": [
+        "Detail / Net mesh"
+      ]
+    },
+    {
+      "name": "Site / Turf stripes",
+      "vertices": 8652,
+      "materials": [
+        "Detail / Turf stripes"
+      ]
+    }
+  ],
+  "paths": [
+    {
+      "id": "955764570-0",
+      "name": "University Mall East",
+      "kind": "walk",
+      "width": 3.0,
+      "source_profile_index": 1069,
+      "osm_id": "955764570",
+      "surface_class": "ground",
+      "length": 193.692,
+      "maximum_centerline_to_mesh_difference_m": 0.55132
+    },
+    {
+      "id": "955764573-0",
+      "name": "University Mall West",
+      "kind": "walk",
+      "width": 3.0,
+      "source_profile_index": 1072,
+      "osm_id": "955764573",
+      "surface_class": "ground",
+      "length": 93.61,
+      "maximum_centerline_to_mesh_difference_m": 0.38059
+    },
+    {
+      "id": "746662476-0",
+      "name": "United College Path",
+      "kind": "walk",
+      "width": 1.8,
+      "source_profile_index": 758,
+      "osm_id": "746662476",
+      "surface_class": "ground",
+      "length": 148.575,
+      "maximum_centerline_to_mesh_difference_m": 0.19037
+    },
+    {
+      "id": "136993548-0",
+      "name": "Sweetheart Path",
+      "kind": "walk",
+      "width": 1.8,
+      "source_profile_index": 122,
+      "osm_id": "136993548",
+      "surface_class": "ground",
+      "length": 129.738,
+      "maximum_centerline_to_mesh_difference_m": 0.22131
+    },
+    {
+      "id": "170336287-0",
+      "name": "Philosophy Path",
+      "kind": "walk",
+      "width": 1.8,
+      "source_profile_index": 156,
+      "osm_id": "170336287",
+      "surface_class": "ground",
+      "length": 130.03,
+      "maximum_centerline_to_mesh_difference_m": 0.60589
+    },
+    {
+      "id": "198293713-0",
+      "name": "Progress Road",
+      "kind": "walk",
+      "width": 3.0,
+      "source_profile_index": 214,
+      "osm_id": "198293713",
+      "surface_class": "ground",
+      "length": 166.946,
+      "maximum_centerline_to_mesh_difference_m": 0.17493
+    },
+    {
+      "id": "33412230-0",
+      "name": "Central Avenue",
+      "kind": "vehicle",
+      "width": 5.0,
+      "source_profile_index": 20,
+      "osm_id": "33412230",
+      "surface_class": "ground",
+      "length": 321.763,
+      "maximum_centerline_to_mesh_difference_m": 0.23218
+    },
+    {
+      "id": "33278102-0",
+      "name": "Pond Crescent",
+      "kind": "vehicle",
+      "width": 5.0,
+      "source_profile_index": 14,
+      "osm_id": "33278102",
+      "surface_class": "ground",
+      "length": 275.622,
+      "maximum_centerline_to_mesh_difference_m": 0.23368
+    },
+    {
+      "id": "188007443-0",
+      "name": "Campus Circuit East",
+      "kind": "vehicle",
+      "width": 5.0,
+      "source_profile_index": 184,
+      "osm_id": "188007443",
+      "surface_class": "ground",
+      "length": 512.132,
+      "maximum_centerline_to_mesh_difference_m": 0.22572
+    },
+    {
+      "id": "86127502-0",
+      "name": "Coastal Cycleway",
+      "kind": "cycle",
+      "width": 2.5,
+      "source_profile_index": 53,
+      "osm_id": "86127502",
+      "surface_class": "ground",
+      "length": 469.491,
+      "maximum_centerline_to_mesh_difference_m": 0.25849
+    }
+  ],
+  "existing_props": [
+    "157 street lamps",
+    "road curbs and markings",
+    "sports equipment",
+    "rooftop equipment",
+    "entrance canopies"
+  ],
+  "not_found_in_generation_scripts": [
+    "people",
+    "cars",
+    "bicycles",
+    "birds",
+    "benches",
+    "bins",
+    "hydrants",
+    "manholes"
+  ]
+}

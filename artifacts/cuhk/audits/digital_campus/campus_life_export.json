@@ -1,0 +1,37 @@
+{
+  "source": "C:\\Users\\Amadeus\\Documents\\\u684c\u6e38\u4e3b\u6301\u4eba\\artifacts\\cuhk\\CUHK_shaw_science_corrected.blend",
+  "source_unchanged": true,
+  "trees": 1374,
+  "templates": {
+    "tree_0_near": 344,
+    "tree_0_far": 95,
+    "tree_1_near": 344,
+    "tree_1_far": 95,
+    "tree_2_near": 344,
+    "tree_2_far": 95,
+    "tree_3_near": 344,
+    "tree_3_far": 95,
+    "tree_4_near": 344,
+    "tree_4_far": 95,
+    "tree_5_near": 344,
+    "tree_5_far": 95,
+    "tree_6_near": 344,
+    "tree_6_far": 95,
+    "tree_7_near": 344,
+    "tree_7_far": 95
+  },
+  "path_count": 10,
+  "samples": 3842,
+  "all_path_samples_hit_saved_road_mesh": true,
+  "surface_offset_m": 0.035,
+  "maximum_difference_from_raw_route_z_m": 0.6019001007080078,
+  "illustrative_furniture": {
+    "benches": 6,
+    "bins": 6,
+    "bicycles": 3
+  },
+  "existing_lamp_light_pools": 40,
+  "light_pool_maximum_plane_residual_span_m": 0.06252684761889782,
+  "vegetation_bytes": 147348,
+  "life_json_bytes": 279126
+}

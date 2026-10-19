@@ -1,0 +1,3702 @@
+[
+  {
+    "osm_id": "107139024",
+    "name": "Pi Ch'iu Building",
+    "old_base_m": 101.0,
+    "new_base_m": 100.29438781738281,
+    "vertical_shift_m": -0.7056121826171875,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1811,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "107139025",
+    "name": "Cho Yiu Conference Hall",
+    "old_base_m": 98.88992900472266,
+    "new_base_m": 96.50497436523438,
+    "vertical_shift_m": -2.384954639488285,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 255,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "107139026",
+    "name": "Sui Loong Pao Building",
+    "old_base_m": 101.0,
+    "new_base_m": 100.64346313476562,
+    "vertical_shift_m": -0.356536865234375,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 550,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "107139028",
+    "name": "Pentecostal Mission Hall Complex (High Block)",
+    "old_base_m": 78.00645153464826,
+    "new_base_m": 73.9432144165039,
+    "vertical_shift_m": -4.063237118144357,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 677,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "107139029",
+    "name": "Pentecostal Mission Hall Complex (Low Block)",
+    "old_base_m": 66.93733129453847,
+    "new_base_m": 56.459049224853516,
+    "vertical_shift_m": -10.478282069684951,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 425,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "107139030",
+    "name": "Sir Run Run Shaw Hall",
+    "old_base_m": 101.26915638191312,
+    "new_base_m": 100.4400405883789,
+    "vertical_shift_m": -0.8291157935342142,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1718,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "107139044",
+    "name": "Run Run Shaw Science Building",
+    "old_base_m": 96.69167116513839,
+    "new_base_m": 80.74874877929688,
+    "vertical_shift_m": -15.942922385841513,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 2601,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "134408687",
+    "name": "Chih Hsing Hall",
+    "old_base_m": 136.76182180033894,
+    "new_base_m": 131.7548065185547,
+    "vertical_shift_m": -5.007015281784248,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1461,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "134408688",
+    "name": "Staff Student Centre - Leung Hung Kee Building",
+    "old_base_m": 147.9918680360548,
+    "new_base_m": 140.00936889648438,
+    "vertical_shift_m": -7.982499139570422,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1521,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "134408689",
+    "name": "Cheng Ming Building",
+    "old_base_m": 143.00722612269325,
+    "new_base_m": 143.00722612269325,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 756,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "134408690",
+    "name": "Humanities Building",
+    "old_base_m": 141.99085376522112,
+    "new_base_m": 137.93894958496094,
+    "vertical_shift_m": -4.0519041802601805,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1194,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "134408693",
+    "name": "Friendship Lodge",
+    "old_base_m": 134.52002810768812,
+    "new_base_m": 128.8631134033203,
+    "vertical_shift_m": -5.656914704367807,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 369,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "134408696",
+    "name": "Ch'ien Mu Library",
+    "old_base_m": 143.82901571087143,
+    "new_base_m": 140.34249877929688,
+    "vertical_shift_m": -3.486516931574556,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1023,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "134409111",
+    "name": "Daisy Li Hall",
+    "old_base_m": 117.80302092753807,
+    "new_base_m": 114.99117279052734,
+    "vertical_shift_m": -2.8118481370107276,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 937,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "134409115",
+    "name": "Grace Tien Hall",
+    "old_base_m": 118.99954033262489,
+    "new_base_m": 115.9571533203125,
+    "vertical_shift_m": -3.042387012312389,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 819,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "134410444",
+    "name": "Tin Ka Ping Building",
+    "old_base_m": 100.53922909439467,
+    "new_base_m": 98.24110412597656,
+    "vertical_shift_m": -2.298124968418108,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1152,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "134410446",
+    "name": "Charles Kuen Kao Building",
+    "old_base_m": 100.18684014036614,
+    "new_base_m": 101.45228576660156,
+    "vertical_shift_m": 1.2654456262354188,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 2067,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "134410447",
+    "name": "Science Centre East Block",
+    "old_base_m": 95.89510138107316,
+    "new_base_m": 95.89510138107316,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 697,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "134410448",
+    "name": "Choh-Ming Li Basic Medical Sciences Building",
+    "old_base_m": 95.6794424025847,
+    "new_base_m": 94.971923828125,
+    "vertical_shift_m": -0.7075185744596979,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1665,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "134410449",
+    "name": "University Library",
+    "old_base_m": 100.7066826407445,
+    "new_base_m": 98.735595703125,
+    "vertical_shift_m": -1.9710869376195035,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1538,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "134410450",
+    "name": "University Science Centre",
+    "old_base_m": 100.24700487488548,
+    "new_base_m": 102.02584838867188,
+    "vertical_shift_m": 1.7788435137863985,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 761,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "134410451",
+    "name": "Ma Lin Building",
+    "old_base_m": 98.07145926494596,
+    "new_base_m": 98.66194915771484,
+    "vertical_shift_m": 0.5904898927688862,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 2398,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "134410719",
+    "name": "Mong Man Wai Building",
+    "old_base_m": 116.57104368628859,
+    "new_base_m": 100.00613403320312,
+    "vertical_shift_m": -16.564909653085465,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1976,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "134818772",
+    "name": "Lingnan Stadium",
+    "old_base_m": 8.29054612278392,
+    "new_base_m": 8.29054612278392,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 461,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "134819420",
+    "name": "building 134819420",
+    "old_base_m": 11.839785256069,
+    "new_base_m": 9.765830993652344,
+    "vertical_shift_m": -2.073954262416656,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 31,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "134819421",
+    "name": "Fong Yun Wah Hall",
+    "old_base_m": 10.888068216473332,
+    "new_base_m": 9.96750259399414,
+    "vertical_shift_m": -0.9205656224791916,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 262,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "134819423",
+    "name": "Postgraduate Hall No.3",
+    "old_base_m": 8.373931113126108,
+    "new_base_m": 6.383925437927246,
+    "vertical_shift_m": -1.9900056751988622,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 325,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "134819424",
+    "name": "Fong Shu Chuen Building",
+    "old_base_m": 10.407728035020742,
+    "new_base_m": 8.964404106140137,
+    "vertical_shift_m": -1.4433239288806057,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 287,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "134820401",
+    "name": "University Sports Centre",
+    "old_base_m": 34.07667498024857,
+    "new_base_m": 30.4918212890625,
+    "vertical_shift_m": -3.584853691186069,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1225,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135018845",
+    "name": "Wen Chih Tang",
+    "old_base_m": 38.1161313858375,
+    "new_base_m": 37.384124755859375,
+    "vertical_shift_m": -0.7320066299781232,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 384,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135018848",
+    "name": "Ming Hua Tang",
+    "old_base_m": 39.299886066179276,
+    "new_base_m": 30.48114585876465,
+    "vertical_shift_m": -8.818740207414628,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 712,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135018852",
+    "name": "Ying Lin Tang",
+    "old_base_m": 26.50345528651843,
+    "new_base_m": 25.60651206970215,
+    "vertical_shift_m": -0.8969432168162825,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 552,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135018853",
+    "name": "Madam S.H.Ho Hall",
+    "old_base_m": 37.59988737462366,
+    "new_base_m": 37.092002868652344,
+    "vertical_shift_m": -0.5078845059713188,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 601,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135021152",
+    "name": "Hua Lien Tang",
+    "old_base_m": 36.182050076363744,
+    "new_base_m": 26.227994918823242,
+    "vertical_shift_m": -9.954055157540502,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 557,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135021153",
+    "name": "C.C. Staff Quarters S",
+    "old_base_m": 39.88918960224668,
+    "new_base_m": 35.15306091308594,
+    "vertical_shift_m": -4.7361286891607435,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 278,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135021154",
+    "name": "Elisabeth Luce Moore Library",
+    "old_base_m": 14.613937166613475,
+    "new_base_m": 11.393165588378906,
+    "vertical_shift_m": -3.2207715782345687,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1611,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135021155",
+    "name": "Lee Shu Pui Hall",
+    "old_base_m": 38.458313747193586,
+    "new_base_m": 37.363948822021484,
+    "vertical_shift_m": -1.0943649251721013,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 699,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135098351",
+    "name": "Li Koon Chun Hall",
+    "old_base_m": 23.0,
+    "new_base_m": 31.923625946044922,
+    "vertical_shift_m": 8.923625946044922,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 323,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135098352",
+    "name": "Li Wai Chun Building",
+    "old_base_m": 23.555454163459153,
+    "new_base_m": 38.241546630859375,
+    "vertical_shift_m": 14.686092467400222,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1313,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135156233",
+    "name": "Esther Lee Building",
+    "old_base_m": 29.25221720563373,
+    "new_base_m": 23.86398696899414,
+    "vertical_shift_m": -5.38823023663959,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 3110,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135156234",
+    "name": "C.C. Administration Building",
+    "old_base_m": 27.948406592722833,
+    "new_base_m": 23.44687271118164,
+    "vertical_shift_m": -4.501533881541192,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 622,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135156235",
+    "name": "Ho Tim Building",
+    "old_base_m": 23.860599833118652,
+    "new_base_m": 18.511978149414062,
+    "vertical_shift_m": -5.3486216837045895,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1318,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135156314",
+    "name": "Chung Chi College Staff Club",
+    "old_base_m": 22.368389668372586,
+    "new_base_m": 15.358677864074707,
+    "vertical_shift_m": -7.009711804297879,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 518,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135156315",
+    "name": "Chung Chi College Chapel",
+    "old_base_m": 31.090299094903486,
+    "new_base_m": 23.899044036865234,
+    "vertical_shift_m": -7.1912550580382515,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 800,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135181544",
+    "name": "building 135181544",
+    "old_base_m": 11.536563924653562,
+    "new_base_m": 10.758041381835938,
+    "vertical_shift_m": -0.7785225428176243,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 75,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135181545",
+    "name": "Hui Yeung Shing Building",
+    "old_base_m": 23.64991259403596,
+    "new_base_m": 26.33941650390625,
+    "vertical_shift_m": 2.6895039098702895,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 715,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135182311",
+    "name": "Kwok Sports Building",
+    "old_base_m": 35.86864256310164,
+    "new_base_m": 34.77894592285156,
+    "vertical_shift_m": -1.0896966402500752,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 682,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135190717",
+    "name": "University Health Centre",
+    "old_base_m": 77.59321132995264,
+    "new_base_m": 71.89640808105469,
+    "vertical_shift_m": -5.69680324889795,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 992,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135190718",
+    "name": "International House 3",
+    "old_base_m": 94.54104146024103,
+    "new_base_m": 92.3692855834961,
+    "vertical_shift_m": -2.171755876744939,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 473,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135190719",
+    "name": "University Guest House (Chiangs Bldg.)",
+    "old_base_m": 72.98853875864191,
+    "new_base_m": 70.63323211669922,
+    "vertical_shift_m": -2.35530664194269,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 275,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135190720",
+    "name": "Yali Guest House",
+    "old_base_m": 73.68519944166387,
+    "new_base_m": 68.62577819824219,
+    "vertical_shift_m": -5.059421243421681,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 171,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135190721",
+    "name": "Chan Kwan Tung Inter-university Hall",
+    "old_base_m": 72.79675236775765,
+    "new_base_m": 70.93156433105469,
+    "vertical_shift_m": -1.8651880367029605,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 236,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135190722",
+    "name": "Panacea Lodge",
+    "old_base_m": 104.02010349835975,
+    "new_base_m": 93.09426879882812,
+    "vertical_shift_m": -10.92583469953162,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 180,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135190723",
+    "name": "Minor Staff Quarters 3",
+    "old_base_m": 93.0947079585012,
+    "new_base_m": 91.9062728881836,
+    "vertical_shift_m": -1.1884350703176096,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 156,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135190724",
+    "name": "Minor Staff Quarters 2",
+    "old_base_m": 93.11046146995302,
+    "new_base_m": 91.59617614746094,
+    "vertical_shift_m": -1.5142853224920856,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 163,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135191009",
+    "name": "building 135191009",
+    "old_base_m": 24.153956581436386,
+    "new_base_m": 23.558589935302734,
+    "vertical_shift_m": -0.5953666461336518,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 295,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135191010",
+    "name": "University Gymnasium",
+    "old_base_m": 24.000000000000004,
+    "new_base_m": 24.000000000000004,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 326,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135191011",
+    "name": "building 135191011",
+    "old_base_m": 24.0,
+    "new_base_m": 23.64952850341797,
+    "vertical_shift_m": -0.35047149658203125,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 330,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135191012",
+    "name": "building 135191012",
+    "old_base_m": 24.0,
+    "new_base_m": 24.0,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 171,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135191014",
+    "name": "building 135191014",
+    "old_base_m": 24.558956333432732,
+    "new_base_m": 23.680612564086914,
+    "vertical_shift_m": -0.8783437693458183,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 304,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135191015",
+    "name": "building 135191015",
+    "old_base_m": 24.927556066812723,
+    "new_base_m": 23.471139907836914,
+    "vertical_shift_m": -1.4564161589758093,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 321,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135191897",
+    "name": "Bethlehem Hall",
+    "old_base_m": 140.3480712140459,
+    "new_base_m": 139.70089721679688,
+    "vertical_shift_m": -0.6471739972490127,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 575,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135193164",
+    "name": "Tsang Shiu Tim Building",
+    "old_base_m": 140.69584207287005,
+    "new_base_m": 142.44715881347656,
+    "vertical_shift_m": 1.7513167406065122,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 610,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135193165",
+    "name": "Chan Chun Ha Hostel",
+    "old_base_m": 136.1433617508594,
+    "new_base_m": 105.3033218383789,
+    "vertical_shift_m": -30.840039912480506,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 979,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135193166",
+    "name": "Wu Chung Multimedia Library",
+    "old_base_m": 142.5813147087172,
+    "new_base_m": 140.7733917236328,
+    "vertical_shift_m": -1.8079229850843888,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 916,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135193913",
+    "name": "Cheung Chuk Shan Amenities Building",
+    "old_base_m": 140.0010439690995,
+    "new_base_m": 140.0010439690995,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1708,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135193917",
+    "name": "Hang Seng Hall",
+    "old_base_m": 97.18351267448142,
+    "new_base_m": 98.53801727294922,
+    "vertical_shift_m": 1.3545045984677984,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 797,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135264056",
+    "name": "International House 1",
+    "old_base_m": 74.29158608330312,
+    "new_base_m": 73.12545776367188,
+    "vertical_shift_m": -1.166128319631241,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 454,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135264058",
+    "name": "U.C. Staff Residence",
+    "old_base_m": 78.3878185101331,
+    "new_base_m": 73.08268737792969,
+    "vertical_shift_m": -5.305131132203414,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 408,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135264060",
+    "name": "Postgraduate Hall No. 5",
+    "old_base_m": 74.00122162983983,
+    "new_base_m": 63.97391891479492,
+    "vertical_shift_m": -10.027302715044911,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 409,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135264063",
+    "name": "Postgraduate Hall No. 6",
+    "old_base_m": 72.90146892089355,
+    "new_base_m": 63.95330047607422,
+    "vertical_shift_m": -8.94816844481933,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 407,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135264066",
+    "name": "Postgraduate Hall No. 4",
+    "old_base_m": 73.0,
+    "new_base_m": 73.0,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 429,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135264069",
+    "name": "International House 2",
+    "old_base_m": 73.96940072463536,
+    "new_base_m": 73.12205505371094,
+    "vertical_shift_m": -0.847345670924426,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 419,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135264402",
+    "name": "University Residence No. 13",
+    "old_base_m": 42.76289594015969,
+    "new_base_m": 41.674400329589844,
+    "vertical_shift_m": -1.0884956105698436,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 444,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135264404",
+    "name": "University Residence No. 15",
+    "old_base_m": 56.53029724293292,
+    "new_base_m": 59.203582763671875,
+    "vertical_shift_m": 2.6732855207389576,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 505,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135264405",
+    "name": "University Residence No. 12",
+    "old_base_m": 43.22007255711598,
+    "new_base_m": 42.12299346923828,
+    "vertical_shift_m": -1.0970790878776953,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 430,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135264901",
+    "name": "University Residence No. 10",
+    "old_base_m": 23.0,
+    "new_base_m": 21.471622467041016,
+    "vertical_shift_m": -1.5283775329589844,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 465,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135264904",
+    "name": "University Residence No. 11",
+    "old_base_m": 23.097242959548225,
+    "new_base_m": 20.867183685302734,
+    "vertical_shift_m": -2.230059274245491,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 518,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135265375",
+    "name": "University Residence No. 17",
+    "old_base_m": 24.60919588204406,
+    "new_base_m": 24.20159339904785,
+    "vertical_shift_m": -0.40760248299620727,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 684,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135265376",
+    "name": "University Residence No. 16",
+    "old_base_m": 24.220716597141347,
+    "new_base_m": 24.220716597141347,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 678,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135265380",
+    "name": "Fung King Hey Building",
+    "old_base_m": 113.837113996784,
+    "new_base_m": 110.32231903076172,
+    "vertical_shift_m": -3.5147949660222793,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1024,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135265381",
+    "name": "Leung Kau Kui Building",
+    "old_base_m": 112.30861754582547,
+    "new_base_m": 112.30861754582547,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 887,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135265382",
+    "name": "University Residence No. 14",
+    "old_base_m": 48.60210834689906,
+    "new_base_m": 48.271270751953125,
+    "vertical_shift_m": -0.33083759494593323,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 528,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135265606",
+    "name": "Benjamin Franklin Centre",
+    "old_base_m": 89.68510400392253,
+    "new_base_m": 87.79029846191406,
+    "vertical_shift_m": -1.89480554200847,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 2349,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135265607",
+    "name": "C U Head Qtrs 'A' Substation",
+    "old_base_m": 101.05374622277245,
+    "new_base_m": 96.36316680908203,
+    "vertical_shift_m": -4.690579413690415,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 183,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135265609",
+    "name": "John Fulton Centre",
+    "old_base_m": 90.68186750263078,
+    "new_base_m": 88.59335327148438,
+    "vertical_shift_m": -2.088514231146405,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 711,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135311798",
+    "name": "C.C. Staff Quarters C",
+    "old_base_m": 45.32677175475015,
+    "new_base_m": 42.62163543701172,
+    "vertical_shift_m": -2.705136317738429,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 365,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135311802",
+    "name": "Academic Building No.1",
+    "old_base_m": 55.046507300804244,
+    "new_base_m": 54.271583557128906,
+    "vertical_shift_m": -0.7749237436753376,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 428,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135311803",
+    "name": "C.C. Staff Quarters B",
+    "old_base_m": 47.274928864749725,
+    "new_base_m": 46.22954559326172,
+    "vertical_shift_m": -1.0453832714880065,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 348,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135311808",
+    "name": "William M.W. Mong Engineering Building",
+    "old_base_m": 64.56076836780865,
+    "new_base_m": 45.99644088745117,
+    "vertical_shift_m": -18.564327480357477,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1300,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135311810",
+    "name": "Theology Building",
+    "old_base_m": 57.3517528961501,
+    "new_base_m": 40.409027099609375,
+    "vertical_shift_m": -16.942725796540728,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1005,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135311814",
+    "name": "C.C. Staff Quarters A",
+    "old_base_m": 48.378941303343844,
+    "new_base_m": 47.7010498046875,
+    "vertical_shift_m": -0.6778914986563436,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 344,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135311816",
+    "name": "building 135311816",
+    "old_base_m": 50.505761221448225,
+    "new_base_m": 46.37336730957031,
+    "vertical_shift_m": -4.132393911877912,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 392,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135312912",
+    "name": "Ho Sin-Hang Engineering Building",
+    "old_base_m": 67.76451678780768,
+    "new_base_m": 65.6831283569336,
+    "vertical_shift_m": -2.0813884308740853,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1956,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135312914",
+    "name": "Security and Transport Building",
+    "old_base_m": 94.91034349321612,
+    "new_base_m": 89.30805969238281,
+    "vertical_shift_m": -5.602283800833305,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 120,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135313705",
+    "name": "Wen Lin Tang",
+    "old_base_m": 74.68496131295637,
+    "new_base_m": 62.78812026977539,
+    "vertical_shift_m": -11.896841043180984,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 410,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135315191",
+    "name": "University Residence Nos. 3",
+    "old_base_m": 106.82378034894137,
+    "new_base_m": 106.38224792480469,
+    "vertical_shift_m": -0.4415324241366818,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 509,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135716504",
+    "name": "Energy Tower 2",
+    "old_base_m": 7.2476686132381065,
+    "new_base_m": 6.673955917358398,
+    "vertical_shift_m": -0.5737126958797081,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 822,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135716505",
+    "name": "Energy Tower 1",
+    "old_base_m": 6.905564546534997,
+    "new_base_m": 6.581391334533691,
+    "vertical_shift_m": -0.32417321200130544,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 914,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135787366",
+    "name": "Academic Building No.2",
+    "old_base_m": 7.171993665147899,
+    "new_base_m": 6.609518527984619,
+    "vertical_shift_m": -0.5624751371632799,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 330,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135787368",
+    "name": "Bio-Informatics Centre",
+    "old_base_m": 6.889691135396294,
+    "new_base_m": 6.1672515869140625,
+    "vertical_shift_m": -0.7224395484822317,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 3208,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135787369",
+    "name": "Biotech Centre 1",
+    "old_base_m": 7.9675582886906735,
+    "new_base_m": 6.617125511169434,
+    "vertical_shift_m": -1.35043277752124,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 2268,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135787370",
+    "name": "Biotech Centre 2",
+    "old_base_m": 7.805191124289303,
+    "new_base_m": 6.691190242767334,
+    "vertical_shift_m": -1.114000881521969,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 2084,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135787385",
+    "name": "Hong Kong Science Park Phase 1 Car Park Building",
+    "old_base_m": 5.972286435876136,
+    "new_base_m": 5.972286435876136,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 2442,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135787386",
+    "name": "IC Development Centre",
+    "old_base_m": 6.648392732391868,
+    "new_base_m": 6.055358409881592,
+    "vertical_shift_m": -0.5930343225102765,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 2105,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135787390",
+    "name": "Photonics Centre",
+    "old_base_m": 6.766681274058008,
+    "new_base_m": 6.086334228515625,
+    "vertical_shift_m": -0.6803470455423826,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 3150,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135787393",
+    "name": "Wireless Centre",
+    "old_base_m": 7.014662936112787,
+    "new_base_m": 6.20706033706665,
+    "vertical_shift_m": -0.8076025990461364,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1874,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135904004",
+    "name": "Yat Sen Hall",
+    "old_base_m": 57.01338614203617,
+    "new_base_m": 57.41960906982422,
+    "vertical_shift_m": 0.40622292778805047,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1156,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135904006",
+    "name": "Student Hostel 2 (Low Block)",
+    "old_base_m": 55.353264780015095,
+    "new_base_m": 53.6951789855957,
+    "vertical_shift_m": -1.6580857944193923,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 506,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135904506",
+    "name": "Wen Lan Tang",
+    "old_base_m": 62.21727081299123,
+    "new_base_m": 58.379703521728516,
+    "vertical_shift_m": -3.8375672912627152,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 859,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135904507",
+    "name": "Shaw College Lecture Theatre",
+    "old_base_m": 82.9646250543588,
+    "new_base_m": 80.90611267089844,
+    "vertical_shift_m": -2.058512383460368,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 904,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135904508",
+    "name": "Kuo Mou Hall",
+    "old_base_m": 77.45104403136975,
+    "new_base_m": 77.09200286865234,
+    "vertical_shift_m": -0.3590411627174035,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1628,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135904889",
+    "name": "Satellite Remote Sensing Receiving Station",
+    "old_base_m": 155.30925598088496,
+    "new_base_m": 155.80184936523438,
+    "vertical_shift_m": 0.49259338434941924,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 140,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135904890",
+    "name": "building 135904890",
+    "old_base_m": 154.84204521657625,
+    "new_base_m": 150.8168487548828,
+    "vertical_shift_m": -4.02519646169344,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 177,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135904891",
+    "name": "Fok Ying Tung Remote Sensing Science Building",
+    "old_base_m": 154.6447121281356,
+    "new_base_m": 147.8505859375,
+    "vertical_shift_m": -6.794126190635609,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1223,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135906000",
+    "name": "building 135906000",
+    "old_base_m": 10.997525068061336,
+    "new_base_m": 10.380313873291016,
+    "vertical_shift_m": -0.61721119477032,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 113,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135906001",
+    "name": "building 135906001",
+    "old_base_m": 7.0,
+    "new_base_m": 6.127682209014893,
+    "vertical_shift_m": -0.8723177909851074,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 163,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135906003",
+    "name": "Shanghai Fraternity Association Research Services Centre",
+    "old_base_m": 7.0,
+    "new_base_m": 6.202081680297852,
+    "vertical_shift_m": -0.7979183197021484,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1870,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135906004",
+    "name": "building 135906004",
+    "old_base_m": 7.0,
+    "new_base_m": 6.133548736572266,
+    "vertical_shift_m": -0.8664512634277344,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 64,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "135906005",
+    "name": "building 135906005",
+    "old_base_m": 11.0,
+    "new_base_m": 10.289595603942871,
+    "vertical_shift_m": -0.7104043960571289,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 181,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "136637847",
+    "name": "Vice-Chancellor Residence",
+    "old_base_m": 153.0,
+    "new_base_m": 152.36160278320312,
+    "vertical_shift_m": -0.638397216796875,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 468,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "138223977",
+    "name": "Wong Foo Yuan Building",
+    "old_base_m": 23.01204128973201,
+    "new_base_m": 27.513458251953125,
+    "vertical_shift_m": 4.501416962221114,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 906,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "138223978",
+    "name": "Sino Building",
+    "old_base_m": 23.000000000000004,
+    "new_base_m": 27.74655532836914,
+    "vertical_shift_m": 4.746555328369137,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 726,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "138223979",
+    "name": "Chen Kou Bun Building",
+    "old_base_m": 23.000000000000004,
+    "new_base_m": 28.70981216430664,
+    "vertical_shift_m": 5.709812164306637,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 939,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "174133698",
+    "name": "Ho Tim Hall",
+    "old_base_m": 58.967930818331666,
+    "new_base_m": 54.726280212402344,
+    "vertical_shift_m": -4.241650605929323,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 615,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "174133703",
+    "name": "Lee Quo Wei Hall",
+    "old_base_m": 54.1286588589578,
+    "new_base_m": 54.1286588589578,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 519,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "174133709",
+    "name": "University Administration Building",
+    "old_base_m": 98.39364914840561,
+    "new_base_m": 95.81218719482422,
+    "vertical_shift_m": -2.581461953581396,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1066,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "174133712",
+    "name": "Xuesi Hall",
+    "old_base_m": 140.6487082915725,
+    "new_base_m": 139.76095581054688,
+    "vertical_shift_m": -0.8877524810256148,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 574,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "174133716",
+    "name": "building 174133716",
+    "old_base_m": 31.164287376921443,
+    "new_base_m": 25.60411262512207,
+    "vertical_shift_m": -5.560174751799373,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 784,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "174307328",
+    "name": "Science Park Road Public Toilet",
+    "old_base_m": 7.227026230238343,
+    "new_base_m": 7.227026230238343,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 47,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "185253514",
+    "name": "Hyatt Regency Hong Kong, Sha Tin",
+    "old_base_m": 16.80861718351721,
+    "new_base_m": 15.273454666137695,
+    "vertical_shift_m": -1.535162517379515,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 3422,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "185266978",
+    "name": "building 185266978",
+    "old_base_m": 19.964712110148277,
+    "new_base_m": 7.939599514007568,
+    "vertical_shift_m": -12.025112596140708,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 712,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "185266979",
+    "name": "Cheng Yu Tung Building",
+    "old_base_m": 18.705334316903844,
+    "new_base_m": 6.5823469161987305,
+    "vertical_shift_m": -12.122987400705114,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 740,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "185740160",
+    "name": "Y.C. Liang Hall",
+    "old_base_m": 101.30022057801195,
+    "new_base_m": 100.5380630493164,
+    "vertical_shift_m": -0.7621575286955391,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 728,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "188010213",
+    "name": "Li Dak Sum Building",
+    "old_base_m": 111.6740764858288,
+    "new_base_m": 103.16346740722656,
+    "vertical_shift_m": -8.510609078602243,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 431,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "188010216",
+    "name": "Lee Shau Kee Building",
+    "old_base_m": 111.40862055259248,
+    "new_base_m": 103.02610778808594,
+    "vertical_shift_m": -8.382512764506544,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 2433,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "191713160",
+    "name": "Li Dak Sum Yip Yio Chin Building",
+    "old_base_m": 101.0,
+    "new_base_m": 101.27565002441406,
+    "vertical_shift_m": 0.2756500244140625,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1314,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "193128663",
+    "name": "Maurice R. Greenberg Building",
+    "old_base_m": 59.0,
+    "new_base_m": 58.55560302734375,
+    "vertical_shift_m": -0.44439697265625,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 808,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "194547399",
+    "name": "C. W. Chu College",
+    "old_base_m": 28.34196369805293,
+    "new_base_m": 18.81706428527832,
+    "vertical_shift_m": -9.524899412774609,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1427,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "194547400",
+    "name": "North Block, Lee Woo Sing College",
+    "old_base_m": 100.22247440690708,
+    "new_base_m": 75.90117645263672,
+    "vertical_shift_m": -24.321297954270364,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 612,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "194547401",
+    "name": "Wu Yee Sun College",
+    "old_base_m": 96.05205530876233,
+    "new_base_m": 94.62632751464844,
+    "vertical_shift_m": -1.4257277941138966,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1838,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "194547402",
+    "name": "Dorothy and Ti-Hua Koo Building",
+    "old_base_m": 101.0,
+    "new_base_m": 87.04916381835938,
+    "vertical_shift_m": -13.950836181640625,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 578,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "198965332",
+    "name": "building 198965332",
+    "old_base_m": 8.622326495454463,
+    "new_base_m": 6.696987628936768,
+    "vertical_shift_m": -1.925338866517695,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 135,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "198965333",
+    "name": "building 198965333",
+    "old_base_m": 7.761928729848167,
+    "new_base_m": 7.045684814453125,
+    "vertical_shift_m": -0.716243915395042,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 135,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "198965334",
+    "name": "building 198965334",
+    "old_base_m": 7.49100087754667,
+    "new_base_m": 6.92430305480957,
+    "vertical_shift_m": -0.5666978227370993,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 229,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "201907977",
+    "name": "Lee Shau Kee Architecture Building",
+    "old_base_m": 32.90717986702029,
+    "new_base_m": 11.747541427612305,
+    "vertical_shift_m": -21.159638439407985,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1604,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "201907981",
+    "name": "Yasumoto International Academic Park",
+    "old_base_m": 23.926007421182533,
+    "new_base_m": 16.89723777770996,
+    "vertical_shift_m": -7.028769643472572,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1020,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "201907994",
+    "name": "Wu Ho Man Yuen Building",
+    "old_base_m": 34.88366955121106,
+    "new_base_m": 22.507789611816406,
+    "vertical_shift_m": -12.37587993939465,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1194,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "204545720",
+    "name": "Ma Liu Shui off Tolo Highway Public Toilet",
+    "old_base_m": 7.531268598109846,
+    "new_base_m": 5.436383247375488,
+    "vertical_shift_m": -2.0948853507343577,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 76,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "219389532",
+    "name": "President Chi-tung Yung Memorial Building",
+    "old_base_m": 41.035391331977564,
+    "new_base_m": 28.547382354736328,
+    "vertical_shift_m": -12.488008977241236,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 673,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "230129212",
+    "name": "Pommerenke Student Centre",
+    "old_base_m": 13.81252024349613,
+    "new_base_m": 11.52187728881836,
+    "vertical_shift_m": -2.29064295467777,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 2032,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "230172683",
+    "name": "Dangerous Goods Stores",
+    "old_base_m": 13.036706494551614,
+    "new_base_m": 12.474116325378418,
+    "vertical_shift_m": -0.5625901691731965,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 895,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "230185998",
+    "name": "Morningside College",
+    "old_base_m": 58.66894117518793,
+    "new_base_m": 52.607696533203125,
+    "vertical_shift_m": -6.061244641984807,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 2787,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "255891590",
+    "name": "Hong Kong Institute of Biotechnology",
+    "old_base_m": 7.0,
+    "new_base_m": 6.567290306091309,
+    "vertical_shift_m": -0.4327096939086914,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1603,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "255891597",
+    "name": "Marine Science Laboratory The Chinese University of Hong Kong",
+    "old_base_m": 6.872314710789152,
+    "new_base_m": 5.836167812347412,
+    "vertical_shift_m": -1.0361468984417401,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 748,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "255891621",
+    "name": "building 255891621",
+    "old_base_m": 7.0,
+    "new_base_m": 6.552724361419678,
+    "vertical_shift_m": -0.44727563858032227,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1276,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "323784938",
+    "name": "building 323784938",
+    "old_base_m": 7.455115102142848,
+    "new_base_m": 6.827193737030029,
+    "vertical_shift_m": -0.6279213651128188,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 2585,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "323784989",
+    "name": "15W",
+    "old_base_m": 7.591635271535905,
+    "new_base_m": 6.822236061096191,
+    "vertical_shift_m": -0.7693992104397136,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 2261,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "421850856",
+    "name": "Chan Chun Ha Hall",
+    "old_base_m": 55.9608056011791,
+    "new_base_m": 46.89339828491211,
+    "vertical_shift_m": -9.067407316266994,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 855,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "421937237",
+    "name": "Lady Ho Tung Hall",
+    "old_base_m": 80.973945369572,
+    "new_base_m": 73.96197509765625,
+    "vertical_shift_m": -7.011970271915743,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 185,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "437402398",
+    "name": "Estate and Management Building Annex",
+    "old_base_m": 56.52918295380185,
+    "new_base_m": 52.036415100097656,
+    "vertical_shift_m": -4.492767853704194,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 240,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "448483643",
+    "name": "Pak Shek Kok Sewage Pumping Station No.3",
+    "old_base_m": 7.62107780251174,
+    "new_base_m": 6.825372695922852,
+    "vertical_shift_m": -0.7957051065888887,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 339,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "448483645",
+    "name": "Tolo Highway / Fanling Highway TCSS Communication Hub No.1",
+    "old_base_m": 7.673529675106941,
+    "new_base_m": 6.923279285430908,
+    "vertical_shift_m": -0.7502503896760331,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 68,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "519120429",
+    "name": "University Station Cycling Entry/Exit Hub",
+    "old_base_m": 7.781838682812781,
+    "new_base_m": 5.480000019073486,
+    "vertical_shift_m": -2.3018386637392947,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 120,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "519120430",
+    "name": "building 519120430",
+    "old_base_m": 10.583917054436988,
+    "new_base_m": 5.125452041625977,
+    "vertical_shift_m": -5.458465012811011,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1980,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "519120431",
+    "name": "building 519120431",
+    "old_base_m": 9.92105774713567,
+    "new_base_m": 5.526544570922852,
+    "vertical_shift_m": -4.3945131762128185,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 106,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527852758",
+    "name": "building 527852758",
+    "old_base_m": 72.6867046130269,
+    "new_base_m": 70.71367645263672,
+    "vertical_shift_m": -1.9730281603901858,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 66,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527852759",
+    "name": "building 527852759",
+    "old_base_m": 48.09965475092919,
+    "new_base_m": 46.7958984375,
+    "vertical_shift_m": -1.30375631342919,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 35,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527852767",
+    "name": "building 527852767",
+    "old_base_m": 44.966409180261024,
+    "new_base_m": 43.63969421386719,
+    "vertical_shift_m": -1.326714966393837,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 36,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527852768",
+    "name": "Li's Ancestral Hall",
+    "old_base_m": 45.23258361000252,
+    "new_base_m": 44.18202209472656,
+    "vertical_shift_m": -1.0505615152759589,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 152,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527853432",
+    "name": "building 527853432",
+    "old_base_m": 121.4427666908023,
+    "new_base_m": 119.05534362792969,
+    "vertical_shift_m": -2.387423062872614,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 74,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527853433",
+    "name": "building 527853433",
+    "old_base_m": 121.35327000350674,
+    "new_base_m": 120.52177429199219,
+    "vertical_shift_m": -0.8314957115145489,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 74,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527853434",
+    "name": "building 527853434",
+    "old_base_m": 120.20761094282851,
+    "new_base_m": 123.56840515136719,
+    "vertical_shift_m": 3.360794208538678,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 83,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527854080",
+    "name": "building 527854080",
+    "old_base_m": 103.7251995868042,
+    "new_base_m": 103.13442993164062,
+    "vertical_shift_m": -0.5907696551635695,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 30,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527854081",
+    "name": "building 527854081",
+    "old_base_m": 103.69297100279235,
+    "new_base_m": 102.98466491699219,
+    "vertical_shift_m": -0.7083060858001602,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 25,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527854082",
+    "name": "building 527854082",
+    "old_base_m": 103.3825846471849,
+    "new_base_m": 102.81747436523438,
+    "vertical_shift_m": -0.565110281950524,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 26,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527854083",
+    "name": "Yau's Ancestral Hall",
+    "old_base_m": 103.24501174049222,
+    "new_base_m": 102.56900024414062,
+    "vertical_shift_m": -0.6760114963515917,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 76,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527854809",
+    "name": "building 527854809",
+    "old_base_m": 21.678233467942142,
+    "new_base_m": 17.83141326904297,
+    "vertical_shift_m": -3.8468201988991737,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 40,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527854810",
+    "name": "building 527854810",
+    "old_base_m": 21.931426730006528,
+    "new_base_m": 17.66357421875,
+    "vertical_shift_m": -4.267852511256528,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 68,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527854811",
+    "name": "building 527854811",
+    "old_base_m": 25.829299074089914,
+    "new_base_m": 22.038536071777344,
+    "vertical_shift_m": -3.79076300231257,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 63,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527854812",
+    "name": "building 527854812",
+    "old_base_m": 21.957068802169047,
+    "new_base_m": 17.44077491760254,
+    "vertical_shift_m": -4.516293884566508,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 47,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527854813",
+    "name": "building 527854813",
+    "old_base_m": 22.00570673818694,
+    "new_base_m": 17.423643112182617,
+    "vertical_shift_m": -4.582063626004324,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 42,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527854815",
+    "name": "building 527854815",
+    "old_base_m": 22.14472200380859,
+    "new_base_m": 17.840065002441406,
+    "vertical_shift_m": -4.3046570013671825,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 61,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527854816",
+    "name": "building 527854816",
+    "old_base_m": 25.220363954213575,
+    "new_base_m": 21.98169708251953,
+    "vertical_shift_m": -3.2386668716940434,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 64,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527854817",
+    "name": "building 527854817",
+    "old_base_m": 24.701212152871534,
+    "new_base_m": 21.689804077148438,
+    "vertical_shift_m": -3.0114080757230965,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 65,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527854819",
+    "name": "building 527854819",
+    "old_base_m": 20.777617494153723,
+    "new_base_m": 15.926006317138672,
+    "vertical_shift_m": -4.851611177015052,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 29,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527975230",
+    "name": "building 527975230",
+    "old_base_m": 28.93977975213459,
+    "new_base_m": 29.709766387939453,
+    "vertical_shift_m": 0.7699866358048624,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 13,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527975231",
+    "name": "building 527975231",
+    "old_base_m": 28.962634814916207,
+    "new_base_m": 29.69116973876953,
+    "vertical_shift_m": 0.7285349238533243,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 44,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527975232",
+    "name": "building 527975232",
+    "old_base_m": 13.827538741267643,
+    "new_base_m": 11.439600944519043,
+    "vertical_shift_m": -2.3879377967486004,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 65,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527975236",
+    "name": "building 527975236",
+    "old_base_m": 46.896252572707226,
+    "new_base_m": 47.62548065185547,
+    "vertical_shift_m": 0.7292280791482426,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 67,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527975237",
+    "name": "building 527975237",
+    "old_base_m": 46.86871557908411,
+    "new_base_m": 47.597476959228516,
+    "vertical_shift_m": 0.7287613801444053,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 65,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527975238",
+    "name": "building 527975238",
+    "old_base_m": 42.68558757196118,
+    "new_base_m": 43.23733901977539,
+    "vertical_shift_m": 0.5517514478142118,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 50,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527975239",
+    "name": "building 527975239",
+    "old_base_m": 41.04739104635232,
+    "new_base_m": 41.04739104635232,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 67,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527975241",
+    "name": "building 527975241",
+    "old_base_m": 35.983480454976295,
+    "new_base_m": 36.82892608642578,
+    "vertical_shift_m": 0.8454456314494863,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 59,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527975242",
+    "name": "building 527975242",
+    "old_base_m": 39.80898643670508,
+    "new_base_m": 41.118751525878906,
+    "vertical_shift_m": 1.3097650891738297,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 63,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527975243",
+    "name": "building 527975243",
+    "old_base_m": 35.66710744509473,
+    "new_base_m": 33.64818572998047,
+    "vertical_shift_m": -2.01892171511426,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 21,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527976277",
+    "name": "building 527976277",
+    "old_base_m": 59.778908426746256,
+    "new_base_m": 60.74388122558594,
+    "vertical_shift_m": 0.9649727988396819,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 64,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527976361",
+    "name": "building 527976361",
+    "old_base_m": 48.80087299014848,
+    "new_base_m": 49.882694244384766,
+    "vertical_shift_m": 1.0818212542362886,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 37,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "527976362",
+    "name": "building 527976362",
+    "old_base_m": 59.62196761591187,
+    "new_base_m": 60.67667007446289,
+    "vertical_shift_m": 1.05470245855102,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 62,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "544797036",
+    "name": "House of Sunny Living",
+    "old_base_m": 97.95852108760826,
+    "new_base_m": 97.3490219116211,
+    "vertical_shift_m": -0.6094991759871675,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 446,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "545777838",
+    "name": "building 545777838",
+    "old_base_m": 18.111629247718007,
+    "new_base_m": 9.260565757751465,
+    "vertical_shift_m": -8.851063489966542,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 220,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "545778814",
+    "name": "Ya Qun Lodge",
+    "old_base_m": 76.75522553584433,
+    "new_base_m": 73.7516098022461,
+    "vertical_shift_m": -3.003615733598238,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 365,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "545778815",
+    "name": "Huen Wing Ming Building",
+    "old_base_m": 75.83573142094842,
+    "new_base_m": 75.03623962402344,
+    "vertical_shift_m": -0.7994917969249826,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 451,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "667717925",
+    "name": "CUHK Jockey Club Postgraduate Hall 2",
+    "old_base_m": 10.46130163709141,
+    "new_base_m": 7.227297782897949,
+    "vertical_shift_m": -3.2340038541934604,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 680,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "667717927",
+    "name": "CUHK Jockey Club Postgraduate Hall 3",
+    "old_base_m": 8.11945810033327,
+    "new_base_m": 7.414135932922363,
+    "vertical_shift_m": -0.7053221674109071,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 697,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "667717928",
+    "name": "building 667717928",
+    "old_base_m": 8.160832529729362,
+    "new_base_m": 7.489112377166748,
+    "vertical_shift_m": -0.6717201525626137,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1685,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "667720096",
+    "name": "building 667720096",
+    "old_base_m": 11.282312997045054,
+    "new_base_m": 7.190586566925049,
+    "vertical_shift_m": -4.091726430120005,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 962,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "696387721",
+    "name": "building 696387721",
+    "old_base_m": 101.0,
+    "new_base_m": 77.2208480834961,
+    "vertical_shift_m": -23.779151916503906,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 225,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "696387728",
+    "name": "building 696387728",
+    "old_base_m": 86.50043433586357,
+    "new_base_m": 79.41372680664062,
+    "vertical_shift_m": -7.086707529222949,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 120,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "696387736",
+    "name": "Orchid Lodge",
+    "old_base_m": 24.799784675147585,
+    "new_base_m": 18.702865600585938,
+    "vertical_shift_m": -6.096919074561647,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 148,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "696387740",
+    "name": "building 696387740",
+    "old_base_m": 41.58120838852724,
+    "new_base_m": 37.25190734863281,
+    "vertical_shift_m": -4.329301039894425,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 322,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "696387742",
+    "name": "Jockey Club Postgraduate Hall No. 1",
+    "old_base_m": 29.897868670058404,
+    "new_base_m": 28.560279846191406,
+    "vertical_shift_m": -1.337588823866998,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1495,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "697781253",
+    "name": "Lion Pavilion",
+    "old_base_m": 5.9560372511001685,
+    "new_base_m": 4.7370710372924805,
+    "vertical_shift_m": -1.218966213807688,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 41,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "707149633",
+    "name": "building 707149633",
+    "old_base_m": 99.45552595113361,
+    "new_base_m": 102.1328125,
+    "vertical_shift_m": 2.677286548866391,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 65,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "707149650",
+    "name": "building 707149650",
+    "old_base_m": 7.0,
+    "new_base_m": 7.0,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 63,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "707149652",
+    "name": "building 707149652",
+    "old_base_m": 7.0,
+    "new_base_m": 7.0,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 67,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "707149655",
+    "name": "building 707149655",
+    "old_base_m": 7.0,
+    "new_base_m": 6.717237949371338,
+    "vertical_shift_m": -0.2827620506286621,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 64,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "707149656",
+    "name": "building 707149656",
+    "old_base_m": 7.0,
+    "new_base_m": 7.0,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 65,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "709245126",
+    "name": "Ma Liu Shui Ferry Pier",
+    "old_base_m": 4.108633517979419,
+    "new_base_m": 4.108633517979419,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 0.1875,
+    "source_sample_count": 93,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "721592506",
+    "name": "building 721592506",
+    "old_base_m": 7.0,
+    "new_base_m": 7.0,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 64,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "723796955",
+    "name": "龍霞靜院",
+    "old_base_m": 9.21091746476897,
+    "new_base_m": 4.031410217285156,
+    "vertical_shift_m": -5.179507247483814,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 535,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "733045754",
+    "name": "19W",
+    "old_base_m": 8.156407514683153,
+    "new_base_m": 7.015566349029541,
+    "vertical_shift_m": -1.1408411656536117,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 3788,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "733045755",
+    "name": "17W",
+    "old_base_m": 7.408132166306538,
+    "new_base_m": 6.719078063964844,
+    "vertical_shift_m": -0.6890541023416938,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 2279,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "733045756",
+    "name": "building 733045756",
+    "old_base_m": 7.823143593465893,
+    "new_base_m": 6.873154163360596,
+    "vertical_shift_m": -0.9499894301052976,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 8663,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "738386458",
+    "name": "building 738386458",
+    "old_base_m": 11.407456919244616,
+    "new_base_m": 10.830141067504883,
+    "vertical_shift_m": -0.5773158517397334,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 170,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "738386459",
+    "name": "building 738386459",
+    "old_base_m": 7.273338373676059,
+    "new_base_m": 6.81359338760376,
+    "vertical_shift_m": -0.4597449860722991,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 25,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "738395999",
+    "name": "building 738395999",
+    "old_base_m": 7.000000000000001,
+    "new_base_m": 5.8092241287231445,
+    "vertical_shift_m": -1.1907758712768564,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 66,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "744825499",
+    "name": "CUHK Satellite Remote Sensing Receiving Station (Phase 3)",
+    "old_base_m": 9.40754233494792,
+    "new_base_m": 6.36898136138916,
+    "vertical_shift_m": -3.0385609735587593,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 120,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "746662471",
+    "name": "building 746662471",
+    "old_base_m": 140.0,
+    "new_base_m": 140.0,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 127,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "746662473",
+    "name": "building 746662473",
+    "old_base_m": 139.31777006239008,
+    "new_base_m": 138.75184631347656,
+    "vertical_shift_m": -0.5659237489135194,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 33,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056962",
+    "name": "House 16",
+    "old_base_m": 81.25520665026468,
+    "new_base_m": 70.8639144897461,
+    "vertical_shift_m": -10.391292160518589,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 134,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056963",
+    "name": "House 17",
+    "old_base_m": 83.88821613423414,
+    "new_base_m": 72.66647338867188,
+    "vertical_shift_m": -11.221742745562267,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 90,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056964",
+    "name": "House 18",
+    "old_base_m": 83.98175620197357,
+    "new_base_m": 73.83735656738281,
+    "vertical_shift_m": -10.144399634590755,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 91,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056965",
+    "name": "House 19",
+    "old_base_m": 84.2452482699168,
+    "new_base_m": 74.3189926147461,
+    "vertical_shift_m": -9.926255655170706,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 90,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056966",
+    "name": "House 20",
+    "old_base_m": 84.5656745804615,
+    "new_base_m": 73.86805725097656,
+    "vertical_shift_m": -10.697617329484942,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 90,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056968",
+    "name": "House 21",
+    "old_base_m": 84.71075333491893,
+    "new_base_m": 75.0858154296875,
+    "vertical_shift_m": -9.624937905231434,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 92,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056970",
+    "name": "House 22",
+    "old_base_m": 84.42385753748516,
+    "new_base_m": 76.17105102539062,
+    "vertical_shift_m": -8.252806512094537,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 142,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056972",
+    "name": "House 23",
+    "old_base_m": 84.22630003238413,
+    "new_base_m": 75.79447174072266,
+    "vertical_shift_m": -8.431828291661475,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 142,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056973",
+    "name": "building 751056973",
+    "old_base_m": 79.5452342723428,
+    "new_base_m": 72.10520935058594,
+    "vertical_shift_m": -7.440024921756859,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 2042,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056979",
+    "name": "House 15",
+    "old_base_m": 70.86739614089416,
+    "new_base_m": 66.0735855102539,
+    "vertical_shift_m": -4.793810630640252,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 137,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056980",
+    "name": "House 13",
+    "old_base_m": 70.18100281824493,
+    "new_base_m": 65.63008117675781,
+    "vertical_shift_m": -4.550921641487122,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 95,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056981",
+    "name": "House 12",
+    "old_base_m": 70.15986387819494,
+    "new_base_m": 65.57088470458984,
+    "vertical_shift_m": -4.588979173605097,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 87,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056982",
+    "name": "House 11",
+    "old_base_m": 70.23380828554758,
+    "new_base_m": 65.55033874511719,
+    "vertical_shift_m": -4.683469540430394,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 89,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056983",
+    "name": "House 10",
+    "old_base_m": 70.53389674714843,
+    "new_base_m": 65.23348236083984,
+    "vertical_shift_m": -5.300414386308589,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 94,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056984",
+    "name": "House 9",
+    "old_base_m": 70.3684313838941,
+    "new_base_m": 65.47433471679688,
+    "vertical_shift_m": -4.89409666709723,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 87,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056985",
+    "name": "building 751056985",
+    "old_base_m": 70.71786900737459,
+    "new_base_m": 64.68791198730469,
+    "vertical_shift_m": -6.029957020069901,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 279,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056986",
+    "name": "building 751056986",
+    "old_base_m": 69.80382043064297,
+    "new_base_m": 64.15959930419922,
+    "vertical_shift_m": -5.644221126443753,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 153,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056987",
+    "name": "building 751056987",
+    "old_base_m": 69.82299212105352,
+    "new_base_m": 63.65055847167969,
+    "vertical_shift_m": -6.172433649373829,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 153,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056988",
+    "name": "building 751056988",
+    "old_base_m": 70.1528679649482,
+    "new_base_m": 63.35295867919922,
+    "vertical_shift_m": -6.799909285748981,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 166,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056989",
+    "name": "building 751056989",
+    "old_base_m": 70.2325663699629,
+    "new_base_m": 63.136749267578125,
+    "vertical_shift_m": -7.095817102384771,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 164,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056990",
+    "name": "building 751056990",
+    "old_base_m": 69.67429160758996,
+    "new_base_m": 63.341529846191406,
+    "vertical_shift_m": -6.332761761398558,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 196,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056998",
+    "name": "House 8",
+    "old_base_m": 68.09989507712763,
+    "new_base_m": 66.91636657714844,
+    "vertical_shift_m": -1.1835284999791895,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 143,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751056999",
+    "name": "House 7",
+    "old_base_m": 68.02451401387671,
+    "new_base_m": 65.82579803466797,
+    "vertical_shift_m": -2.1987159792087425,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 87,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751057000",
+    "name": "House 6",
+    "old_base_m": 68.29859855975874,
+    "new_base_m": 66.05839538574219,
+    "vertical_shift_m": -2.240203174016557,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 89,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751057001",
+    "name": "House 5",
+    "old_base_m": 68.13653609806703,
+    "new_base_m": 65.00405883789062,
+    "vertical_shift_m": -3.132477260176401,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 87,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751057002",
+    "name": "House 3",
+    "old_base_m": 67.98486495085547,
+    "new_base_m": 64.29077911376953,
+    "vertical_shift_m": -3.694085837085936,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 87,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751057003",
+    "name": "House 2",
+    "old_base_m": 67.90534297479837,
+    "new_base_m": 64.36854553222656,
+    "vertical_shift_m": -3.5367974425718103,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 94,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751057004",
+    "name": "House 1",
+    "old_base_m": 68.0355610301335,
+    "new_base_m": 64.6934814453125,
+    "vertical_shift_m": -3.3420795848209934,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 91,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751057005",
+    "name": "building 751057005",
+    "old_base_m": 67.70765968002995,
+    "new_base_m": 66.03472900390625,
+    "vertical_shift_m": -1.6729306761236984,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 274,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751057006",
+    "name": "building 751057006",
+    "old_base_m": 67.73455737333116,
+    "new_base_m": 64.12699127197266,
+    "vertical_shift_m": -3.6075661013585005,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 157,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751057007",
+    "name": "building 751057007",
+    "old_base_m": 67.77442460631607,
+    "new_base_m": 63.473655700683594,
+    "vertical_shift_m": -4.300768905632481,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 185,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751057008",
+    "name": "building 751057008",
+    "old_base_m": 67.79171400658277,
+    "new_base_m": 61.845977783203125,
+    "vertical_shift_m": -5.94573622337964,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 176,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751057009",
+    "name": "building 751057009",
+    "old_base_m": 67.72252121919024,
+    "new_base_m": 61.20315170288086,
+    "vertical_shift_m": -6.519369516309382,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 174,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751057010",
+    "name": "building 751057010",
+    "old_base_m": 67.56065827868353,
+    "new_base_m": 61.3860969543457,
+    "vertical_shift_m": -6.17456132433783,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 172,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751057011",
+    "name": "building 751057011",
+    "old_base_m": 67.15374677154557,
+    "new_base_m": 61.43589782714844,
+    "vertical_shift_m": -5.717848944397133,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 163,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751059031",
+    "name": "building 751059031",
+    "old_base_m": 81.1398342525564,
+    "new_base_m": 77.55949401855469,
+    "vertical_shift_m": -3.58034023400171,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 134,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "751059032",
+    "name": "building 751059032",
+    "old_base_m": 73.83837420648854,
+    "new_base_m": 73.83837420648854,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1732,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "772869173",
+    "name": "building 772869173",
+    "old_base_m": 24.0,
+    "new_base_m": 24.0,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 177,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "772869174",
+    "name": "Estates Management Office Building",
+    "old_base_m": 19.977328659503268,
+    "new_base_m": 18.036537170410156,
+    "vertical_shift_m": -1.9407914890931117,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 377,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "772869179",
+    "name": "building 772869179",
+    "old_base_m": 19.712804048474062,
+    "new_base_m": 19.712804048474062,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 4,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "773906092",
+    "name": "Tower 8",
+    "old_base_m": 6.4297454559238645,
+    "new_base_m": 6.4297454559238645,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 587,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "822750048",
+    "name": "building 822750048",
+    "old_base_m": 10.23891763616593,
+    "new_base_m": 8.942741394042969,
+    "vertical_shift_m": -1.2961762421229608,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 61,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "838814781",
+    "name": "building 838814781",
+    "old_base_m": 29.754590775417505,
+    "new_base_m": 27.067764282226562,
+    "vertical_shift_m": -2.6868264931909422,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 79,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "838814783",
+    "name": "building 838814783",
+    "old_base_m": 7.0,
+    "new_base_m": 7.0,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 64,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "838814784",
+    "name": "building 838814784",
+    "old_base_m": 34.175656916227055,
+    "new_base_m": 28.327260971069336,
+    "vertical_shift_m": -5.848395945157719,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 38,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "839051021",
+    "name": "building 839051021",
+    "old_base_m": 31.141896063555215,
+    "new_base_m": 23.02559471130371,
+    "vertical_shift_m": -8.116301352251504,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 168,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "885812200",
+    "name": "InnoCell",
+    "old_base_m": 7.0,
+    "new_base_m": 6.205669403076172,
+    "vertical_shift_m": -0.7943305969238281,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1261,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "887841452",
+    "name": "building 887841452",
+    "old_base_m": 11.743716962246975,
+    "new_base_m": 10.232723236083984,
+    "vertical_shift_m": -1.5109937261629902,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 29,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914897042",
+    "name": "Tower 7",
+    "old_base_m": 7.0,
+    "new_base_m": 6.043473243713379,
+    "vertical_shift_m": -0.9565267562866211,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 512,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914897043",
+    "name": "Tower 6",
+    "old_base_m": 7.0,
+    "new_base_m": 6.140917778015137,
+    "vertical_shift_m": -0.8590822219848633,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 511,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914900392",
+    "name": "Tower 10",
+    "old_base_m": 7.0,
+    "new_base_m": 7.0,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 393,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914900394",
+    "name": "Tower 1",
+    "old_base_m": 7.0,
+    "new_base_m": 6.617084980010986,
+    "vertical_shift_m": -0.38291501998901367,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 405,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914900395",
+    "name": "Tower 2",
+    "old_base_m": 6.997702845382836,
+    "new_base_m": 6.580073356628418,
+    "vertical_shift_m": -0.4176294887544181,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 285,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914900396",
+    "name": "Tower 3",
+    "old_base_m": 6.4315462868014475,
+    "new_base_m": 6.4315462868014475,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 397,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914925545",
+    "name": "building 914925545",
+    "old_base_m": 26.801508848470178,
+    "new_base_m": 23.970468521118164,
+    "vertical_shift_m": -2.8310403273520137,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 54,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914925546",
+    "name": "building 914925546",
+    "old_base_m": 26.469587212211113,
+    "new_base_m": 22.74581527709961,
+    "vertical_shift_m": -3.723771935111504,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 61,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914925547",
+    "name": "building 914925547",
+    "old_base_m": 23.945670376149046,
+    "new_base_m": 19.464895248413086,
+    "vertical_shift_m": -4.48077512773596,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 62,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914925548",
+    "name": "building 914925548",
+    "old_base_m": 20.074407797809265,
+    "new_base_m": 15.998947143554688,
+    "vertical_shift_m": -4.075460654254577,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 55,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914925549",
+    "name": "building 914925549",
+    "old_base_m": 20.19700852418249,
+    "new_base_m": 16.076576232910156,
+    "vertical_shift_m": -4.1204322912723335,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 42,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914925550",
+    "name": "building 914925550",
+    "old_base_m": 20.154211946010093,
+    "new_base_m": 16.063209533691406,
+    "vertical_shift_m": -4.091002412318687,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 34,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914925551",
+    "name": "building 914925551",
+    "old_base_m": 20.223594022988546,
+    "new_base_m": 16.06218719482422,
+    "vertical_shift_m": -4.161406828164328,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 37,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914925552",
+    "name": "building 914925552",
+    "old_base_m": 20.281430550290086,
+    "new_base_m": 16.409202575683594,
+    "vertical_shift_m": -3.872227974606492,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 50,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914925553",
+    "name": "building 914925553",
+    "old_base_m": 20.33795426262846,
+    "new_base_m": 16.901817321777344,
+    "vertical_shift_m": -3.4361369408511173,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 104,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914925554",
+    "name": "building 914925554",
+    "old_base_m": 18.348621716221892,
+    "new_base_m": 14.894194602966309,
+    "vertical_shift_m": -3.4544271132555835,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 49,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914925555",
+    "name": "building 914925555",
+    "old_base_m": 18.418593807424724,
+    "new_base_m": 14.646462440490723,
+    "vertical_shift_m": -3.7721313669340013,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 63,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914925556",
+    "name": "building 914925556",
+    "old_base_m": 18.218110757579307,
+    "new_base_m": 15.298047065734863,
+    "vertical_shift_m": -2.920063691844444,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 64,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914925557",
+    "name": "building 914925557",
+    "old_base_m": 18.13640825760742,
+    "new_base_m": 15.293150901794434,
+    "vertical_shift_m": -2.8432573558129874,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 44,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914925558",
+    "name": "building 914925558",
+    "old_base_m": 18.386151364022023,
+    "new_base_m": 15.237141609191895,
+    "vertical_shift_m": -3.1490097548301286,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 106,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914925559",
+    "name": "building 914925559",
+    "old_base_m": 18.522020355672584,
+    "new_base_m": 14.975883483886719,
+    "vertical_shift_m": -3.5461368717858655,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 65,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914925560",
+    "name": "building 914925560",
+    "old_base_m": 18.617934988180135,
+    "new_base_m": 15.091218948364258,
+    "vertical_shift_m": -3.5267160398158772,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 41,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914925561",
+    "name": "building 914925561",
+    "old_base_m": 19.093319281728355,
+    "new_base_m": 15.37183952331543,
+    "vertical_shift_m": -3.7214797584129258,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 65,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914973813",
+    "name": "Tower 13",
+    "old_base_m": 13.000401364710491,
+    "new_base_m": 6.66933536529541,
+    "vertical_shift_m": -6.331065999415081,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 474,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914973819",
+    "name": "Tower 5",
+    "old_base_m": 13.227419115436938,
+    "new_base_m": 6.690855026245117,
+    "vertical_shift_m": -6.53656408919182,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 473,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914973820",
+    "name": "Tower 3",
+    "old_base_m": 7.0,
+    "new_base_m": 6.716904640197754,
+    "vertical_shift_m": -0.2830953598022461,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 370,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914973821",
+    "name": "Tower 2",
+    "old_base_m": 7.0,
+    "new_base_m": 6.694870948791504,
+    "vertical_shift_m": -0.3051290512084961,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 645,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914973822",
+    "name": "Tower 1",
+    "old_base_m": 6.906739804815366,
+    "new_base_m": 6.534461975097656,
+    "vertical_shift_m": -0.37227782971771006,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 386,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914973823",
+    "name": "Clubhouse",
+    "old_base_m": 13.540116735751461,
+    "new_base_m": 7.085118770599365,
+    "vertical_shift_m": -6.454997965152096,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1225,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914973842",
+    "name": "Tower 3A",
+    "old_base_m": 4.982314449345267,
+    "new_base_m": -0.366669237613678,
+    "vertical_shift_m": -5.348983686958945,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 447,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "914973844",
+    "name": "Tower 1",
+    "old_base_m": 7.495560600014951,
+    "new_base_m": -0.2609798014163971,
+    "vertical_shift_m": -7.756540401431348,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 407,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "923320388",
+    "name": "building 923320388",
+    "old_base_m": 58.43155799212857,
+    "new_base_m": 56.672142028808594,
+    "vertical_shift_m": -1.7594159633199737,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 165,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "923320392",
+    "name": "building 923320392",
+    "old_base_m": 6.305228012218997,
+    "new_base_m": 5.245723724365234,
+    "vertical_shift_m": -1.0595042878537626,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 76,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "923320400",
+    "name": "building 923320400",
+    "old_base_m": 11.589015196227763,
+    "new_base_m": 10.810349464416504,
+    "vertical_shift_m": -0.7786657318112589,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 121,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "923320403",
+    "name": "Chung Chi Tang",
+    "old_base_m": 11.839241094651491,
+    "new_base_m": 11.068208694458008,
+    "vertical_shift_m": -0.7710324001934836,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1528,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "923320416",
+    "name": "building 923320416",
+    "old_base_m": 30.0,
+    "new_base_m": 27.65361785888672,
+    "vertical_shift_m": -2.3463821411132812,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1248,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "955764566",
+    "name": "building 955764566",
+    "old_base_m": 93.26354933034227,
+    "new_base_m": 91.74273681640625,
+    "vertical_shift_m": -1.520812513936022,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 9,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1000297731",
+    "name": "Kunkle Student Centre",
+    "old_base_m": 30.455482104235664,
+    "new_base_m": 19.191619873046875,
+    "vertical_shift_m": -11.263862231188789,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 653,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1000297732",
+    "name": "Leung Fung Yee Building",
+    "old_base_m": 41.838249841863686,
+    "new_base_m": 39.75273132324219,
+    "vertical_shift_m": -2.085518518621498,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 768,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1021573535",
+    "name": "building 1021573535",
+    "old_base_m": 155.46416939404702,
+    "new_base_m": 147.30909729003906,
+    "vertical_shift_m": -8.155072104007957,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 16,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1021573537",
+    "name": "building 1021573537",
+    "old_base_m": 140.5529616291273,
+    "new_base_m": 139.21408081054688,
+    "vertical_shift_m": -1.338880818580435,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 9,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1021573538",
+    "name": "building 1021573538",
+    "old_base_m": 141.77351391651317,
+    "new_base_m": 138.51629638671875,
+    "vertical_shift_m": -3.257217529794417,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 37,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1024849530",
+    "name": "Yau Chan Fei Ancestral Hall",
+    "old_base_m": 7.246034667015158,
+    "new_base_m": 8.911903381347656,
+    "vertical_shift_m": 1.6658687143324986,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 63,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1032917711",
+    "name": "building 1032917711",
+    "old_base_m": 7.0,
+    "new_base_m": 5.844334125518799,
+    "vertical_shift_m": -1.1556658744812012,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 65,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1035894228",
+    "name": "building 1035894228",
+    "old_base_m": 7.0,
+    "new_base_m": 7.0,
+    "vertical_shift_m": 0.0,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 61,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1035894230",
+    "name": "building 1035894230",
+    "old_base_m": 10.318864030537279,
+    "new_base_m": 8.948479652404785,
+    "vertical_shift_m": -1.3703843781324938,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 64,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1058569047",
+    "name": "Marina Tower 1",
+    "old_base_m": 5.0,
+    "new_base_m": 7.30067253112793,
+    "vertical_shift_m": 2.3006725311279297,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 520,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1058569048",
+    "name": "Marina Tower 2",
+    "old_base_m": 5.063229710726807,
+    "new_base_m": 7.358187675476074,
+    "vertical_shift_m": 2.2949579647492673,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 524,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1058569050",
+    "name": "Marina Tower 5",
+    "old_base_m": 3.529803164727187,
+    "new_base_m": 6.954910755157471,
+    "vertical_shift_m": 3.425107590430284,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1033,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1058569052",
+    "name": "Greenwood Tower 2",
+    "old_base_m": 3.010793893662304,
+    "new_base_m": 8.306581497192383,
+    "vertical_shift_m": 5.295787603530078,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 522,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1058569053",
+    "name": "Greenwood Tower 3",
+    "old_base_m": 3.7183524694547856,
+    "new_base_m": 7.852487087249756,
+    "vertical_shift_m": 4.13413461779497,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 518,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1058569054",
+    "name": "Greenwood Tower 6",
+    "old_base_m": 4.0,
+    "new_base_m": 7.909543991088867,
+    "vertical_shift_m": 3.909543991088867,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 560,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1058569055",
+    "name": "Greenwood Tower 5",
+    "old_base_m": 6.438852263884938,
+    "new_base_m": 7.296655178070068,
+    "vertical_shift_m": 0.8578029141851307,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 521,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1058569056",
+    "name": "Greenwood Tower 1",
+    "old_base_m": 3.7119401670660297,
+    "new_base_m": 8.35932731628418,
+    "vertical_shift_m": 4.64738714921815,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 498,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1072300300",
+    "name": "building 1072300300",
+    "old_base_m": 100.92527601370803,
+    "new_base_m": 100.02705383300781,
+    "vertical_shift_m": -0.8982221807002162,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 72,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1080920665",
+    "name": "CUHK Medical Centre",
+    "old_base_m": 6.316318361623362,
+    "new_base_m": 6.002968788146973,
+    "vertical_shift_m": -0.3133495734763896,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 13208,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1162853133",
+    "name": "building 1162853133",
+    "old_base_m": 5.7993165874657695,
+    "new_base_m": 8.383968353271484,
+    "vertical_shift_m": 2.584651765805715,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1060,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1173350220",
+    "name": "building 1173350220",
+    "old_base_m": 5.0,
+    "new_base_m": 5.828540802001953,
+    "vertical_shift_m": 0.8285408020019531,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 2581,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1201096779",
+    "name": "building 1201096779",
+    "old_base_m": 121.09373619905762,
+    "new_base_m": 119.00186157226562,
+    "vertical_shift_m": -2.0918746267919914,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 75,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1201096780",
+    "name": "building 1201096780",
+    "old_base_m": 117.8477652415225,
+    "new_base_m": 123.56295013427734,
+    "vertical_shift_m": 5.7151848927548485,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 88,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1201096781",
+    "name": "building 1201096781",
+    "old_base_m": 119.27628478541544,
+    "new_base_m": 120.44597625732422,
+    "vertical_shift_m": 1.1696914719087772,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 72,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1209315213",
+    "name": "building 1209315213",
+    "old_base_m": 9.420851803549834,
+    "new_base_m": 9.802496910095215,
+    "vertical_shift_m": 0.3816451065453812,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 14,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1230610505",
+    "name": "building 1230610505",
+    "old_base_m": 7.441577799580558,
+    "new_base_m": 5.8152055740356445,
+    "vertical_shift_m": -1.6263722255449133,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 109,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1230610506",
+    "name": "building 1230610506",
+    "old_base_m": 7.965352915590681,
+    "new_base_m": 5.918732166290283,
+    "vertical_shift_m": -2.0466207493003976,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 49,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1243363293",
+    "name": "Mei Yun Tang",
+    "old_base_m": 130.85205547774876,
+    "new_base_m": 124.37062072753906,
+    "vertical_shift_m": -6.481434750209701,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1914,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1255479559",
+    "name": "building 1255479559",
+    "old_base_m": 6.372870298704972,
+    "new_base_m": 5.575140953063965,
+    "vertical_shift_m": -0.7977293456410068,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 25,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1255479560",
+    "name": "building 1255479560",
+    "old_base_m": 6.467486353805266,
+    "new_base_m": 5.740191459655762,
+    "vertical_shift_m": -0.7272948941495043,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 25,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1328114548",
+    "name": "Centralized General Research Laboratory Complex (Block 2)",
+    "old_base_m": 7.248767588216341,
+    "new_base_m": 2.875520706176758,
+    "vertical_shift_m": -4.373246882039584,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 3020,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1344748884",
+    "name": "Choi Kai Yau Residence",
+    "old_base_m": 140.56816466985936,
+    "new_base_m": 142.10536193847656,
+    "vertical_shift_m": 1.5371972686172057,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1344,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1349568933",
+    "name": "building 1349568933",
+    "old_base_m": 40.89744098259874,
+    "new_base_m": 36.96021270751953,
+    "vertical_shift_m": -3.9372282750792067,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 368,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1370428885",
+    "name": "building 1370428885",
+    "old_base_m": 7.0,
+    "new_base_m": 6.440544128417969,
+    "vertical_shift_m": -0.5594558715820312,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 134,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1370428886",
+    "name": "building 1370428886",
+    "old_base_m": 7.015422290912722,
+    "new_base_m": 6.205812454223633,
+    "vertical_shift_m": -0.8096098366890896,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 16,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1370428887",
+    "name": "building 1370428887",
+    "old_base_m": 7.0,
+    "new_base_m": 6.494112968444824,
+    "vertical_shift_m": -0.5058870315551758,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 42,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1376955188",
+    "name": "building 1376955188",
+    "old_base_m": 102.30786223674009,
+    "new_base_m": 106.02365112304688,
+    "vertical_shift_m": 3.7157888863067825,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 472,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1424777851",
+    "name": "Teaching - Research Complex",
+    "old_base_m": 6.35847846423629,
+    "new_base_m": 3.7370662689208984,
+    "vertical_shift_m": -2.6214121953153917,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 4929,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1424818901",
+    "name": "building 1424818901",
+    "old_base_m": 42.06928046878696,
+    "new_base_m": 38.05949401855469,
+    "vertical_shift_m": -4.009786450232269,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 409,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1424818902",
+    "name": "building 1424818902",
+    "old_base_m": 41.838249841863686,
+    "new_base_m": 40.144775390625,
+    "vertical_shift_m": -1.6934744512386857,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 335,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1424818905",
+    "name": "building 1424818905",
+    "old_base_m": 29.745668455216475,
+    "new_base_m": 15.291659355163574,
+    "vertical_shift_m": -14.4540091000529,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 359,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1424818906",
+    "name": "building 1424818906",
+    "old_base_m": 33.215569775517395,
+    "new_base_m": 13.34771728515625,
+    "vertical_shift_m": -19.867852490361145,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 586,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1424818907",
+    "name": "building 1424818907",
+    "old_base_m": 33.50500705611344,
+    "new_base_m": 12.604784965515137,
+    "vertical_shift_m": -20.900222090598305,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 394,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1424900699",
+    "name": "East Wing",
+    "old_base_m": 98.79645712375182,
+    "new_base_m": 95.79894256591797,
+    "vertical_shift_m": -2.9975145578338527,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 570,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1424900700",
+    "name": "West Wing",
+    "old_base_m": 100.21244824770896,
+    "new_base_m": 97.55390167236328,
+    "vertical_shift_m": -2.6585465753456816,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 702,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1424900701",
+    "name": "Lo Kwee Seong Pavilion",
+    "old_base_m": 96.67104960653496,
+    "new_base_m": 90.90184020996094,
+    "vertical_shift_m": -5.769209396574027,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1101,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1554329277",
+    "name": "Science Park Road Public Toilet",
+    "old_base_m": 7.743889009698412,
+    "new_base_m": 7.142330169677734,
+    "vertical_shift_m": -0.6015588400206777,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 47,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "1806438",
+    "name": "Lady Shaw Building",
+    "old_base_m": 91.0,
+    "new_base_m": 84.94430541992188,
+    "vertical_shift_m": -6.055694580078125,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 3195,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "2096073",
+    "name": "Institute of Chinese Studies",
+    "old_base_m": 100.95699331922782,
+    "new_base_m": 98.92383575439453,
+    "vertical_shift_m": -2.0331575648332887,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1220,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "2325105",
+    "name": "Adam Schall Residence",
+    "old_base_m": 140.96490351244725,
+    "new_base_m": 137.80184936523438,
+    "vertical_shift_m": -3.1630541472128755,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1930,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "2532440",
+    "name": "Lo Kwee Seong Integrated Biomedical Sciences Building",
+    "old_base_m": 7.0,
+    "new_base_m": 6.519012451171875,
+    "vertical_shift_m": -0.480987548828125,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 1902,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "2712284",
+    "name": "building 2712284",
+    "old_base_m": 21.92466175971524,
+    "new_base_m": 17.367359161376953,
+    "vertical_shift_m": -4.5573025983382855,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 4735,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "3086286",
+    "name": "T.C. Cheng Building",
+    "old_base_m": 143.3345229875033,
+    "new_base_m": 141.89138793945312,
+    "vertical_shift_m": -1.4431350480501806,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 2151,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "10266054",
+    "name": "building 10266054",
+    "old_base_m": 101.00992302728015,
+    "new_base_m": 77.51174926757812,
+    "vertical_shift_m": -23.498173759702027,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 3077,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  },
+  {
+    "osm_id": "15728037",
+    "name": "Silicon Lane",
+    "old_base_m": 4.696617146719128,
+    "new_base_m": 7.83028507232666,
+    "vertical_shift_m": 3.133667925607532,
+    "valid_source_fraction": 1.0,
+    "source_sample_count": 5747,
+    "method": "25th percentile of valid 1m DTM samples inside OSM footprint; legacy fallback if insufficient coverage"
+  }
+]

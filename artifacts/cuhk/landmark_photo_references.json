@@ -1,0 +1,211 @@
+{
+  "accessed": "2026-09-10",
+  "scope": "CUHK Sha Tin, Hong Kong; excludes CUHK Shenzhen",
+  "method": "agent-reach Exa discovery; primary CUHK/development office/donor pages; downloaded reference photographs visually inspected with view_image. Images are reference only, not texture maps.",
+  "accuracy": "Facade and silhouette approximations from photographs. OSM footprints and tagged dimensions remain the georeferencing basis; unseen elevations and estimated dimensions are not surveyed.",
+  "buildings": [
+    {
+      "osm_id": "134410449",
+      "name": "University Library",
+      "name_zh": "大學圖書館",
+      "source_page": "https://scs-hd.scs.cuhk.edu.hk/en/facilities/index.html",
+      "image_url": "https://scs-hd.scs.cuhk.edu.hk/filemanager/en/content_13/02-CUHK-Library-2022.jpg",
+      "photo_local": "C:/Users/Amadeus/.agent-reach/cuhk/landmarks/library.jpg",
+      "photo_date": "2022 inferred from image filename, capture date unverified",
+      "visually_inspected": true,
+      "visual_evidence": "White flat-roof volume; two visible stacked rows of very narrow tall dark slit windows on deeply ribbed upper facade. Upper block projects beyond recessed lower volume; broad unbroken horizontal middle fascia; scattered long slits on lower facade; thin white rectangular entrance canopy on posts. Blue-green glazed extension beside original building.",
+      "parameters": {
+        "roof": "flat parapet",
+        "wall_rgb": [
+          0.84,
+          0.85,
+          0.82
+        ],
+        "upper_slit_width_ratio": 0.012,
+        "upper_window_rows": 2,
+        "upper_rib_bays": 20,
+        "upper_block_height_ratio": 0.49,
+        "base_setback_ratio": 0.06,
+        "front_direction": "east toward University Mall",
+        "height_estimate_m": 19
+      },
+      "text_evidence": "Official Library page states original building was five storeys; https://www.lib.cuhk.edu.hk/libraries/ul/",
+      "uncertainty": "19m is an explicit visual height estimate using five-storey history, not measured. Extension is separately mapped and must not be duplicated by a second large annex box. Slit count varies by elevation; model rhythm is approximate."
+    },
+    {
+      "osm_id": "107139030",
+      "name": "Sir Run Run Shaw Hall",
+      "name_zh": "邵逸夫堂",
+      "source_page": "https://www.shawfoundationhk.org/tc/project-a-lasting-partnership-with-cuhk.html",
+      "image_url": "https://www.shawfoundationhk.org/assets/images/project-cuhk-sir-run-run-shaw-hall-2.jpg",
+      "photo_local": "C:/Users/Amadeus/.agent-reach/cuhk/landmarks/shaw_hall.jpg",
+      "photo_date": "unknown",
+      "visually_inspected": true,
+      "visual_evidence": "Low white/very light grey theatre, opaque walls rather than conventional office windows; dense narrow vertical ribs across the mid-height band. Massive cantilevered top fascia, strongly projecting rectangular ribs below; recessed glass entrance, thin canopy, low broad stairs. Large bilingual name across smooth wall.",
+      "parameters": {
+        "roof": "flat theatre roof",
+        "wall_rgb": [
+          0.8,
+          0.82,
+          0.79
+        ],
+        "rib_band_rgb": [
+          0.45,
+          0.49,
+          0.49
+        ],
+        "regular_windows": false,
+        "rib_band_height_ratio": 0.26,
+        "projecting_beams": 5,
+        "height_estimate_m": 13
+      },
+      "uncertainty": "Theatre interior volume not a normal storey count; roof equipment and back elevation are unseen. Do not create random orange roofs or a full grid of windows."
+    },
+    {
+      "osm_id": "134410450",
+      "name": "University Science Centre",
+      "name_zh": "科學館",
+      "source_page": "https://www.cuhk.edu.hk/research/hfchow/HFC_NewWeb/Photo.htm",
+      "image_url": "https://www.cuhk.edu.hk/research/hfchow/HFC_NewWeb/Photos/IMG_4661.JPG",
+      "photo_local": "C:/Users/Amadeus/.agent-reach/cuhk/landmarks/science.jpg",
+      "photo_date": "unknown; page updated 2015-12-10",
+      "visually_inspected": true,
+      "visual_evidence": "Symmetric projecting semicircular/faceted auditorium facing University Mall, known as rice cooker. White-grey concrete top rim and low curved balcony band; deeply recessed dark/open middle, central rectangular emblem panel, strong vertical ribs continuing into tapered/radial underside beams; central dark cylindrical support/core with open passage around.",
+      "parameters": {
+        "roof": "flat polygonal auditorium cap",
+        "wall_rgb": [
+          0.66,
+          0.68,
+          0.64
+        ],
+        "front_direction": "west toward University Mall",
+        "faceted_segments": 12,
+        "top_rim_height_ratio": 0.14,
+        "lower_band_height_ratio": 0.12,
+        "support_radius_ratio": 0.28,
+        "height_estimate_m": 12
+      },
+      "uncertainty": "Only central auditorium represented by this OSM ID. North wing Charles Kuen Kao 134410446, south wing Ma Lin 134410451, East Block 134410447 are distinct and must not receive the auditorium geometry. Backside and structural dimensions are approximate."
+    },
+    {
+      "osm_id": "134410447",
+      "name": "Science Centre East Block",
+      "name_zh": "科學館東座",
+      "source_page": "https://www.cuhk.edu.hk/english/campus/cuhk-campus-map.html?buildingcode=H10a",
+      "image_url": "https://www.cuhk.edu.hk/english/images/campus/photos/large/buildings/16.jpg",
+      "photo_local": "C:/Users/Amadeus/.agent-reach/cuhk/photo_sources/photos/official_16.jpg",
+      "photo_date": "unknown",
+      "visually_inspected": true,
+      "visual_evidence": "Grey concrete slab facade with rectangular metal-framed glazing in continuous repetitive horizontal rows, projecting window AC units, strong slab bands; multi-level open corridor bridges connect to wing, large arch-ended ground passage and vertical solid service strip.",
+      "parameters": {
+        "roof": "flat",
+        "wall_rgb": [
+          0.57,
+          0.58,
+          0.54
+        ],
+        "window_band": "horizontal",
+        "ac_units": true
+      },
+      "uncertainty": "Image is partial courtyard view; visible rows do not establish whole building floor count."
+    },
+    {
+      "osm_id": "201907977",
+      "name": "Lee Shau Kee Architecture Building",
+      "name_zh": "李兆基建築學大樓",
+      "source_page": "https://www.cdo.cuhk.edu.hk/portfolio/lee-shau-kee-architecture-building/",
+      "image_url": "https://www.cdo.cuhk.edu.hk/wp-content/uploads/2021/07/AITB-Merit2-1.jpg",
+      "photo_local": "C:/Users/Amadeus/.agent-reach/cuhk/landmarks/architecture.jpg",
+      "photo_date": "unknown; hosted 2021",
+      "visually_inspected": true,
+      "visual_evidence": "Large bright white rectilinear frame box raised on robust square pilotis on railway-facing slope. Long flank: paired stacked tall window rows within dense vertical white fins, with a broad blank wall section at one end. Short end: deep loggia/cavity with inset glazing and vertical fins. Flat roof terrace with glass balustrade; dark grey solid setback rooftop block.",
+      "parameters": {
+        "roof": "flat planted terrace with recessed upper volume",
+        "wall_rgb": [
+          0.83,
+          0.84,
+          0.8
+        ],
+        "frame_height_ratio": 0.52,
+        "pilotis_height_ratio": 0.29,
+        "roof_block_rgb": [
+          0.24,
+          0.25,
+          0.24
+        ],
+        "roof_block_width_ratio": 0.55,
+        "fins": 26,
+        "window_rows": 2
+      },
+      "uncertainty": "OSM 7 levels is retained but elevation has double-height/combined volumes, not seven identical facade rows. Different from Lee Shau Kee Building 188010216."
+    },
+    {
+      "osm_id": "201907981",
+      "name": "Yasumoto International Academic Park",
+      "name_zh": "康本國際學術園",
+      "source_page": "https://www.iso.cuhk.edu.hk/english/publications/newsletter/article.aspx?articleid=55915",
+      "image_url": "https://www.iso.cuhk.edu.hk/images/publication/archive/newsletter/413/original/YIA_512.jpg",
+      "photo_local": "C:/Users/Amadeus/.agent-reach/cuhk/landmarks/yia.jpg",
+      "photo_date": "2013 official opening article; capture date unknown",
+      "visually_inspected": true,
+      "visual_evidence": "Tall white slab tower, very regular rectangular structural grid framing recessed blue-grey glazing, horizontal white floor bands and thin horizontal shading ledges. Lower entrance plaza is a glazed, lower scale multi-level wing. Visible curved glazed circulation volume and stairs/escalators beside tower. Flat parapet roof, no pitched tiles.",
+      "parameters": {
+        "roof": "flat",
+        "wall_rgb": [
+          0.83,
+          0.85,
+          0.83
+        ],
+        "glass_rgb": [
+          0.16,
+          0.26,
+          0.29
+        ],
+        "floors": 14,
+        "height_m_osm": 66.4,
+        "tower_bays_approx": 9,
+        "horizontal_sunshades": true
+      },
+      "uncertainty": "Official article confirms 14-storey tower; 66.4m is OSM tag, not independently surveyed. Wu Ho Man Yuen is separately mapped and must not be recreated as part of this tower."
+    },
+    {
+      "osm_id": "1424900701",
+      "name": "Lo Kwee Seong Pavilion",
+      "name_zh": "羅桂祥閣",
+      "source_page": "https://www.cdo.cuhk.edu.hk/portfolio/art-museum-of-the-chinese-university-of-hong-kong-lo-kwee-seong-pavilion/",
+      "image_url": "https://www.cdo.cuhk.edu.hk/wp-content/uploads/2021/06/DSC_1704-scaled.jpg",
+      "photo_local": "C:/Users/Amadeus/.agent-reach/cuhk/landmarks/art.jpg",
+      "photo_date": "post-completion 2024/2025; URL directory 2021 does not date image",
+      "visually_inspected": true,
+      "visual_evidence": "Very large cantilevered warm-grey exposed-concrete upper gallery block above a deeply recessed glass lower floor; upper walls mostly blank with one narrow vertical opening and fine irregular vertical striations. Underside broad horizontal plane, dark floor-to-ceiling glass mullions, visible concrete V structural supports, balcony/terrace edge. Long angled external stair and angular glass-lined lower stair volume against steep slope.",
+      "parameters": {
+        "roof": "flat angled polygon",
+        "concrete_rgb": [
+          0.5,
+          0.48,
+          0.42
+        ],
+        "upper_solid_height_ratio": 0.5,
+        "glazed_lower_height_ratio": 0.25,
+        "underhang_open_height_ratio": 0.25,
+        "v_supports": true,
+        "upper_regular_windows": false,
+        "height_estimate_m": 18
+      },
+      "text_evidence": "CDO says completed 2024; official CUHK press award article states opened March 2025, 1770 sqm usable floor area, V support and formlined fairfaced concrete.",
+      "uncertainty": "The mapped old Conservation Annex name is stale history: this is the new 2025 pavilion, not traditional museum wing or Lo Kwee Seong Biomedical Building. Supporting footprint and elevation are approximate, actual slope/ground datum uncertain; do not claim 18m measured height."
+    }
+  ],
+  "not_visually_verified": [
+    {
+      "osm_id": "134410446",
+      "name": "Charles Kuen Kao Building",
+      "reason": "Exact named exterior photo not verified. Official Science Office confirms North Block identity. Preserve mapped 4 storeys; do not substitute auditorium photograph."
+    },
+    {
+      "osm_id": "134410451",
+      "name": "Ma Lin Building",
+      "reason": "Exact south-wing exterior photo not verified. Preserve mapped 4 storeys; do not substitute auditorium photograph."
+    }
+  ]
+}

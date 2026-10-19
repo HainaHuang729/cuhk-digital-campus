@@ -1,0 +1,184 @@
+[
+  {
+    "track_id": 955764574,
+    "inside_sports": [
+      {
+        "id": 170336289,
+        "tags": {
+          "goalposts": "2",
+          "leisure": "pitch",
+          "soccer": "11-a-side",
+          "sport": "soccer",
+          "surface": "grass"
+        }
+      },
+      {
+        "id": 170336290,
+        "tags": {
+          "goalposts": "2",
+          "leisure": "pitch",
+          "soccer": "11-a-side",
+          "sport": "soccer",
+          "surface": "grass"
+        }
+      },
+      {
+        "id": 174133740,
+        "tags": {
+          "leisure": "pitch",
+          "sport": "basketball"
+        }
+      },
+      {
+        "id": 174133742,
+        "tags": {
+          "leisure": "pitch",
+          "sport": "basketball"
+        }
+      },
+      {
+        "id": 174133743,
+        "tags": {
+          "leisure": "pitch",
+          "sport": "basketball"
+        }
+      },
+      {
+        "id": 955764575,
+        "tags": {
+          "leisure": "pitch",
+          "sport": "basketball"
+        }
+      },
+      {
+        "id": 955764576,
+        "tags": {
+          "leisure": "pitch",
+          "sport": "basketball"
+        }
+      },
+      {
+        "id": 955764577,
+        "tags": {
+          "leisure": "pitch",
+          "sport": "basketball"
+        }
+      }
+    ],
+    "grids": {
+      "terrain_survey_1m.npz": {
+        "count": 16807,
+        "quantiles": {
+          "min": 3.819894790649414,
+          "q05": 5.1633535861969,
+          "q25": 5.254653215408325,
+          "median": 5.334099769592285,
+          "q75": 5.451375484466553,
+          "q95": 5.606825685501098,
+          "max": 5.740102291107178
+        }
+      },
+      "terrain_platforms_1m.npz": {
+        "count": 16807,
+        "quantiles": {
+          "min": 4.86557149887085,
+          "q05": 5.253221082687378,
+          "q25": 6.0,
+          "median": 6.0,
+          "q75": 6.0,
+          "q95": 6.4832268238067625,
+          "max": 8.921141624450684
+        }
+      },
+      "terrain_roads_graded_1m.npz": {
+        "count": 16807,
+        "quantiles": {
+          "min": 0.9083201885223389,
+          "q05": 4.957065439224243,
+          "q25": 5.960743427276611,
+          "median": 6.0,
+          "q75": 6.0,
+          "q95": 6.08297152519226,
+          "max": 8.615050315856934
+        }
+      },
+      "terrain_refined_display.npz": {
+        "count": 676,
+        "quantiles": {
+          "min": 5.55555534362793,
+          "q05": 5.962242484092712,
+          "q25": 6.0,
+          "median": 6.0,
+          "q75": 6.0,
+          "q95": 8.00580883026123,
+          "max": 16.11111068725586
+        }
+      }
+    }
+  },
+  {
+    "track_id": 955764585,
+    "inside_sports": [
+      {
+        "id": 955764586,
+        "tags": {
+          "goalposts": "2",
+          "leisure": "pitch",
+          "soccer": "11-a-side",
+          "sport": "soccer",
+          "surface": "grass"
+        }
+      }
+    ],
+    "grids": {
+      "terrain_survey_1m.npz": {
+        "count": 14472,
+        "quantiles": {
+          "min": 23.07740020751953,
+          "q05": 23.51384449005127,
+          "q25": 23.5552020072937,
+          "median": 23.602962493896484,
+          "q75": 23.74176597595215,
+          "q95": 23.875708389282227,
+          "max": 23.92801284790039
+        }
+      },
+      "terrain_platforms_1m.npz": {
+        "count": 14472,
+        "quantiles": {
+          "min": 23.07740020751953,
+          "q05": 23.529389667510987,
+          "q25": 23.574216842651367,
+          "median": 23.919095039367676,
+          "q75": 24.0,
+          "q95": 24.01560401916504,
+          "max": 24.252294540405273
+        }
+      },
+      "terrain_roads_graded_1m.npz": {
+        "count": 14472,
+        "quantiles": {
+          "min": 23.07740020751953,
+          "q05": 23.529504585266114,
+          "q25": 23.574962615966797,
+          "median": 23.942039489746094,
+          "q75": 24.0,
+          "q95": 24.02895336151123,
+          "max": 24.804349899291992
+        }
+      },
+      "terrain_refined_display.npz": {
+        "count": 570,
+        "quantiles": {
+          "min": 23.55555534362793,
+          "q05": 24.0,
+          "q25": 24.0,
+          "median": 24.0,
+          "q75": 24.0,
+          "q95": 24.44444465637207,
+          "max": 27.22222137451172
+        }
+      }
+    }
+  }
+]

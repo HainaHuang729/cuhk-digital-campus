@@ -1,0 +1,118 @@
+{
+  "source": "C:\\Users\\Amadeus\\Documents\\桌游主持人\\artifacts\\cuhk\\CUHK_shaw_science_corrected.blend",
+  "status": "complete",
+  "surfaces": [
+    {
+      "osm_id": "170336289",
+      "object": "sport 170336289",
+      "vertices": 349,
+      "z_range_m": 0.0,
+      "actual_level_hkpd_m": 5.334099769592285,
+      "expected_level_hkpd_m": 5.334099769592285,
+      "max_level_error_m": 0.0,
+      "pass": true
+    },
+    {
+      "osm_id": "170336290",
+      "object": "sport 170336290",
+      "vertices": 377,
+      "z_range_m": 0.0,
+      "actual_level_hkpd_m": 5.334099769592285,
+      "expected_level_hkpd_m": 5.334099769592285,
+      "max_level_error_m": 0.0,
+      "pass": true
+    },
+    {
+      "osm_id": "174133740",
+      "object": "sport 174133740",
+      "vertices": 45,
+      "z_range_m": 0.0,
+      "actual_level_hkpd_m": 5.334099769592285,
+      "expected_level_hkpd_m": 5.334099769592285,
+      "max_level_error_m": 0.0,
+      "pass": true
+    },
+    {
+      "osm_id": "174133742",
+      "object": "sport 174133742",
+      "vertices": 45,
+      "z_range_m": 0.0,
+      "actual_level_hkpd_m": 5.334099769592285,
+      "expected_level_hkpd_m": 5.334099769592285,
+      "max_level_error_m": 0.0,
+      "pass": true
+    },
+    {
+      "osm_id": "174133743",
+      "object": "sport 174133743",
+      "vertices": 45,
+      "z_range_m": 0.0,
+      "actual_level_hkpd_m": 5.334099769592285,
+      "expected_level_hkpd_m": 5.334099769592285,
+      "max_level_error_m": 0.0,
+      "pass": true
+    },
+    {
+      "osm_id": "955764574",
+      "object": "sport 955764574",
+      "vertices": 425,
+      "z_range_m": 0.0,
+      "actual_level_hkpd_m": 5.334099769592285,
+      "expected_level_hkpd_m": 5.334099769592285,
+      "max_level_error_m": 0.0,
+      "pass": true
+    },
+    {
+      "osm_id": "955764575",
+      "object": "sport 955764575",
+      "vertices": 45,
+      "z_range_m": 0.0,
+      "actual_level_hkpd_m": 5.334099769592285,
+      "expected_level_hkpd_m": 5.334099769592285,
+      "max_level_error_m": 0.0,
+      "pass": true
+    },
+    {
+      "osm_id": "955764576",
+      "object": "sport 955764576",
+      "vertices": 45,
+      "z_range_m": 0.0,
+      "actual_level_hkpd_m": 5.334099769592285,
+      "expected_level_hkpd_m": 5.334099769592285,
+      "max_level_error_m": 0.0,
+      "pass": true
+    },
+    {
+      "osm_id": "955764577",
+      "object": "sport 955764577",
+      "vertices": 45,
+      "z_range_m": 0.0,
+      "actual_level_hkpd_m": 5.334099769592285,
+      "expected_level_hkpd_m": 5.334099769592285,
+      "max_level_error_m": 0.0,
+      "pass": true
+    },
+    {
+      "osm_id": "955764585",
+      "object": "sport 955764585",
+      "vertices": 493,
+      "z_range_m": 0.0,
+      "actual_level_hkpd_m": 23.602962493896484,
+      "expected_level_hkpd_m": 23.602962493896484,
+      "max_level_error_m": 0.0,
+      "pass": true
+    },
+    {
+      "osm_id": "955764586",
+      "object": "sport 955764586",
+      "vertices": 487,
+      "z_range_m": 0.0,
+      "actual_level_hkpd_m": 23.602962493896484,
+      "expected_level_hkpd_m": 23.602962493896484,
+      "max_level_error_m": 0.0,
+      "pass": true
+    }
+  ],
+  "surface_count": 11,
+  "all_planar_and_at_expected_levels": true
+}

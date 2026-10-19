@@ -1,0 +1,57 @@
+{
+  "files": [
+    {
+      "file": "terrain.glb",
+      "decoded_triangles": 5269222,
+      "draw_calls": 2,
+      "all_materials_double_sided": true,
+      "finite_vertices": true
+    },
+    {
+      "file": "campus.glb",
+      "decoded_triangles": 2343302,
+      "draw_calls": 1387,
+      "all_materials_double_sided": true,
+      "finite_vertices": true
+    }
+  ],
+  "building_ids_match": true,
+  "track_planes": [
+    {
+      "id": "955764574",
+      "vertices": 425,
+      "height_range_m": 0.0,
+      "max_height_error_m": 0.0
+    },
+    {
+      "id": "955764585",
+      "vertices": 493,
+      "height_range_m": 0.0,
+      "max_height_error_m": 3.814697265625e-06
+    }
+  ],
+  "material_assignment_preserved": true,
+  "used_campus_materials": 223,
+  "library_material_triangles": {
+    "M_Photo_landmarks_warm_white_concrete_92f1226f": 36,
+    "M_Photo_landmarks_recessed_blue_grey_glass_dda65e56": 1164,
+    "M_Photo_landmarks_white_sunshade_803988a1": 540,
+    "M_Photo_landmarks_roof_membrane_e2df9db1": 12
+  },
+  "shaw_science": {
+    "osm_id": "107139044",
+    "main_roof_vertices_at_111_6_m": 352,
+    "decoded_rooftop_hkpd_m": 117.5999984741211,
+    "material_triangles": {
+      "M_Photo_107139044_Wall_50eb6d46": 2379,
+      "M_Photo_FlatConcreteRoof_6dd706b7": 105,
+      "M_Photo_107139044_Accent_9026735b": 2472,
+      "M_Photo_ShadowGlazing_a20a9bd4": 180,
+      "M_Photo_Aluminium_b1d0eadc": 8220,
+      "M_Photo_OrangeFacadeFins_5c80d76f": 2508,
+      "M_Photo_LimeFacadeFins_87440459": 2160,
+      "M_Shaw_Science_charcoal_roof_plant_4ba29538": 56,
+      "M_Shaw_Science_louvre_frames_a648f3b8": 2880
+    }
+  }
+}

@@ -1,0 +1,13 @@
+**/node_modules/
+**/dist/
+**/__pycache__/
+*.pyc
+*.log
+*.pid
+*.blend1
+*.blend2
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db

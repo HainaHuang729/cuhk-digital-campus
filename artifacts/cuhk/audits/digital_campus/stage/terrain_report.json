@@ -1,0 +1,82 @@
+{
+  "source_triangles": 11520000,
+  "web_triangles": 3107723,
+  "protected_1m_blocks": 21200,
+  "total_8m_blocks": 90000,
+  "protected_area_m2": 1356800,
+  "original_diagonals_preserved_in_protected_blocks": true,
+  "shared_boundary_vertices_stitched": true,
+  "coarse_block_size_m": 8,
+  "road_triangle_bounds_protected": true,
+  "source": "C:\\Users\\Amadeus\\Documents\\桌游主持人\\artifacts\\cuhk\\CUHK_shaw_science_corrected.blend",
+  "source_unchanged": true,
+  "tiles": [
+    {
+      "file": "terrain_0_0.glb",
+      "triangles": 84379
+    },
+    {
+      "file": "terrain_0_1.glb",
+      "triangles": 125976
+    },
+    {
+      "file": "terrain_0_2.glb",
+      "triangles": 306609
+    },
+    {
+      "file": "terrain_0_3.glb",
+      "triangles": 89252
+    },
+    {
+      "file": "terrain_1_0.glb",
+      "triangles": 116320
+    },
+    {
+      "file": "terrain_1_1.glb",
+      "triangles": 200407
+    },
+    {
+      "file": "terrain_1_2.glb",
+      "triangles": 398737
+    },
+    {
+      "file": "terrain_1_3.glb",
+      "triangles": 153177
+    },
+    {
+      "file": "terrain_2_0.glb",
+      "triangles": 126445
+    },
+    {
+      "file": "terrain_2_1.glb",
+      "triangles": 207731
+    },
+    {
+      "file": "terrain_2_2.glb",
+      "triangles": 242395
+    },
+    {
+      "file": "terrain_2_3.glb",
+      "triangles": 156488
+    },
+    {
+      "file": "terrain_3_0.glb",
+      "triangles": 161547
+    },
+    {
+      "file": "terrain_3_1.glb",
+      "triangles": 369160
+    },
+    {
+      "file": "terrain_3_2.glb",
+      "triangles": 321043
+    },
+    {
+      "file": "terrain_3_3.glb",
+      "triangles": 48057
+    }
+  ],
+  "ground": "heightfield.json",
+  "protected_road_sport_shaw_heights_changed": false,
+  "other_terrain_resolution_m": 8
+}
